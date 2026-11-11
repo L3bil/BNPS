@@ -1,0 +1,95 @@
+cultureInfo en-US
+
+	linguisticMetadata =
+			{
+			  "Version": "2.0.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "themes.theme": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Themes",
+			          "ConceptualProperty": "Theme"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Thème": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "mensuel.mentions_négatives": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Mensuel",
+			          "ConceptualProperty": "Mentions négatives"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Négatifs": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "mensuel.part_négative_du_thème": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Mensuel",
+			          "ConceptualProperty": "Part négative du thème"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Part": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "mensuel.niveau_du_thème": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Mensuel",
+			          "ConceptualProperty": "Niveau du thème"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Niveau": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    }
+			  }
+			}
+		contentType: json
+

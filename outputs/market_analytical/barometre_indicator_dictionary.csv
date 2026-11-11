@@ -1,0 +1,36 @@
+﻿indicator_id,original_label,scale_min,scale_max
+baro_score_global,Score global,-600,300
+baro_satisfaction_globale,Satisfaction globale,-600,300
+baro_la_securite,La sécurité,-600,300
+baro_les_caddies,Les caddies,-600,300
+baro_le_confort_general_du_magasin,Le confort général du magasin,-600,300
+baro_la_proprete_du_magasin,La propreté du magasin,-600,300
+baro_la_circulation_dans_le_magasin,La circulation dans le magasin,-600,300
+baro_la_disponibilite_du_personnel_en_rayon,La disponibilité du personnel en rayon,-600,300
+baro_la_politesse_du_personnel_en_rayon,La pôlitesse du personnel en rayon,-600,300
+baro_disponibilite_du_personnel_dans_le_stand_coupe,Disponibilité du personnel dans le stand coupe,-600,300
+baro_la_politesse_du_personnel_dans_le_stand_coupe,La pôlitesse du personnel dans le stand coupe,-600,300
+baro_l_attente_aux_caisses,L'attente aux caisses,-600,300
+baro_la_politesse_des_hotesses_de_caisse,La pôlitesse des hôtesses de caisse,-600,300
+baro_la_disponibilite_des_apres_caisses,La disponibilité des après-caisses,-600,300
+baro_la_localisation_des_produits,La localisation des produits,-600,300
+baro_le_choix_en_alimentaire,Le choix en alimentaire,-600,300
+baro_le_choix_en_non_alimentaire,Le choix en non alimentaire,-600,300
+baro_la_disponibilite_des_produits_habituels,La disponibilité des produits habituels,-600,300
+baro_qualite_fraicheur_des_produits_fleg,Qualité fraîcheur des produits Fleg,-600,300
+baro_qualite_fraicheur_de_la_viande,Qualité fraîcheur de la viande,-600,300
+baro_qualite_fraicheur_poisson,Qualité fraîcheur poisson,-600,300
+baro_qualite_fraicheur_produits_frais_trad,Qualité fraîcheur produits frais trad,-600,300
+baro_le_reperage_des_etiquettes_prix,Le repérage des étiquettes prix,-600,300
+baro_l_exactitude_prix_entre_rayon_et_caisse,L'exactitude prix entre rayon et caisse,-600,300
+baro_les_prix_en_general,Les prix en général,-600,300
+baro_le_rapport_q_prix_produits_en_general,Le rapport Q/Prix produits en général,-600,300
+baro_prix_du_fleg,Prix du Fleg,-600,300
+baro_prix_du_poisson,Prix du poisson,-600,300
+baro_prix_des_produits_trad,Prix des produits trad,-600,300
+baro_prix_de_la_viande_volaille,Prix de la viande volaille,-600,300
+baro_prix_de_la_viande_rouge,Prix de la viande Rouge,-600,300
+baro_la_disponibilite_des_promotions,La disponibilité des promotions,-600,300
+baro_l_interet_des_promotions,L'intérêt des promotions,-600,300
+baro_la_mise_en_avant_des_promotions_en_magasin,La mise en avant des promotions en magasin,-600,300
+baro_conformite_promotions_rayon_depliant,Conformité promotions rayon/dépliant,-600,300

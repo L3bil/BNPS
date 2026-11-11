@@ -1,0 +1,731 @@
+{
+  "4f19682444661a2a6194520b86c075dd9dc0d205d9ef02c84e250f32fe15f490": [
+    {
+      "id": "kxw961QXdy",
+      "date": "12/09/2025 20:39:56",
+      "store_id": "130",
+      "verbatim": "Nous prenons souvent des brioche et des petits pains de la marque la boulangère hélas plus rien depuis plde 8 jours dommage. Alors que j ai remarqué que ses produits se vendais tres bien ",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "plus rien depuis plus de 8 jours, dommage"
+    }
+  ],
+  "f530e58fd2d75bfb1b8d8555b5db58d4b14fd12f271e35971e3219d3cb7839da": [
+    {
+      "id": "jdpww931G8",
+      "date": "21/06/2026 22:15:23",
+      "store_id": "753",
+      "verbatim": "Le bon d'achat converti ne passe pas aussi les produit en promotion ne sont pas avec les même prix à la caisse\n",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "Le bon d'achat converti ne passe pas"
+    },
+    {
+      "id": "jdpww931G8",
+      "date": "21/06/2026 22:15:23",
+      "store_id": "753",
+      "verbatim": "Le bon d'achat converti ne passe pas aussi les produit en promotion ne sont pas avec les même prix à la caisse\n",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "les produit en promotion ne sont pas avec les même prix à la caisse"
+    }
+  ],
+  "3080e70555c98abe47f17a6ff31b092f2910051c86a62e1b9419590ec6c379a2": [
+    {
+      "id": "VdvNplXEdY",
+      "date": "23/10/2025 20:24:20",
+      "store_id": "143",
+      "verbatim": "No sausages. People working on casses are lazy and slow.",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "No sausages."
+    },
+    {
+      "id": "VdvNplXEdY",
+      "date": "23/10/2025 20:24:20",
+      "store_id": "143",
+      "verbatim": "No sausages. People working on casses are lazy and slow.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "People working on casses are lazy and slow."
+    }
+  ],
+  "850b533350485083ab308276ee7c5343a33dee24b180c912c77d524fdc07d64c": [
+    {
+      "id": "j81ma1Aj8R",
+      "date": "24/03/2026 21:53:45",
+      "store_id": "179",
+      "verbatim": "Comment, à chaque fois que je demande à la boucherie de la viande hachée, on me répond qu'il n'y en a plus et n'y a plus de viande pour ça. \nEn plus, les prix affichés sur les produits ne correspondent pas à ceux à la caisse. \nMerci. ",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "on me répond qu'il n'y en a plus et n'y a plus de viande pour ça"
+    },
+    {
+      "id": "j81ma1Aj8R",
+      "date": "24/03/2026 21:53:45",
+      "store_id": "179",
+      "verbatim": "Comment, à chaque fois que je demande à la boucherie de la viande hachée, on me répond qu'il n'y en a plus et n'y a plus de viande pour ça. \nEn plus, les prix affichés sur les produits ne correspondent pas à ceux à la caisse. \nMerci. ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "les prix affichés sur les produits ne correspondent pas à ceux à la caisse"
+    }
+  ],
+  "d6fa8ad36702745d959a2a3c2270fe0113f197233accf9a9569b0754acf0b366": [
+    {
+      "id": "vdOakkkV7x",
+      "date": "04/07/2026 13:14:17",
+      "store_id": "167",
+      "verbatim": "Très bon accueil",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "Très bon accueil"
+    }
+  ],
+  "26825775ac6eac1119ee95698021ffed06a8c7771d0062c3c786cb96afd5349a": [
+    {
+      "id": "r43ARzqo8V",
+      "date": "17/02/2026 20:53:16",
+      "store_id": "212",
+      "verbatim": "1) Avant le ramadan j’ai acheté plus de Dh2119 de vin ce matin. J’avais besoin de cartons pour ranger et transporter le vin. Ni la caissière ni l’employé sécurité n’a accepté de nous aider. Nous avons du prendre les 60 bouteilles une par une et on nous a interdit de rentrer le chariot dans l’espace alcool qui etait vide à 13h. On nous refuse la carte Carrefour et l’obtention de points. Il y a un an il y avait un employé pour nous aider. Le service a beaucoup baissé.\n2) Nous avons voulu acheter des canettes de coca zero en grande quantité par barquettes de 36 canettes ou autre. Personne n’a voulu aller les chercher en reserve. De même pour les packs de bouteilles d’Oulmes par 6. Avant on nous aidait!\n3) La boucherie a beaucoup baissé sa qualité de service. Les gentils bouchers sont jeunes et ne connaissent pas la boucherie.\n3) la même chose pour la poissonnerie. Vous aviez un excellent service et maintenant les «  poissoniers » ne savent pas même nettoyer des calmars.\n4) Vos factures etaient d’excellente definition avec des classements par type de produit. Maintenant on trouve du poulet dans  Maison, des boites de mouchoirs dans Volaille et des spatules en silicone dans Biscuiterie. Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés.\nVotre hyper ne cesse de baisser de qualité de service depuis plusieurs mois. Vous avez du changer de direction. Il est temps de reprendre en main votre service aux clients ou nous irons chez vod concurrents Marjane ou Atacadao.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Ni la caissière ni l’employé sécurité n’a accepté de nous aider"
+    },
+    {
+      "id": "r43ARzqo8V",
+      "date": "17/02/2026 20:53:16",
+      "store_id": "212",
+      "verbatim": "1) Avant le ramadan j’ai acheté plus de Dh2119 de vin ce matin. J’avais besoin de cartons pour ranger et transporter le vin. Ni la caissière ni l’employé sécurité n’a accepté de nous aider. Nous avons du prendre les 60 bouteilles une par une et on nous a interdit de rentrer le chariot dans l’espace alcool qui etait vide à 13h. On nous refuse la carte Carrefour et l’obtention de points. Il y a un an il y avait un employé pour nous aider. Le service a beaucoup baissé.\n2) Nous avons voulu acheter des canettes de coca zero en grande quantité par barquettes de 36 canettes ou autre. Personne n’a voulu aller les chercher en reserve. De même pour les packs de bouteilles d’Oulmes par 6. Avant on nous aidait!\n3) La boucherie a beaucoup baissé sa qualité de service. Les gentils bouchers sont jeunes et ne connaissent pas la boucherie.\n3) la même chose pour la poissonnerie. Vous aviez un excellent service et maintenant les «  poissoniers » ne savent pas même nettoyer des calmars.\n4) Vos factures etaient d’excellente definition avec des classements par type de produit. Maintenant on trouve du poulet dans  Maison, des boites de mouchoirs dans Volaille et des spatules en silicone dans Biscuiterie. Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés.\nVotre hyper ne cesse de baisser de qualité de service depuis plusieurs mois. Vous avez du changer de direction. Il est temps de reprendre en main votre service aux clients ou nous irons chez vod concurrents Marjane ou Atacadao.",
+      "theme": "Caddies",
+      "sentiment": "negative",
+      "evidence": "on nous a interdit de rentrer le chariot dans l’espace alcool"
+    },
+    {
+      "id": "r43ARzqo8V",
+      "date": "17/02/2026 20:53:16",
+      "store_id": "212",
+      "verbatim": "1) Avant le ramadan j’ai acheté plus de Dh2119 de vin ce matin. J’avais besoin de cartons pour ranger et transporter le vin. Ni la caissière ni l’employé sécurité n’a accepté de nous aider. Nous avons du prendre les 60 bouteilles une par une et on nous a interdit de rentrer le chariot dans l’espace alcool qui etait vide à 13h. On nous refuse la carte Carrefour et l’obtention de points. Il y a un an il y avait un employé pour nous aider. Le service a beaucoup baissé.\n2) Nous avons voulu acheter des canettes de coca zero en grande quantité par barquettes de 36 canettes ou autre. Personne n’a voulu aller les chercher en reserve. De même pour les packs de bouteilles d’Oulmes par 6. Avant on nous aidait!\n3) La boucherie a beaucoup baissé sa qualité de service. Les gentils bouchers sont jeunes et ne connaissent pas la boucherie.\n3) la même chose pour la poissonnerie. Vous aviez un excellent service et maintenant les «  poissoniers » ne savent pas même nettoyer des calmars.\n4) Vos factures etaient d’excellente definition avec des classements par type de produit. Maintenant on trouve du poulet dans  Maison, des boites de mouchoirs dans Volaille et des spatules en silicone dans Biscuiterie. Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés.\nVotre hyper ne cesse de baisser de qualité de service depuis plusieurs mois. Vous avez du changer de direction. Il est temps de reprendre en main votre service aux clients ou nous irons chez vod concurrents Marjane ou Atacadao.",
+      "theme": "Carte fidélité",
+      "sentiment": "negative",
+      "evidence": "On nous refuse la carte Carrefour"
+    },
+    {
+      "id": "r43ARzqo8V",
+      "date": "17/02/2026 20:53:16",
+      "store_id": "212",
+      "verbatim": "1) Avant le ramadan j’ai acheté plus de Dh2119 de vin ce matin. J’avais besoin de cartons pour ranger et transporter le vin. Ni la caissière ni l’employé sécurité n’a accepté de nous aider. Nous avons du prendre les 60 bouteilles une par une et on nous a interdit de rentrer le chariot dans l’espace alcool qui etait vide à 13h. On nous refuse la carte Carrefour et l’obtention de points. Il y a un an il y avait un employé pour nous aider. Le service a beaucoup baissé.\n2) Nous avons voulu acheter des canettes de coca zero en grande quantité par barquettes de 36 canettes ou autre. Personne n’a voulu aller les chercher en reserve. De même pour les packs de bouteilles d’Oulmes par 6. Avant on nous aidait!\n3) La boucherie a beaucoup baissé sa qualité de service. Les gentils bouchers sont jeunes et ne connaissent pas la boucherie.\n3) la même chose pour la poissonnerie. Vous aviez un excellent service et maintenant les «  poissoniers » ne savent pas même nettoyer des calmars.\n4) Vos factures etaient d’excellente definition avec des classements par type de produit. Maintenant on trouve du poulet dans  Maison, des boites de mouchoirs dans Volaille et des spatules en silicone dans Biscuiterie. Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés.\nVotre hyper ne cesse de baisser de qualité de service depuis plusieurs mois. Vous avez du changer de direction. Il est temps de reprendre en main votre service aux clients ou nous irons chez vod concurrents Marjane ou Atacadao.",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "On nous refuse [...] l’obtention de points"
+    },
+    {
+      "id": "r43ARzqo8V",
+      "date": "17/02/2026 20:53:16",
+      "store_id": "212",
+      "verbatim": "1) Avant le ramadan j’ai acheté plus de Dh2119 de vin ce matin. J’avais besoin de cartons pour ranger et transporter le vin. Ni la caissière ni l’employé sécurité n’a accepté de nous aider. Nous avons du prendre les 60 bouteilles une par une et on nous a interdit de rentrer le chariot dans l’espace alcool qui etait vide à 13h. On nous refuse la carte Carrefour et l’obtention de points. Il y a un an il y avait un employé pour nous aider. Le service a beaucoup baissé.\n2) Nous avons voulu acheter des canettes de coca zero en grande quantité par barquettes de 36 canettes ou autre. Personne n’a voulu aller les chercher en reserve. De même pour les packs de bouteilles d’Oulmes par 6. Avant on nous aidait!\n3) La boucherie a beaucoup baissé sa qualité de service. Les gentils bouchers sont jeunes et ne connaissent pas la boucherie.\n3) la même chose pour la poissonnerie. Vous aviez un excellent service et maintenant les «  poissoniers » ne savent pas même nettoyer des calmars.\n4) Vos factures etaient d’excellente definition avec des classements par type de produit. Maintenant on trouve du poulet dans  Maison, des boites de mouchoirs dans Volaille et des spatules en silicone dans Biscuiterie. Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés.\nVotre hyper ne cesse de baisser de qualité de service depuis plusieurs mois. Vous avez du changer de direction. Il est temps de reprendre en main votre service aux clients ou nous irons chez vod concurrents Marjane ou Atacadao.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Personne n’a voulu aller les chercher en reserve"
+    },
+    {
+      "id": "r43ARzqo8V",
+      "date": "17/02/2026 20:53:16",
+      "store_id": "212",
+      "verbatim": "1) Avant le ramadan j’ai acheté plus de Dh2119 de vin ce matin. J’avais besoin de cartons pour ranger et transporter le vin. Ni la caissière ni l’employé sécurité n’a accepté de nous aider. Nous avons du prendre les 60 bouteilles une par une et on nous a interdit de rentrer le chariot dans l’espace alcool qui etait vide à 13h. On nous refuse la carte Carrefour et l’obtention de points. Il y a un an il y avait un employé pour nous aider. Le service a beaucoup baissé.\n2) Nous avons voulu acheter des canettes de coca zero en grande quantité par barquettes de 36 canettes ou autre. Personne n’a voulu aller les chercher en reserve. De même pour les packs de bouteilles d’Oulmes par 6. Avant on nous aidait!\n3) La boucherie a beaucoup baissé sa qualité de service. Les gentils bouchers sont jeunes et ne connaissent pas la boucherie.\n3) la même chose pour la poissonnerie. Vous aviez un excellent service et maintenant les «  poissoniers » ne savent pas même nettoyer des calmars.\n4) Vos factures etaient d’excellente definition avec des classements par type de produit. Maintenant on trouve du poulet dans  Maison, des boites de mouchoirs dans Volaille et des spatules en silicone dans Biscuiterie. Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés.\nVotre hyper ne cesse de baisser de qualité de service depuis plusieurs mois. Vous avez du changer de direction. Il est temps de reprendre en main votre service aux clients ou nous irons chez vod concurrents Marjane ou Atacadao.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "La boucherie a beaucoup baissé sa qualité de service"
+    },
+    {
+      "id": "r43ARzqo8V",
+      "date": "17/02/2026 20:53:16",
+      "store_id": "212",
+      "verbatim": "1) Avant le ramadan j’ai acheté plus de Dh2119 de vin ce matin. J’avais besoin de cartons pour ranger et transporter le vin. Ni la caissière ni l’employé sécurité n’a accepté de nous aider. Nous avons du prendre les 60 bouteilles une par une et on nous a interdit de rentrer le chariot dans l’espace alcool qui etait vide à 13h. On nous refuse la carte Carrefour et l’obtention de points. Il y a un an il y avait un employé pour nous aider. Le service a beaucoup baissé.\n2) Nous avons voulu acheter des canettes de coca zero en grande quantité par barquettes de 36 canettes ou autre. Personne n’a voulu aller les chercher en reserve. De même pour les packs de bouteilles d’Oulmes par 6. Avant on nous aidait!\n3) La boucherie a beaucoup baissé sa qualité de service. Les gentils bouchers sont jeunes et ne connaissent pas la boucherie.\n3) la même chose pour la poissonnerie. Vous aviez un excellent service et maintenant les «  poissoniers » ne savent pas même nettoyer des calmars.\n4) Vos factures etaient d’excellente definition avec des classements par type de produit. Maintenant on trouve du poulet dans  Maison, des boites de mouchoirs dans Volaille et des spatules en silicone dans Biscuiterie. Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés.\nVotre hyper ne cesse de baisser de qualité de service depuis plusieurs mois. Vous avez du changer de direction. Il est temps de reprendre en main votre service aux clients ou nous irons chez vod concurrents Marjane ou Atacadao.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "les « poissoniers » ne savent pas même nettoyer des calmars"
+    },
+    {
+      "id": "r43ARzqo8V",
+      "date": "17/02/2026 20:53:16",
+      "store_id": "212",
+      "verbatim": "1) Avant le ramadan j’ai acheté plus de Dh2119 de vin ce matin. J’avais besoin de cartons pour ranger et transporter le vin. Ni la caissière ni l’employé sécurité n’a accepté de nous aider. Nous avons du prendre les 60 bouteilles une par une et on nous a interdit de rentrer le chariot dans l’espace alcool qui etait vide à 13h. On nous refuse la carte Carrefour et l’obtention de points. Il y a un an il y avait un employé pour nous aider. Le service a beaucoup baissé.\n2) Nous avons voulu acheter des canettes de coca zero en grande quantité par barquettes de 36 canettes ou autre. Personne n’a voulu aller les chercher en reserve. De même pour les packs de bouteilles d’Oulmes par 6. Avant on nous aidait!\n3) La boucherie a beaucoup baissé sa qualité de service. Les gentils bouchers sont jeunes et ne connaissent pas la boucherie.\n3) la même chose pour la poissonnerie. Vous aviez un excellent service et maintenant les «  poissoniers » ne savent pas même nettoyer des calmars.\n4) Vos factures etaient d’excellente definition avec des classements par type de produit. Maintenant on trouve du poulet dans  Maison, des boites de mouchoirs dans Volaille et des spatules en silicone dans Biscuiterie. Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés.\nVotre hyper ne cesse de baisser de qualité de service depuis plusieurs mois. Vous avez du changer de direction. Il est temps de reprendre en main votre service aux clients ou nous irons chez vod concurrents Marjane ou Atacadao.",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "on trouve du poulet dans Maison, des boites de mouchoirs dans Volaille"
+    },
+    {
+      "id": "r43ARzqo8V",
+      "date": "17/02/2026 20:53:16",
+      "store_id": "212",
+      "verbatim": "1) Avant le ramadan j’ai acheté plus de Dh2119 de vin ce matin. J’avais besoin de cartons pour ranger et transporter le vin. Ni la caissière ni l’employé sécurité n’a accepté de nous aider. Nous avons du prendre les 60 bouteilles une par une et on nous a interdit de rentrer le chariot dans l’espace alcool qui etait vide à 13h. On nous refuse la carte Carrefour et l’obtention de points. Il y a un an il y avait un employé pour nous aider. Le service a beaucoup baissé.\n2) Nous avons voulu acheter des canettes de coca zero en grande quantité par barquettes de 36 canettes ou autre. Personne n’a voulu aller les chercher en reserve. De même pour les packs de bouteilles d’Oulmes par 6. Avant on nous aidait!\n3) La boucherie a beaucoup baissé sa qualité de service. Les gentils bouchers sont jeunes et ne connaissent pas la boucherie.\n3) la même chose pour la poissonnerie. Vous aviez un excellent service et maintenant les «  poissoniers » ne savent pas même nettoyer des calmars.\n4) Vos factures etaient d’excellente definition avec des classements par type de produit. Maintenant on trouve du poulet dans  Maison, des boites de mouchoirs dans Volaille et des spatules en silicone dans Biscuiterie. Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés.\nVotre hyper ne cesse de baisser de qualité de service depuis plusieurs mois. Vous avez du changer de direction. Il est temps de reprendre en main votre service aux clients ou nous irons chez vod concurrents Marjane ou Atacadao.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Lorsqu’on demande à parler à un responsable on nous dit qu’il sont occupés"
+    }
+  ],
+  "882bde3e3b636aa683b07d318b70117c630b525f6ab9a68a06dd3abb1fe1995f": [],
+  "0a61784b8b5d6b5ee797b613edcda312e307453d362eb65a1924569086d1b7d8": [
+    {
+      "id": "689QZLmJ8K",
+      "date": "07/02/2026 17:42:16",
+      "store_id": "140",
+      "verbatim": "Vous ne répondez jamais, cela ne ser à rien de vous posez des questions et de donner notre avis. \nJe vais remonter l'information à la grande direction. \nIl manquent toujours des prix et plein de produits périmés ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Vous ne répondez jamais"
+    },
+    {
+      "id": "689QZLmJ8K",
+      "date": "07/02/2026 17:42:16",
+      "store_id": "140",
+      "verbatim": "Vous ne répondez jamais, cela ne ser à rien de vous posez des questions et de donner notre avis. \nJe vais remonter l'information à la grande direction. \nIl manquent toujours des prix et plein de produits périmés ",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "Il manquent toujours des prix"
+    },
+    {
+      "id": "689QZLmJ8K",
+      "date": "07/02/2026 17:42:16",
+      "store_id": "140",
+      "verbatim": "Vous ne répondez jamais, cela ne ser à rien de vous posez des questions et de donner notre avis. \nJe vais remonter l'information à la grande direction. \nIl manquent toujours des prix et plein de produits périmés ",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "plein de produits périmés"
+    }
+  ],
+  "983d30b5ea0b33a209e66974aae0a922c6eb82beba3879251684ca7eda7c8e46": [
+    {
+      "id": "vdJkN7QLp4",
+      "date": "17/05/2026 18:22:43",
+      "store_id": "109",
+      "verbatim": "Est-ce que la découpe d'ananas est censée être faite sans des gants ? \nMerci ",
+      "theme": "Propreté du magasin",
+      "sentiment": "negative",
+      "evidence": "la découpe d'ananas est censée être faite sans des gants ?"
+    }
+  ],
+  "c25ad6dbe975f26d073df955958ec1ee2ba79f5f6695b7a83aa6ae5d75d6f701": [
+    {
+      "id": "lxD6PePaZd",
+      "date": "17/05/2026 19:52:37",
+      "store_id": "780",
+      "verbatim": "Pas dalccol",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "Pas dalccol"
+    }
+  ],
+  "f32d148e7c2df3e8c4fc5d538f723ab48082c9293c376f139d1020b5d4d81bec": [
+    {
+      "id": "e4Z710Z1Jx",
+      "date": "05/08/2026 23:10:53",
+      "store_id": "158",
+      "verbatim": "Améliorez disponibilité et professionnalisme du personnel ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Améliorez disponibilité et professionnalisme du personnel"
+    }
+  ],
+  "c4b6fead335045f2513e5afd102bc2bb767872f750bc2cad19561ffde998957e": [
+    {
+      "id": "vdANn1rV4j",
+      "date": "31/07/2025 13:20:22",
+      "store_id": "108",
+      "verbatim": "Des articles payés ont été laissés en caisse car la personne en charge de remplir le sac n’a pas mis tous les produits achetés ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "la personne en charge de remplir le sac n’a pas mis tous les produits achetés"
+    }
+  ],
+  "87c939ab26c58d2027be7a64c877c0ff23c2f72171ee418c42dfb006df1e4970": [],
+  "76f3bebe072745d30b23fe20900fb76aab5818bfef8122e7d82d4bd6bf900f84": [
+    {
+      "id": "jdpwboO5G8",
+      "date": "25/05/2026 18:17:51",
+      "store_id": "198",
+      "verbatim": "J ai voulu payé avec le bon d achat des points cumulés dans l application carrefour mais ça ne passe pas la responsable étaiy ailleur elle donnait des consignes à distance et quand ça a bloqué elle a ignoré ma demande j ai dû payé en espèce ",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "le bon d achat des points cumulés dans l application carrefour [...] ne passe pas"
+    },
+    {
+      "id": "jdpwboO5G8",
+      "date": "25/05/2026 18:17:51",
+      "store_id": "198",
+      "verbatim": "J ai voulu payé avec le bon d achat des points cumulés dans l application carrefour mais ça ne passe pas la responsable étaiy ailleur elle donnait des consignes à distance et quand ça a bloqué elle a ignoré ma demande j ai dû payé en espèce ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "quand ça a bloqué elle a ignoré ma demande"
+    }
+  ],
+  "91325251916f050d17815b505e69628bdcc6413de3b2f6014b99e8cb18834951": [
+    {
+      "id": "YdklwvJa74",
+      "date": "04/09/2026 12:44:08",
+      "store_id": "704",
+      "verbatim": "بلا كدوب على الناس\n",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "بلا كدوب على الناس"
+    }
+  ],
+  "46de5b83f3bc1ed4e31ad822a209cf9288483643b29f5988728aba431744f23c": [
+    {
+      "id": "y8Vbkyqg8G",
+      "date": "11/12/2024 13:26:39",
+      "store_id": "211",
+      "verbatim": "Le rayon légumes n  est pas digne de l enseigne carrefour",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "Le rayon légumes n'est pas digne de l'enseigne Carrefour"
+    }
+  ],
+  "6b78e07e66b601a7534d871277ca90ba6d809061340b8683d320bbdfc530d2c0": [
+    {
+      "id": "646A1mk5d9",
+      "date": "31/08/2025 12:22:00",
+      "store_id": "713",
+      "verbatim": "Manque des produits parfois \nLes prix produits café et très lever contre autre surface ",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "Manque des produits parfois"
+    },
+    {
+      "id": "646A1mk5d9",
+      "date": "31/08/2025 12:22:00",
+      "store_id": "713",
+      "verbatim": "Manque des produits parfois \nLes prix produits café et très lever contre autre surface ",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "Les prix produits café et très lever contre autre surface"
+    }
+  ],
+  "a55a0a932c66147f95e0c70f91276ef88d80483b079fa56683a0fa1099569ad9": [],
+  "96f18515867cced3b5c3026a7cc0ae392fb1e188f5d854c5c03d055b6ec50ff8": [
+    {
+      "id": "V8rvNNBro8",
+      "date": "04/07/2026 16:30:29",
+      "store_id": "201",
+      "verbatim": "Bonjour \nPourquoi on ne trouve pas de chariot ",
+      "theme": "Caddies",
+      "sentiment": "negative",
+      "evidence": "Pourquoi on ne trouve pas de chariot"
+    }
+  ],
+  "74cac71fd260d3374af5567820ec2cdcd853c00f9f3235ccded85cedd1ca5f55": [
+    {
+      "id": "V8rvWaPgo8",
+      "date": "13/09/2026 20:03:10",
+      "store_id": "122",
+      "verbatim": "Bonjour \n\nYa toujours des problème de balisage, je propose plus de bornes de contrôle des prix pour éviter les mauvaises surprises à la caisse ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "problème de balisage [...] éviter les mauvaises surprises à la caisse"
+    }
+  ],
+  "334fae021546daf9ff8772de5d3aeb7ceb2a1daac6876ea53a4f9f2ca2b35bee": [],
+  "2c2d9da7564364563a4394fb5644e7acfe32ce5a5c92cbc3db95c33871a564f7": [
+    {
+      "id": "54EARkZX4y",
+      "date": "08/12/2025 16:55:30",
+      "store_id": "207",
+      "verbatim": "Probleme de caisse surtout a midi",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "Probleme de caisse surtout a midi"
+    }
+  ],
+  "29c5efafa4fcd78a618b25c0cbb80ef1b4d3d0908d7b3dbc1a8b22ca0af046d2": [
+    {
+      "id": "Q4eMrYMj4e",
+      "date": "27/10/2025 20:13:24",
+      "store_id": "123",
+      "verbatim": "Bonsoir,  \nMagasin mal balisé,  beaucoup de cafard dans tout le magasin et surtout rayon fleg ,taux d'attente très élevé à la caisse .\n Merci de prendre en considération ces remarques. \n\nCordialement. ",
+      "theme": "Localisation des produits",
+      "sentiment": "negative",
+      "evidence": "Magasin mal balisé"
+    },
+    {
+      "id": "Q4eMrYMj4e",
+      "date": "27/10/2025 20:13:24",
+      "store_id": "123",
+      "verbatim": "Bonsoir,  \nMagasin mal balisé,  beaucoup de cafard dans tout le magasin et surtout rayon fleg ,taux d'attente très élevé à la caisse .\n Merci de prendre en considération ces remarques. \n\nCordialement. ",
+      "theme": "Propreté du magasin",
+      "sentiment": "negative",
+      "evidence": "beaucoup de cafard dans tout le magasin"
+    },
+    {
+      "id": "Q4eMrYMj4e",
+      "date": "27/10/2025 20:13:24",
+      "store_id": "123",
+      "verbatim": "Bonsoir,  \nMagasin mal balisé,  beaucoup de cafard dans tout le magasin et surtout rayon fleg ,taux d'attente très élevé à la caisse .\n Merci de prendre en considération ces remarques. \n\nCordialement. ",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "taux d'attente très élevé à la caisse"
+    }
+  ],
+  "09c1c7a2b8d2baa99bbbc5763cacaa989838755bc31f2425fb29c448910a25d5": [
+    {
+      "id": "wdQDYzjpN8",
+      "date": "18/10/2026 23:18:02",
+      "store_id": "162",
+      "verbatim": "مرحبا ايها الحضور الكريم يشرفني ان اتعامل معكم شكرا جزيلا على جميع الخدمات التي تقدمونها لنا تحياتي لكم مبارك يحييكم من المغرب مدينه مراكش الحمراء في خدمتكم دائما العمل معكم ممتع كل يوم اتمنى لكم الهناء والتالق في جميع الاوقات\n",
+      "theme": "Satisfaction générale",
+      "sentiment": "positive",
+      "evidence": "شكرا جزيلا على جميع الخدمات التي تقدمونها لنا، العمل معكم ممتع كل يوم"
+    }
+  ],
+  "09cb85e60fc1876787e9cbed651d213fbffe29bd01e040885f40d3e1a9e9499f": [
+    {
+      "id": "VdvmjA0bD8",
+      "date": "29/08/2026 12:54:07",
+      "store_id": "669",
+      "verbatim": "Bonjour,\n\nNous avons rencontré deux problèmes hier lors de notre passage :\n1) j’ai une intoxication alimentaire à cause d’une glace vendue au détail \n2) plusieurs produits ne sont pas passés à la caisse: pims, petits beurres et sauce tomate… sans aucune explication. ",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "j’ai une intoxication alimentaire à cause d’une glace vendue au détail"
+    },
+    {
+      "id": "VdvmjA0bD8",
+      "date": "29/08/2026 12:54:07",
+      "store_id": "669",
+      "verbatim": "Bonjour,\n\nNous avons rencontré deux problèmes hier lors de notre passage :\n1) j’ai une intoxication alimentaire à cause d’une glace vendue au détail \n2) plusieurs produits ne sont pas passés à la caisse: pims, petits beurres et sauce tomate… sans aucune explication. ",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "plusieurs produits ne sont pas passés à la caisse : pims, petits beurres et sauce tomate, sans aucune explication"
+    }
+  ],
+  "419dc3c4ce6322708a3e3eb9ede9d44b7e6e1d5f6cca52ce15ccc128538d6ea1": [
+    {
+      "id": "646Arg1md9",
+      "date": "06/10/2025 20:57:34",
+      "store_id": "119",
+      "verbatim": "Bien organisé, personnel attentif, serviable..a l'écoute ",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "personnel attentif, serviable..a l'écoute"
+    }
+  ],
+  "415f134acf954bc7222a35de0ce06531e7aae8e07444b87b5c7644448cc3ddbf": [],
+  "ae830569f828fd80ca78f60a0d7f57ad992cbda0edb50d380275a1ecf612b5ef": [
+    {
+      "id": "mxoaebm7dj",
+      "date": "27/08/2025 19:23:17",
+      "store_id": "168",
+      "verbatim": "J’étais impacté par les huîtres et j’ai vécu intoxication par une confirmation de mon médecin. le comble aussi mon petit Il a pris une 😡,franchement je vais protêt une plainte ",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "J’étais impacté par les huîtres et j’ai vécu intoxication par une confirmation de mon médecin"
+    }
+  ],
+  "6a63a124f0f73d6fc0f8f7150802c451569ae935667926fa8cc46dfe156abe4b": [
+    {
+      "id": "r43jJgNNrd",
+      "date": "10/09/2026 14:06:15",
+      "store_id": "207",
+      "verbatim": "Les prix des produits sont souvent plus chers Qu en France. Les produits sans lactose inexistants. Pas la même qualité de produits et de services dans tous les carrefours",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "Les prix des produits sont souvent plus chers qu'en France"
+    },
+    {
+      "id": "r43jJgNNrd",
+      "date": "10/09/2026 14:06:15",
+      "store_id": "207",
+      "verbatim": "Les prix des produits sont souvent plus chers Qu en France. Les produits sans lactose inexistants. Pas la même qualité de produits et de services dans tous les carrefours",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "Les produits sans lactose inexistants"
+    },
+    {
+      "id": "r43jJgNNrd",
+      "date": "10/09/2026 14:06:15",
+      "store_id": "207",
+      "verbatim": "Les prix des produits sont souvent plus chers Qu en France. Les produits sans lactose inexistants. Pas la même qualité de produits et de services dans tous les carrefours",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "Pas la même qualité de produits [...] dans tous les Carrefour"
+    },
+    {
+      "id": "r43jJgNNrd",
+      "date": "10/09/2026 14:06:15",
+      "store_id": "207",
+      "verbatim": "Les prix des produits sont souvent plus chers Qu en France. Les produits sans lactose inexistants. Pas la même qualité de produits et de services dans tous les carrefours",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Pas la même qualité [...] de services dans tous les Carrefour"
+    }
+  ],
+  "07e954fe0d5ea76213ace3a758f5805e56592a3883705a86ec1f6ce445151bb9": [
+    {
+      "id": "vdApy7kB98",
+      "date": "19/05/2026 11:04:53",
+      "store_id": "186",
+      "verbatim": "Merci pour vos efforts et votre disponibilte",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "vos efforts et votre disponibilte"
+    }
+  ],
+  "e4f28d9162960e2981cb2f0dc5ac0171408bf19ec15029cd71c6986c405f9024": [
+    {
+      "id": "Y4WkDweJk4",
+      "date": "06/09/2026 16:57:16",
+      "store_id": "203",
+      "verbatim": "Caisses insuffisante ",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "Caisses insuffisante"
+    }
+  ],
+  "ea0e6c9a678c179b5f16b2ecfc4beb7b3b4ef5da543a201853c5de7c0f0fc7cb": [
+    {
+      "id": "gd0NRpZBpx",
+      "date": "07/10/2026 18:13:17",
+      "store_id": "122",
+      "verbatim": "السلام عليكم ورحمة الله تعالى وبركاته \nللأسف الملاحظ ان الغلاء في هذا الفرع قفز فوق الجميع ... الأمر الي يطرح علامات استفهام كبيرة ... وكثيرة ... مواد التصبين لاادري من أين اتيتم بهذه الاثمنة ... اللحوم ... الدجاج الديك الرومي القهوة الخضرة حدث ولاحرح  نفس الشيء بالنسبة للأسماك في الحقيقة اثمنتكم خيالية جدا ... والمواطن المسكين يتكبر كل شيء ... فإن تحققها ارقاما كبيرة في الربع لايجب ان يكون على حساب المواطن \nلان سلا الجديدة مدينة للمواطنين البسطاء ... وكفى عدم مراعاة جيوب المواطنين \nعبد الهادي الناجي ",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "الغلاء في هذا الفرع قفز فوق الجميع"
+    },
+    {
+      "id": "gd0NRpZBpx",
+      "date": "07/10/2026 18:13:17",
+      "store_id": "122",
+      "verbatim": "السلام عليكم ورحمة الله تعالى وبركاته \nللأسف الملاحظ ان الغلاء في هذا الفرع قفز فوق الجميع ... الأمر الي يطرح علامات استفهام كبيرة ... وكثيرة ... مواد التصبين لاادري من أين اتيتم بهذه الاثمنة ... اللحوم ... الدجاج الديك الرومي القهوة الخضرة حدث ولاحرح  نفس الشيء بالنسبة للأسماك في الحقيقة اثمنتكم خيالية جدا ... والمواطن المسكين يتكبر كل شيء ... فإن تحققها ارقاما كبيرة في الربع لايجب ان يكون على حساب المواطن \nلان سلا الجديدة مدينة للمواطنين البسطاء ... وكفى عدم مراعاة جيوب المواطنين \nعبد الهادي الناجي ",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "اثمنتكم خيالية جدا"
+    },
+    {
+      "id": "gd0NRpZBpx",
+      "date": "07/10/2026 18:13:17",
+      "store_id": "122",
+      "verbatim": "السلام عليكم ورحمة الله تعالى وبركاته \nللأسف الملاحظ ان الغلاء في هذا الفرع قفز فوق الجميع ... الأمر الي يطرح علامات استفهام كبيرة ... وكثيرة ... مواد التصبين لاادري من أين اتيتم بهذه الاثمنة ... اللحوم ... الدجاج الديك الرومي القهوة الخضرة حدث ولاحرح  نفس الشيء بالنسبة للأسماك في الحقيقة اثمنتكم خيالية جدا ... والمواطن المسكين يتكبر كل شيء ... فإن تحققها ارقاما كبيرة في الربع لايجب ان يكون على حساب المواطن \nلان سلا الجديدة مدينة للمواطنين البسطاء ... وكفى عدم مراعاة جيوب المواطنين \nعبد الهادي الناجي ",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "عدم مراعاة جيوب المواطنين"
+    }
+  ],
+  "f42358d86a261cc3bb59e56f1cb8e607be460bebc5f91ae8dd0930c1d8f8bd4f": [
+    {
+      "id": "6xmog7lbdj",
+      "date": "15/07/2025 23:04:57",
+      "store_id": "708",
+      "verbatim": "Je me permets de vous adresser la présente réclamation concernant une situation désagréable à laquelle j’ai été confronté ce jour, aux alentours de 20h, devant votre magasin Carrefour Express situé à Moulay Youssef, Tanger.\n\nÀ mon arrivée sur place, j’ai constaté que deux de vos employés – l’un affecté à la sécurité, l’autre apparemment responsable du rayon fruits et légumes – avaient quitté leur poste et se tenaient ensemble devant l’entrée du magasin. Jusque-là, je n’y ai vu aucun problème. Cependant, ces deux personnes se sont mises à commenter de manière moqueuse une inscription figurant sur ma moto, garée devant l’établissement, tout en rigolant à haute voix.\n\nSurpris et mal à l’aise, je me suis approché pour leur demander calmement ce qu’il y avait d’étrange dans cette inscription, et pourquoi ils se permettaient de rire ainsi en public, semblant se moquer de moi. Leur réponse a été sèche et inappropriée, dénuée du moindre professionnalisme que l’on est en droit d’attendre d’un personnel représentant une enseigne telle que la vôtre.\n\nJe trouve ce comportement irrespectueux, déplacé et contraire aux valeurs d’accueil et de respect du client que Carrefour s’efforce normalement de promouvoir.\n\nJe vous remercie par avance de bien vouloir prendre les mesures appropriées pour que ce genre de situation ne se reproduise plus à l’avenir. Dans l’attente d’un retour de votre part, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "ces deux personnes se sont mises à commenter de manière moqueuse une inscription figurant sur ma moto, tout en rigolant à haute voix"
+    },
+    {
+      "id": "6xmog7lbdj",
+      "date": "15/07/2025 23:04:57",
+      "store_id": "708",
+      "verbatim": "Je me permets de vous adresser la présente réclamation concernant une situation désagréable à laquelle j’ai été confronté ce jour, aux alentours de 20h, devant votre magasin Carrefour Express situé à Moulay Youssef, Tanger.\n\nÀ mon arrivée sur place, j’ai constaté que deux de vos employés – l’un affecté à la sécurité, l’autre apparemment responsable du rayon fruits et légumes – avaient quitté leur poste et se tenaient ensemble devant l’entrée du magasin. Jusque-là, je n’y ai vu aucun problème. Cependant, ces deux personnes se sont mises à commenter de manière moqueuse une inscription figurant sur ma moto, garée devant l’établissement, tout en rigolant à haute voix.\n\nSurpris et mal à l’aise, je me suis approché pour leur demander calmement ce qu’il y avait d’étrange dans cette inscription, et pourquoi ils se permettaient de rire ainsi en public, semblant se moquer de moi. Leur réponse a été sèche et inappropriée, dénuée du moindre professionnalisme que l’on est en droit d’attendre d’un personnel représentant une enseigne telle que la vôtre.\n\nJe trouve ce comportement irrespectueux, déplacé et contraire aux valeurs d’accueil et de respect du client que Carrefour s’efforce normalement de promouvoir.\n\nJe vous remercie par avance de bien vouloir prendre les mesures appropriées pour que ce genre de situation ne se reproduise plus à l’avenir. Dans l’attente d’un retour de votre part, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Leur réponse a été sèche et inappropriée, dénuée du moindre professionnalisme"
+    }
+  ],
+  "53b83ff20207981c709f8a62c227054503f1e7b008350615de38f68cb1ee345a": [
+    {
+      "id": "j81BPmLjdR",
+      "date": "08/02/2026 21:55:59",
+      "store_id": "158",
+      "verbatim": "Pourquoi les prix x sont très élevés?",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "les prix x sont très élevés"
+    }
+  ],
+  "a87fa7070276bc8e55e8819f2fd2dff97637f6312acb9f6dcbc5ff2672348f94": [],
+  "dac9ca5865e1c153587a036398dc2d04cb1d5b4d024f1d333d1b580ba9ea38a9": [
+    {
+      "id": "vdJzjeo1dD",
+      "date": "14/02/2026 12:26:02",
+      "store_id": "701",
+      "verbatim": "Prix aux étagères ne correspondent pas à aux prix à la caisse.",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "Prix aux étagères ne correspondent pas à aux prix à la caisse"
+    }
+  ],
+  "82dfce1bbd2f34a3a88cdfec95941fe33d5a75a01676a6efc5298b60fbc89b1e": [
+    {
+      "id": "j81OzXavk4",
+      "date": "01/06/2026 20:16:42",
+      "store_id": "140",
+      "verbatim": "Nul sale",
+      "theme": "Propreté du magasin",
+      "sentiment": "negative",
+      "evidence": "sale"
+    },
+    {
+      "id": "j81OzXavk4",
+      "date": "01/06/2026 20:16:42",
+      "store_id": "140",
+      "verbatim": "Nul sale",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "Nul"
+    }
+  ],
+  "3f5821f5d5b42ef382556523c62259490e7fb827b566817002dff4a517775d75": [
+    {
+      "id": "646GnY3Vx9",
+      "date": "05/05/2026 15:25:01",
+      "store_id": "115",
+      "verbatim": "Un grand merci pour vos efforts.",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "Un grand merci pour vos efforts"
+    }
+  ],
+  "fbf5334c71dffa69e77933d37ccf5f31069c0cc3d70b505c41783e67f1d93f0f": [
+    {
+      "id": "e8NNYDZL8j",
+      "date": "20/11/2025 20:54:15",
+      "store_id": "209",
+      "verbatim": "un problème que j’ai rencontré au niveau de la boulangerie de Carrefour. J’ai remarqué que certains vendeurs, en particulier une vendeuse nommée Souhaïla, stockent les offres qui sont disponibles à 22 heures, ce qui prive les clients ordinaires de la possibilité d’en bénéficier.\n\nCe comportement cause un grand mécontentement parmi moi-même et de nombreux clients qui viennent acheter ces produits à l’heure prévue. Le fait de privilégier certains individus, comme les employés de Carrefour, est perçu comme une discrimination injuste envers les clients.\n\nJe vous demande de bien vouloir examiner cette situation et de prendre les mesures nécessaires pour garantir une distribution équitable des offres disponibles à tous les clients, sans discrimination.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "certains vendeurs [...] stockent les offres [...] ce qui prive les clients ordinaires de la possibilité d’en bénéficier"
+    }
+  ],
+  "851b7801a94d913deedc84fd50fa4878027a3d9e9e0927b6ccc3b10a963231fd": [
+    {
+      "id": "vdOakbgrex",
+      "date": "25/07/2026 01:41:49",
+      "store_id": "113",
+      "verbatim": "Can I work a month here it's just that I see how client work I see that they are not doing something too specifically good and worth every love work so can I just work 1 month maybe I can fix this and in the same time I wish that you can respond to me I am just 18 years old but I can do incredible things.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "they are not doing something too specifically good"
+    }
+  ],
+  "161dac6336b4ee21bc123229dc847127416f840ffb99dbee45ce6dc486ab0ab2": [],
+  "278202decf201275d33a32a6381e81dfd2cc3af43b48509fbe51aed12e7c4463": [
+    {
+      "id": "YdklkkBP74",
+      "date": "08/05/2026 11:47:46",
+      "store_id": "115",
+      "verbatim": "elargir la gamme des produits commercialisés.\nameliorer la qualité des articles exposés chaque vendredi.\nbim doit avoir des produits phares qui le distinguent des autes concurrents.",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "elargir la gamme des produits commercialisés"
+    },
+    {
+      "id": "YdklkkBP74",
+      "date": "08/05/2026 11:47:46",
+      "store_id": "115",
+      "verbatim": "elargir la gamme des produits commercialisés.\nameliorer la qualité des articles exposés chaque vendredi.\nbim doit avoir des produits phares qui le distinguent des autes concurrents.",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "ameliorer la qualité des articles exposés chaque vendredi"
+    },
+    {
+      "id": "YdklkkBP74",
+      "date": "08/05/2026 11:47:46",
+      "store_id": "115",
+      "verbatim": "elargir la gamme des produits commercialisés.\nameliorer la qualité des articles exposés chaque vendredi.\nbim doit avoir des produits phares qui le distinguent des autes concurrents.",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "bim doit avoir des produits phares qui le distinguent des autes concurrents"
+    }
+  ],
+  "6b03751b1a6dedaa1268860f6efeaf82204b4aa8690d37eff1b35a38cde89390": [],
+  "e67bbe0c70fe0b72ab478f7f5b273aadeecc16e55b5ee04a344bdb32e3da785f": [],
+  "181512b3f0ab84a6a0708f2c5c4cc88bc805ba797723047184420e5e5ba605b7": [],
+  "319051ce9c85730cbd2cb19075b9f5006efb050037e69be546bd7c2f87e6a880": [
+    {
+      "id": "vdJQ27ye8D",
+      "date": "19/12/2025 23:16:35",
+      "store_id": "140",
+      "verbatim": "Bon service et mieux faire ",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "Bon service"
+    },
+    {
+      "id": "vdJQ27ye8D",
+      "date": "19/12/2025 23:16:35",
+      "store_id": "140",
+      "verbatim": "Bon service et mieux faire ",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "mieux faire"
+    }
+  ],
+  "d9b02e1a98d043840952e4c1e7d2917a286fa20fd459656acdc0480c256fd107": [
+    {
+      "id": "wdQDNDq7X8",
+      "date": "03/07/2026 17:25:38",
+      "store_id": "207",
+      "verbatim": "مساء الخير \n\nJ'ai déjà déposé une réclamation concernant ma dernière visite au Carrefour de Sidi Maarouf. J'ai constaté les points suivants au rayon pâtisserie :\n\n1- Les fruits des pâtisseries étaient abîmés, ce qui nous a obligés à les jeter.\n\n2- Nous achetons habituellement du pain sans sel chez vous, mais lors de ma dernière visite, il était salé, ce qui est inacceptable.\n\nسبق لي و ان قمت بتقديم شكاية بخصوص اخر زيارة لي الى\nCarrefour Sidi Maarouf\nو قدمت ملاحظة بخصوص قسم الحلويات و المخبوزات\n1 - الفواكه الموجودة على الحلويات كانت فاسدة\nمما اضطرنا الى رميها \n\n2 - في غالب الاحيان نشتري الخبز بدون ملح من عندكم\nالا انه في اخر مرة  كانت  الخبز بالملح و هذا الامر غير مقبول ",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "Les fruits des pâtisseries étaient abîmés, ce qui nous a obligés à les jeter."
+    },
+    {
+      "id": "wdQDNDq7X8",
+      "date": "03/07/2026 17:25:38",
+      "store_id": "207",
+      "verbatim": "مساء الخير \n\nJ'ai déjà déposé une réclamation concernant ma dernière visite au Carrefour de Sidi Maarouf. J'ai constaté les points suivants au rayon pâtisserie :\n\n1- Les fruits des pâtisseries étaient abîmés, ce qui nous a obligés à les jeter.\n\n2- Nous achetons habituellement du pain sans sel chez vous, mais lors de ma dernière visite, il était salé, ce qui est inacceptable.\n\nسبق لي و ان قمت بتقديم شكاية بخصوص اخر زيارة لي الى\nCarrefour Sidi Maarouf\nو قدمت ملاحظة بخصوص قسم الحلويات و المخبوزات\n1 - الفواكه الموجودة على الحلويات كانت فاسدة\nمما اضطرنا الى رميها \n\n2 - في غالب الاحيان نشتري الخبز بدون ملح من عندكم\nالا انه في اخر مرة  كانت  الخبز بالملح و هذا الامر غير مقبول ",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "le pain sans sel [...] était salé, ce qui est inacceptable."
+    }
+  ],
+  "9fa7d09301c801cd0a138da782bb98fba93d36285895d1efeed7d00a7bb5b653": [
+    {
+      "id": "6xmPaP0jD4",
+      "date": "09/05/2026 16:24:18",
+      "store_id": "189",
+      "verbatim": "Le seul problème que j’ai remarqué concerne certains membres du personnel de la caisse. Malgré cela, le reste du service était satisfaisant et l’expérience globale reste correcte.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "certains membres du personnel de la caisse"
+    },
+    {
+      "id": "6xmPaP0jD4",
+      "date": "09/05/2026 16:24:18",
+      "store_id": "189",
+      "verbatim": "Le seul problème que j’ai remarqué concerne certains membres du personnel de la caisse. Malgré cela, le reste du service était satisfaisant et l’expérience globale reste correcte.",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "le reste du service était satisfaisant"
+    }
+  ],
+  "263f3af44aad6a98155432a633d9745f5bdde286ab54b29ed82b4ba832e70132": [
+    {
+      "id": "QdPk6rWzw8",
+      "date": "14/07/2026 21:54:43",
+      "store_id": "179",
+      "verbatim": "Toujours des différences de prix entre ce qui est affiché et les prix à la caisse !!!",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "différences de prix entre ce qui est affiché et les prix à la caisse"
+    }
+  ],
+  "0cb186cc065ad5b65adc8e5630acc1355ddb2f4405afdfae2259723c079e6667": [
+    {
+      "id": "58ymq1pX8w",
+      "date": "24/02/2025 18:24:58",
+      "store_id": "205",
+      "verbatim": "وجدت ثمن سمك بريكة ب 60 درهم و تم حسابه ب 68.90 و عند استفسار البائع لم يتعامل بلطف و اخبرني ان ارى مع الاستقبال وموظفة الاستقبال قالت لي لن يحل لك المشكل سوى بائع السمك امر مزعج تركت المنتوج ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "ثمن سمك بريكة ب 60 درهم و تم حسابه ب 68.90"
+    },
+    {
+      "id": "58ymq1pX8w",
+      "date": "24/02/2025 18:24:58",
+      "store_id": "205",
+      "verbatim": "وجدت ثمن سمك بريكة ب 60 درهم و تم حسابه ب 68.90 و عند استفسار البائع لم يتعامل بلطف و اخبرني ان ارى مع الاستقبال وموظفة الاستقبال قالت لي لن يحل لك المشكل سوى بائع السمك امر مزعج تركت المنتوج ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "البائع لم يتعامل بلطف... وموظفة الاستقبال قالت لي لن يحل لك المشكل سوى بائع السمك"
+    }
+  ]
+}

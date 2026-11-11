@@ -1,0 +1,250 @@
+﻿dataset,column,definition
+barometre_market_analytical.csv,store_id,"Canonical store code, stored as text. Joins use codes, not store names."
+barometre_market_analytical.csv,store_name,"Source descriptive field, preserved for this survey period."
+barometre_market_analytical.csv,cluster,"Source descriptive field, preserved for this survey period."
+barometre_market_analytical.csv,city,"Source descriptive field, preserved for this survey period."
+barometre_market_analytical.csv,city_classification,"Source descriptive field, preserved for this survey period."
+barometre_market_analytical.csv,period_id,Survey-specific period identifier. Unique with store_id within each main analytical file.
+barometre_market_analytical.csv,period_label,"Source descriptive field, preserved for this survey period."
+barometre_market_analytical.csv,period_start,First calendar date represented by the survey label; actual fieldwork dates were not supplied.
+barometre_market_analytical.csv,period_end,"Last calendar date represented by the survey label, inclusive."
+barometre_market_analytical.csv,source_row,"One-based source Excel row number, including header."
+barometre_market_analytical.csv,original_store_id,Uncorrected Barometre store code; see source_corrections.csv.
+barometre_market_analytical.csv,baro_score_global,"Original Baromètre indicator score, −600 to +300: Score global. Missing markers remain blank."
+barometre_market_analytical.csv,baro_satisfaction_globale,"Original Baromètre indicator score, −600 to +300: Satisfaction globale. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_securite,"Original Baromètre indicator score, −600 to +300: La sécurité. Missing markers remain blank."
+barometre_market_analytical.csv,baro_les_caddies,"Original Baromètre indicator score, −600 to +300: Les caddies. Missing markers remain blank."
+barometre_market_analytical.csv,baro_le_confort_general_du_magasin,"Original Baromètre indicator score, −600 to +300: Le confort général du magasin. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_proprete_du_magasin,"Original Baromètre indicator score, −600 to +300: La propreté du magasin. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_circulation_dans_le_magasin,"Original Baromètre indicator score, −600 to +300: La circulation dans le magasin. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_disponibilite_du_personnel_en_rayon,"Original Baromètre indicator score, −600 to +300: La disponibilité du personnel en rayon. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_politesse_du_personnel_en_rayon,"Original Baromètre indicator score, −600 to +300: La pôlitesse du personnel en rayon. Missing markers remain blank."
+barometre_market_analytical.csv,baro_disponibilite_du_personnel_dans_le_stand_coupe,"Original Baromètre indicator score, −600 to +300: Disponibilité du personnel dans le stand coupe. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_politesse_du_personnel_dans_le_stand_coupe,"Original Baromètre indicator score, −600 to +300: La pôlitesse du personnel dans le stand coupe. Missing markers remain blank."
+barometre_market_analytical.csv,baro_l_attente_aux_caisses,"Original Baromètre indicator score, −600 to +300: L'attente aux caisses. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_politesse_des_hotesses_de_caisse,"Original Baromètre indicator score, −600 to +300: La pôlitesse des hôtesses de caisse. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_disponibilite_des_apres_caisses,"Original Baromètre indicator score, −600 to +300: La disponibilité des après-caisses. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_localisation_des_produits,"Original Baromètre indicator score, −600 to +300: La localisation des produits. Missing markers remain blank."
+barometre_market_analytical.csv,baro_le_choix_en_alimentaire,"Original Baromètre indicator score, −600 to +300: Le choix en alimentaire. Missing markers remain blank."
+barometre_market_analytical.csv,baro_le_choix_en_non_alimentaire,"Original Baromètre indicator score, −600 to +300: Le choix en non alimentaire. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_disponibilite_des_produits_habituels,"Original Baromètre indicator score, −600 to +300: La disponibilité des produits habituels. Missing markers remain blank."
+barometre_market_analytical.csv,baro_qualite_fraicheur_des_produits_fleg,"Original Baromètre indicator score, −600 to +300: Qualité fraîcheur des produits Fleg. Missing markers remain blank."
+barometre_market_analytical.csv,baro_qualite_fraicheur_de_la_viande,"Original Baromètre indicator score, −600 to +300: Qualité fraîcheur de la viande. Missing markers remain blank."
+barometre_market_analytical.csv,baro_qualite_fraicheur_poisson,"Original Baromètre indicator score, −600 to +300: Qualité fraîcheur poisson. Missing markers remain blank."
+barometre_market_analytical.csv,baro_qualite_fraicheur_produits_frais_trad,"Original Baromètre indicator score, −600 to +300: Qualité fraîcheur produits frais trad. Missing markers remain blank."
+barometre_market_analytical.csv,baro_le_reperage_des_etiquettes_prix,"Original Baromètre indicator score, −600 to +300: Le repérage des étiquettes prix. Missing markers remain blank."
+barometre_market_analytical.csv,baro_l_exactitude_prix_entre_rayon_et_caisse,"Original Baromètre indicator score, −600 to +300: L'exactitude prix entre rayon et caisse. Missing markers remain blank."
+barometre_market_analytical.csv,baro_les_prix_en_general,"Original Baromètre indicator score, −600 to +300: Les prix en général. Missing markers remain blank."
+barometre_market_analytical.csv,baro_le_rapport_q_prix_produits_en_general,"Original Baromètre indicator score, −600 to +300: Le rapport Q/Prix produits en général. Missing markers remain blank."
+barometre_market_analytical.csv,baro_prix_du_fleg,"Original Baromètre indicator score, −600 to +300: Prix du Fleg. Missing markers remain blank."
+barometre_market_analytical.csv,baro_prix_du_poisson,"Original Baromètre indicator score, −600 to +300: Prix du poisson. Missing markers remain blank."
+barometre_market_analytical.csv,baro_prix_des_produits_trad,"Original Baromètre indicator score, −600 to +300: Prix des produits trad. Missing markers remain blank."
+barometre_market_analytical.csv,baro_prix_de_la_viande_volaille,"Original Baromètre indicator score, −600 to +300: Prix de la viande volaille. Missing markers remain blank."
+barometre_market_analytical.csv,baro_prix_de_la_viande_rouge,"Original Baromètre indicator score, −600 to +300: Prix de la viande Rouge. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_disponibilite_des_promotions,"Original Baromètre indicator score, −600 to +300: La disponibilité des promotions. Missing markers remain blank."
+barometre_market_analytical.csv,baro_l_interet_des_promotions,"Original Baromètre indicator score, −600 to +300: L'intérêt des promotions. Missing markers remain blank."
+barometre_market_analytical.csv,baro_la_mise_en_avant_des_promotions_en_magasin,"Original Baromètre indicator score, −600 to +300: La mise en avant des promotions en magasin. Missing markers remain blank."
+barometre_market_analytical.csv,baro_conformite_promotions_rayon_depliant,"Original Baromètre indicator score, −600 to +300: Conformité promotions rayon/dépliant. Missing markers remain blank."
+barometre_market_analytical.csv,survey_available,Whether the source global Barometre score or NPS score is present.
+barometre_market_analytical.csv,period_days,"Number of calendar days in the survey period, inclusive."
+barometre_market_analytical.csv,performance_status,"aligned, missing_months, period_mismatch, or missing_months_and_period_mismatch."
+barometre_market_analytical.csv,performance_months_expected,Number of calendar months touched by the survey period.
+barometre_market_analytical.csv,performance_months_present,Number of corresponding monthly transaction rows found.
+barometre_market_analytical.csv,missing_performance_months,Missing YYYY-MM keys separated by |. No zero imputation.
+barometre_market_analytical.csv,mismatched_performance_months,Monthly rows whose actual coverage cannot exactly match the survey period.
+barometre_market_analytical.csv,sales,"Sum of source sales for an exactly aligned complete period, in unchanged source monetary units; otherwise blank."
+barometre_market_analytical.csv,ticket_count,Sum of transaction tickets for an exactly aligned complete period; business definition of fréquentation.
+barometre_market_analytical.csv,average_basket,"Period sales divided by period ticket_count, using unrounded totals."
+barometre_market_analytical.csv,prior_year_performance_status,Alignment and completeness status for the corresponding calendar dates one year earlier.
+barometre_market_analytical.csv,sales_prior_year,"Same-period prior-year value, using exactly aligned available transaction months; otherwise blank."
+barometre_market_analytical.csv,sales_yoy_pct,100 × (current value / same-period prior-year value − 1). Blank unless both periods are aligned and the prior value is nonzero.
+barometre_market_analytical.csv,ticket_count_prior_year,"Same-period prior-year value, using exactly aligned available transaction months; otherwise blank."
+barometre_market_analytical.csv,ticket_count_yoy_pct,100 × (current value / same-period prior-year value − 1). Blank unless both periods are aligned and the prior value is nonzero.
+barometre_market_analytical.csv,average_basket_prior_year,"Same-period prior-year value, using exactly aligned available transaction months; otherwise blank."
+barometre_market_analytical.csv,average_basket_yoy_pct,100 × (current value / same-period prior-year value − 1). Blank unless both periods are aligned and the prior value is nonzero.
+barometre_market_analytical.csv,alert_count,"Number of distinct supplied alert IDs dated within the period, regardless of theme count."
+barometre_market_analytical.csv,alerts_with_text_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+barometre_market_analytical.csv,alerts_analysable_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+barometre_market_analytical.csv,alerts_positive_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+barometre_market_analytical.csv,alerts_negative_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+barometre_market_analytical.csv,alerts_mixed_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+barometre_market_analytical.csv,alerts_neutral_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+barometre_market_analytical.csv,alerts_not_analysable_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+barometre_market_analytical.csv,negative_alert_share_pct,100 × negative alert count / analysable alert count; blank when denominator is zero. Describes supplied alerts only.
+barometre_market_analytical.csv,has_recorded_alerts,At least one supplied alert falls in the store-period.
+barometre_market_analytical.csv,alerts_id_in_reference,Store appears in the NPS MARKET ID list used to filter the supplied labelled alerts. False means that store was outside the alerts-preparation scope.
+barometre_market_analytical.csv,commercial_comparison_ready,Source survey score exists and transaction coverage matches the entire survey period exactly. Does not certify statistical reliability.
+barometre_market_analytical.csv,theme_absence_de_verbatim_mentions,Distinct alerts mentioning: Absence de verbatim. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_absence_de_verbatim_negative_mentions,Distinct alerts with negative theme sentiment: Absence de verbatim. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_accueil_et_comportement_du_personnel_mentions,Distinct alerts mentioning: Accueil et comportement du personnel. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_accueil_et_comportement_du_personnel_negative_mentions,Distinct alerts with negative theme sentiment: Accueil et comportement du personnel. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_affichage_et_exactitude_des_prix_mentions,Distinct alerts mentioning: Affichage et exactitude des prix. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_affichage_et_exactitude_des_prix_negative_mentions,Distinct alerts with negative theme sentiment: Affichage et exactitude des prix. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_attente_et_ouverture_des_caisses_mentions,Distinct alerts mentioning: Attente et ouverture des caisses. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_attente_et_ouverture_des_caisses_negative_mentions,Distinct alerts with negative theme sentiment: Attente et ouverture des caisses. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_confort_circulation_et_equipements_mentions,"Distinct alerts mentioning: Confort, circulation et équipements. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+barometre_market_analytical.csv,theme_confort_circulation_et_equipements_negative_mentions,"Distinct alerts with negative theme sentiment: Confort, circulation et équipements. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+barometre_market_analytical.csv,theme_contenu_non_interpretable_mentions,Distinct alerts mentioning: Contenu non interprétable. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_contenu_non_interpretable_negative_mentions,Distinct alerts with negative theme sentiment: Contenu non interprétable. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_contenu_non_interpretable_hors_sujet_mentions,Distinct alerts mentioning: Contenu non interprétable / hors sujet. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_contenu_non_interpretable_hors_sujet_negative_mentions,Distinct alerts with negative theme sentiment: Contenu non interprétable / hors sujet. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_disponibilite_et_choix_des_produits_mentions,Distinct alerts mentioning: Disponibilité et choix des produits. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_disponibilite_et_choix_des_produits_negative_mentions,Distinct alerts with negative theme sentiment: Disponibilité et choix des produits. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_disponibilite_et_competence_du_personnel_mentions,Distinct alerts mentioning: Disponibilité et compétence du personnel. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_disponibilite_et_competence_du_personnel_negative_mentions,Distinct alerts with negative theme sentiment: Disponibilité et compétence du personnel. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_experience_globale_mentions,Distinct alerts mentioning: Expérience globale. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_experience_globale_negative_mentions,Distinct alerts with negative theme sentiment: Expérience globale. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_fidelite_et_application_mentions,Distinct alerts mentioning: Fidélité et application. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_fidelite_et_application_negative_mentions,Distinct alerts with negative theme sentiment: Fidélité et application. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_horaires_mentions,Distinct alerts mentioning: Horaires. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_horaires_negative_mentions,Distinct alerts with negative theme sentiment: Horaires. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_livraison_et_commandes_mentions,Distinct alerts mentioning: Livraison et commandes. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_livraison_et_commandes_negative_mentions,Distinct alerts with negative theme sentiment: Livraison et commandes. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_paiement_monnaie_et_facturation_mentions,"Distinct alerts mentioning: Paiement, monnaie et facturation. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+barometre_market_analytical.csv,theme_paiement_monnaie_et_facturation_negative_mentions,"Distinct alerts with negative theme sentiment: Paiement, monnaie et facturation. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+barometre_market_analytical.csv,theme_parking_et_acces_mentions,Distinct alerts mentioning: Parking et accès. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_parking_et_acces_negative_mentions,Distinct alerts with negative theme sentiment: Parking et accès. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_prix_et_rapport_qualite_prix_mentions,Distinct alerts mentioning: Prix et rapport qualité/prix. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_prix_et_rapport_qualite_prix_negative_mentions,Distinct alerts with negative theme sentiment: Prix et rapport qualité/prix. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_promotions_mentions,Distinct alerts mentioning: Promotions. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_promotions_negative_mentions,Distinct alerts with negative theme sentiment: Promotions. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_proprete_et_hygiene_mentions,Distinct alerts mentioning: Propreté et hygiène. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_proprete_et_hygiene_negative_mentions,Distinct alerts with negative theme sentiment: Propreté et hygiène. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_qualite_et_fraicheur_des_produits_mentions,Distinct alerts mentioning: Qualité et fraîcheur des produits. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_qualite_et_fraicheur_des_produits_negative_mentions,Distinct alerts with negative theme sentiment: Qualité et fraîcheur des produits. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_reclamations_retours_et_remboursement_mentions,"Distinct alerts mentioning: Réclamations, retours et remboursement. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+barometre_market_analytical.csv,theme_reclamations_retours_et_remboursement_negative_mentions,"Distinct alerts with negative theme sentiment: Réclamations, retours et remboursement. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+barometre_market_analytical.csv,theme_securite_mentions,Distinct alerts mentioning: Sécurité. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_securite_negative_mentions,Distinct alerts with negative theme sentiment: Sécurité. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_services_en_magasin_mentions,Distinct alerts mentioning: Services en magasin. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,theme_services_en_magasin_negative_mentions,Distinct alerts with negative theme sentiment: Services en magasin. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+barometre_market_analytical.csv,previous_survey_period_id,Previous available period for this store in the same source.
+barometre_market_analytical.csv,previous_period_adjacent,Previous period ends on the calendar day immediately before this period begins.
+barometre_market_analytical.csv,previous_period_same_day_count,Previous period is adjacent and has the same number of calendar days. False does not imply invalid scores.
+barometre_market_analytical.csv,baro_score_global_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_satisfaction_globale_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_securite_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_les_caddies_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_le_confort_general_du_magasin_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_proprete_du_magasin_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_circulation_dans_le_magasin_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_disponibilite_du_personnel_en_rayon_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_politesse_du_personnel_en_rayon_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_disponibilite_du_personnel_dans_le_stand_coupe_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_politesse_du_personnel_dans_le_stand_coupe_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_l_attente_aux_caisses_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_politesse_des_hotesses_de_caisse_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_disponibilite_des_apres_caisses_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_localisation_des_produits_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_le_choix_en_alimentaire_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_le_choix_en_non_alimentaire_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_disponibilite_des_produits_habituels_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_qualite_fraicheur_des_produits_fleg_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_qualite_fraicheur_de_la_viande_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_qualite_fraicheur_poisson_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_qualite_fraicheur_produits_frais_trad_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_le_reperage_des_etiquettes_prix_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_l_exactitude_prix_entre_rayon_et_caisse_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_les_prix_en_general_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_le_rapport_q_prix_produits_en_general_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_prix_du_fleg_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_prix_du_poisson_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_prix_des_produits_trad_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_prix_de_la_viande_volaille_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_prix_de_la_viande_rouge_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_disponibilite_des_promotions_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_l_interet_des_promotions_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_la_mise_en_avant_des_promotions_en_magasin_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+barometre_market_analytical.csv,baro_conformite_promotions_rayon_depliant_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.
+nps_market_analytical.csv,store_id,"Canonical store code, stored as text. Joins use codes, not store names."
+nps_market_analytical.csv,store_name,"Source descriptive field, preserved for this survey period."
+nps_market_analytical.csv,sector,"Source descriptive field, preserved for this survey period."
+nps_market_analytical.csv,period_id,Survey-specific period identifier. Unique with store_id within each main analytical file.
+nps_market_analytical.csv,period_label,"Source descriptive field, preserved for this survey period."
+nps_market_analytical.csv,period_start,First calendar date represented by the survey label; actual fieldwork dates were not supplied.
+nps_market_analytical.csv,period_end,"Last calendar date represented by the survey label, inclusive."
+nps_market_analytical.csv,nps,"Original NPS score, -100 to +100; not recalculated from rounded percentages."
+nps_market_analytical.csv,participation_count,Number of NPS responses in this store-period. Missing remains blank.
+nps_market_analytical.csv,detractor_pct,Original detractor proportion stored on a 0–1 scale.
+nps_market_analytical.csv,passive_pct,Original passive proportion stored on a 0–1 scale.
+nps_market_analytical.csv,promoter_pct,Original promoter proportion stored on a 0–1 scale.
+nps_market_analytical.csv,survey_available,Whether the source global Barometre score or NPS score is present.
+nps_market_analytical.csv,source_row,"One-based source Excel row number, including header."
+nps_market_analytical.csv,nps_from_rounded_shares,"100 × (promoter_pct − detractor_pct), for comparison only."
+nps_market_analytical.csv,nps_rounding_difference,Source NPS minus NPS calculated from the rounded source proportions.
+nps_market_analytical.csv,period_days,"Number of calendar days in the survey period, inclusive."
+nps_market_analytical.csv,performance_status,"aligned, missing_months, period_mismatch, or missing_months_and_period_mismatch."
+nps_market_analytical.csv,performance_months_expected,Number of calendar months touched by the survey period.
+nps_market_analytical.csv,performance_months_present,Number of corresponding monthly transaction rows found.
+nps_market_analytical.csv,missing_performance_months,Missing YYYY-MM keys separated by |. No zero imputation.
+nps_market_analytical.csv,mismatched_performance_months,Monthly rows whose actual coverage cannot exactly match the survey period.
+nps_market_analytical.csv,sales,"Sum of source sales for an exactly aligned complete period, in unchanged source monetary units; otherwise blank."
+nps_market_analytical.csv,ticket_count,Sum of transaction tickets for an exactly aligned complete period; business definition of fréquentation.
+nps_market_analytical.csv,average_basket,"Period sales divided by period ticket_count, using unrounded totals."
+nps_market_analytical.csv,prior_year_performance_status,Alignment and completeness status for the corresponding calendar dates one year earlier.
+nps_market_analytical.csv,sales_prior_year,"Same-period prior-year value, using exactly aligned available transaction months; otherwise blank."
+nps_market_analytical.csv,sales_yoy_pct,100 × (current value / same-period prior-year value − 1). Blank unless both periods are aligned and the prior value is nonzero.
+nps_market_analytical.csv,ticket_count_prior_year,"Same-period prior-year value, using exactly aligned available transaction months; otherwise blank."
+nps_market_analytical.csv,ticket_count_yoy_pct,100 × (current value / same-period prior-year value − 1). Blank unless both periods are aligned and the prior value is nonzero.
+nps_market_analytical.csv,average_basket_prior_year,"Same-period prior-year value, using exactly aligned available transaction months; otherwise blank."
+nps_market_analytical.csv,average_basket_yoy_pct,100 × (current value / same-period prior-year value − 1). Blank unless both periods are aligned and the prior value is nonzero.
+nps_market_analytical.csv,alert_count,"Number of distinct supplied alert IDs dated within the period, regardless of theme count."
+nps_market_analytical.csv,alerts_with_text_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+nps_market_analytical.csv,alerts_analysable_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+nps_market_analytical.csv,alerts_positive_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+nps_market_analytical.csv,alerts_negative_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+nps_market_analytical.csv,alerts_mixed_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+nps_market_analytical.csv,alerts_neutral_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+nps_market_analytical.csv,alerts_not_analysable_count,Distinct alert count for this overall sentiment category; mutually exclusive across the five sentiment categories.
+nps_market_analytical.csv,negative_alert_share_pct,100 × negative alert count / analysable alert count; blank when denominator is zero. Describes supplied alerts only.
+nps_market_analytical.csv,has_recorded_alerts,At least one supplied alert falls in the store-period.
+nps_market_analytical.csv,alerts_id_in_reference,Store appears in the NPS MARKET ID list used to filter the supplied labelled alerts. False means that store was outside the alerts-preparation scope.
+nps_market_analytical.csv,commercial_comparison_ready,Source survey score exists and transaction coverage matches the entire survey period exactly. Does not certify statistical reliability.
+nps_market_analytical.csv,theme_absence_de_verbatim_mentions,Distinct alerts mentioning: Absence de verbatim. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_absence_de_verbatim_negative_mentions,Distinct alerts with negative theme sentiment: Absence de verbatim. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_accueil_et_comportement_du_personnel_mentions,Distinct alerts mentioning: Accueil et comportement du personnel. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_accueil_et_comportement_du_personnel_negative_mentions,Distinct alerts with negative theme sentiment: Accueil et comportement du personnel. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_affichage_et_exactitude_des_prix_mentions,Distinct alerts mentioning: Affichage et exactitude des prix. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_affichage_et_exactitude_des_prix_negative_mentions,Distinct alerts with negative theme sentiment: Affichage et exactitude des prix. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_attente_et_ouverture_des_caisses_mentions,Distinct alerts mentioning: Attente et ouverture des caisses. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_attente_et_ouverture_des_caisses_negative_mentions,Distinct alerts with negative theme sentiment: Attente et ouverture des caisses. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_confort_circulation_et_equipements_mentions,"Distinct alerts mentioning: Confort, circulation et équipements. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+nps_market_analytical.csv,theme_confort_circulation_et_equipements_negative_mentions,"Distinct alerts with negative theme sentiment: Confort, circulation et équipements. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+nps_market_analytical.csv,theme_contenu_non_interpretable_mentions,Distinct alerts mentioning: Contenu non interprétable. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_contenu_non_interpretable_negative_mentions,Distinct alerts with negative theme sentiment: Contenu non interprétable. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_contenu_non_interpretable_hors_sujet_mentions,Distinct alerts mentioning: Contenu non interprétable / hors sujet. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_contenu_non_interpretable_hors_sujet_negative_mentions,Distinct alerts with negative theme sentiment: Contenu non interprétable / hors sujet. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_disponibilite_et_choix_des_produits_mentions,Distinct alerts mentioning: Disponibilité et choix des produits. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_disponibilite_et_choix_des_produits_negative_mentions,Distinct alerts with negative theme sentiment: Disponibilité et choix des produits. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_disponibilite_et_competence_du_personnel_mentions,Distinct alerts mentioning: Disponibilité et compétence du personnel. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_disponibilite_et_competence_du_personnel_negative_mentions,Distinct alerts with negative theme sentiment: Disponibilité et compétence du personnel. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_experience_globale_mentions,Distinct alerts mentioning: Expérience globale. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_experience_globale_negative_mentions,Distinct alerts with negative theme sentiment: Expérience globale. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_fidelite_et_application_mentions,Distinct alerts mentioning: Fidélité et application. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_fidelite_et_application_negative_mentions,Distinct alerts with negative theme sentiment: Fidélité et application. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_horaires_mentions,Distinct alerts mentioning: Horaires. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_horaires_negative_mentions,Distinct alerts with negative theme sentiment: Horaires. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_livraison_et_commandes_mentions,Distinct alerts mentioning: Livraison et commandes. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_livraison_et_commandes_negative_mentions,Distinct alerts with negative theme sentiment: Livraison et commandes. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_paiement_monnaie_et_facturation_mentions,"Distinct alerts mentioning: Paiement, monnaie et facturation. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+nps_market_analytical.csv,theme_paiement_monnaie_et_facturation_negative_mentions,"Distinct alerts with negative theme sentiment: Paiement, monnaie et facturation. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+nps_market_analytical.csv,theme_parking_et_acces_mentions,Distinct alerts mentioning: Parking et accès. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_parking_et_acces_negative_mentions,Distinct alerts with negative theme sentiment: Parking et accès. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_prix_et_rapport_qualite_prix_mentions,Distinct alerts mentioning: Prix et rapport qualité/prix. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_prix_et_rapport_qualite_prix_negative_mentions,Distinct alerts with negative theme sentiment: Prix et rapport qualité/prix. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_promotions_mentions,Distinct alerts mentioning: Promotions. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_promotions_negative_mentions,Distinct alerts with negative theme sentiment: Promotions. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_proprete_et_hygiene_mentions,Distinct alerts mentioning: Propreté et hygiène. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_proprete_et_hygiene_negative_mentions,Distinct alerts with negative theme sentiment: Propreté et hygiène. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_qualite_et_fraicheur_des_produits_mentions,Distinct alerts mentioning: Qualité et fraîcheur des produits. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_qualite_et_fraicheur_des_produits_negative_mentions,Distinct alerts with negative theme sentiment: Qualité et fraîcheur des produits. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_reclamations_retours_et_remboursement_mentions,"Distinct alerts mentioning: Réclamations, retours et remboursement. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+nps_market_analytical.csv,theme_reclamations_retours_et_remboursement_negative_mentions,"Distinct alerts with negative theme sentiment: Réclamations, retours et remboursement. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts."
+nps_market_analytical.csv,theme_securite_mentions,Distinct alerts mentioning: Sécurité. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_securite_negative_mentions,Distinct alerts with negative theme sentiment: Sécurité. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_services_en_magasin_mentions,Distinct alerts mentioning: Services en magasin. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,theme_services_en_magasin_negative_mentions,Distinct alerts with negative theme sentiment: Services en magasin. A multi-theme alert can contribute once to several theme columns; do not sum themes to count alerts.
+nps_market_analytical.csv,previous_survey_period_id,Previous available period for this store in the same source.
+nps_market_analytical.csv,previous_period_adjacent,Previous period ends on the calendar day immediately before this period begins.
+nps_market_analytical.csv,previous_period_same_day_count,Previous period is adjacent and has the same number of calendar days. False does not imply invalid scores.
+nps_market_analytical.csv,nps_change_previous_period,Difference in score points versus the immediately adjacent previous survey period. Blank if a score or intervening period is missing. Period length/population may differ.

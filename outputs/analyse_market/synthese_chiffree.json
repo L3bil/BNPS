@@ -1,0 +1,35 @@
+{
+  "derniere_vague": "2026-08-31",
+  "magasins_derniere_vague": 111,
+  "baisses_15_points": 29,
+  "categories_derniere_vague": {
+    "Satisfaction en baisse, ventes en hausse": 19,
+    "Sans déclenchement": 80,
+    "Dégradation conjointe": 5,
+    "Satisfaction en baisse": 5,
+    "Comparaison insuffisante": 2
+  },
+  "signaux_themes_historiques": 82,
+  "episodes_distincts": 39,
+  "episodes_suivi_observable": 31,
+  "episodes_theme_persistant": 5,
+  "signaux_themes_actuels": 1,
+  "date_evaluation": "2026-10-18",
+  "bilan_chronologique": [
+    {
+      "groupe": "Avec signal de divergence",
+      "observations": 100,
+      "magasins_distincts": 65,
+      "baisses_futures": 7,
+      "taux_pct": 7.0
+    },
+    {
+      "groupe": "Sans signal de divergence",
+      "observations": 583,
+      "magasins_distincts": 105,
+      "baisses_futures": 52,
+      "taux_pct": 8.92
+    }
+  ],
+  "taille_donnees_octets": 850829
+}

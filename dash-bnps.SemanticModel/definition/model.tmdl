@@ -1,0 +1,23 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: fr-FR
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_ProTooling = ["DevMode"]
+
+annotation PBI_QueryOrder = ["Magasins","Periodes","Mensuel","Themes","Verbatims"]
+
+ref table Magasins
+ref table Periodes
+ref table Mensuel
+ref table Themes
+ref table Verbatims
+
+ref cultureInfo en-US
+

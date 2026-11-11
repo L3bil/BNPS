@@ -1,0 +1,9 @@
+{
+  "barometre_source_scores_reconciled": 1533,
+  "barometre_transaction_totals_reconciled": 1533,
+  "unique_alerts_verified": 3691,
+  "unique_alert_theme_pairs_verified": 6191,
+  "latest_nps_commercial_totals_correctly_unavailable": 111,
+  "sala_el_jadida_correction_verified": true,
+  "status": "passed"
+}

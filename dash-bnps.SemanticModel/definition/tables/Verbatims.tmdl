@@ -1,0 +1,49 @@
+table Verbatims
+	lineageTag: 9b32691c-9fd0-4eda-91a0-dca4915e9d41
+
+	column Code
+		dataType: string
+		lineageTag: 20cbded2-bab3-4dd7-b7f1-a05bf75c84b6
+		summarizeBy: none
+		sourceColumn: Code
+
+	column Mois
+		dataType: string
+		lineageTag: ef160da8-dc62-4685-a40f-ed9ff7a27e7d
+		summarizeBy: none
+		sourceColumn: Mois
+
+	column Date
+		dataType: string
+		lineageTag: 3c9fcfbc-b567-4f97-8d5a-a12dd7f37a44
+		summarizeBy: none
+		sourceColumn: Date
+
+	column Identifiant
+		dataType: string
+		lineageTag: c3c54588-eaef-43b5-915c-da29ad5c40c5
+		summarizeBy: none
+		sourceColumn: Identifiant
+
+	column Sentiment
+		dataType: string
+		lineageTag: afebb815-66ca-43e6-b965-143255ce4ebd
+		summarizeBy: none
+		sourceColumn: Sentiment
+
+	column Verbatim
+		dataType: string
+		lineageTag: cfda8311-8153-443f-86a6-4000f699cdaf
+		summarizeBy: none
+		sourceColumn: Verbatim
+
+	partition Verbatims = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:/Users/abdellah.ngar/Desktop/BNPS/outputs/powerbi/Verbatims.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Entetes = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Types = Table.TransformColumnTypes(Entetes, {{"Code", type text}, {"Mois", type text}, {"Date", type text}, {"Identifiant", type text}, {"Sentiment", type text}, {"Verbatim", type text}}, "en-US")
+				in
+				    Types
+

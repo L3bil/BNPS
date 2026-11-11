@@ -1,0 +1,145 @@
+﻿analyse,indicateur,performance,decalage_mois,n,magasins,periodes,r,statut
+Décalage,alerts_count,sales,1,888,97,18,0.022,Descriptif
+Intra-magasin,alerts_count,sales,1,605,90,17,-0.027,Descriptif
+Segment défavorable,alerts_count,sales,1,230,75,18,0.047,Descriptif
+Autres magasins,alerts_count,sales,1,658,95,18,0.04,Descriptif
+Décalage,alerts_count,ticket_count,1,888,97,18,0.061,Descriptif
+Intra-magasin,alerts_count,ticket_count,1,605,90,17,0.04,Descriptif
+Segment défavorable,alerts_count,ticket_count,1,230,75,18,0.104,Descriptif
+Autres magasins,alerts_count,ticket_count,1,658,95,18,0.071,Descriptif
+Décalage,alerts_count,average_basket,1,888,97,18,-0.057,Descriptif
+Intra-magasin,alerts_count,average_basket,1,605,90,17,-0.091,Descriptif
+Segment défavorable,alerts_count,average_basket,1,230,75,18,-0.09,Descriptif
+Autres magasins,alerts_count,average_basket,1,658,95,18,-0.041,Descriptif
+Décalage,alerts_count,sales,2,816,97,17,0.034,Descriptif
+Intra-magasin,alerts_count,sales,2,522,83,16,-0.034,Descriptif
+Segment défavorable,alerts_count,sales,2,210,74,17,0.031,Descriptif
+Autres magasins,alerts_count,sales,2,606,94,17,0.073,Descriptif
+Décalage,alerts_count,ticket_count,2,816,97,17,0.049,Descriptif
+Intra-magasin,alerts_count,ticket_count,2,522,83,16,0.033,Descriptif
+Segment défavorable,alerts_count,ticket_count,2,210,74,17,0.091,Descriptif
+Autres magasins,alerts_count,ticket_count,2,606,94,17,0.058,Descriptif
+Décalage,alerts_count,average_basket,2,816,97,17,-0.006,Descriptif
+Intra-magasin,alerts_count,average_basket,2,522,83,16,-0.09,Descriptif
+Segment défavorable,alerts_count,average_basket,2,210,74,17,-0.093,Descriptif
+Autres magasins,alerts_count,average_basket,2,606,94,17,0.044,Descriptif
+Décalage,alerts_count,sales,3,737,98,16,0.095,Descriptif
+Intra-magasin,alerts_count,sales,3,459,76,15,-0.069,Descriptif
+Segment défavorable,alerts_count,sales,3,188,71,16,0.211,Descriptif
+Autres magasins,alerts_count,sales,3,549,94,16,0.154,Descriptif
+Décalage,alerts_count,ticket_count,3,737,98,16,0.089,Descriptif
+Intra-magasin,alerts_count,ticket_count,3,459,76,15,-0.0,Descriptif
+Segment défavorable,alerts_count,ticket_count,3,188,71,16,0.242,Descriptif
+Autres magasins,alerts_count,ticket_count,3,549,94,16,0.091,Descriptif
+Décalage,alerts_count,average_basket,3,737,98,16,0.04,Descriptif
+Intra-magasin,alerts_count,average_basket,3,459,76,15,-0.106,Descriptif
+Segment défavorable,alerts_count,average_basket,3,188,71,16,0.004,Descriptif
+Autres magasins,alerts_count,average_basket,3,549,94,16,0.15,Descriptif
+Décalage,global_score,sales,1,972,105,11,-0.008,Descriptif
+Intra-magasin,global_score,sales,1,845,103,10,-0.012,Descriptif
+Segment défavorable,global_score,sales,1,247,76,11,-0.015,Descriptif
+Autres magasins,global_score,sales,1,725,104,11,0.009,Descriptif
+Décalage,global_score,ticket_count,1,972,105,11,-0.043,Descriptif
+Intra-magasin,global_score,ticket_count,1,845,103,10,-0.009,Descriptif
+Segment défavorable,global_score,ticket_count,1,247,76,11,-0.041,Descriptif
+Autres magasins,global_score,ticket_count,1,725,104,11,-0.01,Descriptif
+Décalage,global_score,average_basket,1,972,105,11,0.042,Descriptif
+Intra-magasin,global_score,average_basket,1,845,103,10,-0.006,Descriptif
+Segment défavorable,global_score,average_basket,1,247,76,11,0.045,Descriptif
+Autres magasins,global_score,average_basket,1,725,104,11,0.012,Descriptif
+Décalage,global_score,sales,2,875,105,10,-0.038,Descriptif
+Intra-magasin,global_score,sales,2,749,102,9,0.029,Descriptif
+Segment défavorable,global_score,sales,2,222,73,10,-0.032,Descriptif
+Autres magasins,global_score,sales,2,653,104,10,-0.036,Descriptif
+Décalage,global_score,ticket_count,2,875,105,10,-0.115,Descriptif
+Intra-magasin,global_score,ticket_count,2,749,102,9,0.027,Descriptif
+Segment défavorable,global_score,ticket_count,2,222,73,10,-0.149,Descriptif
+Autres magasins,global_score,ticket_count,2,653,104,10,-0.093,Descriptif
+Décalage,global_score,average_basket,2,875,105,10,0.105,Descriptif
+Intra-magasin,global_score,average_basket,2,749,102,9,0.003,Descriptif
+Segment défavorable,global_score,average_basket,2,222,73,10,0.188,Descriptif
+Autres magasins,global_score,average_basket,2,653,104,10,0.07,Descriptif
+Décalage,global_score,sales,3,971,105,11,0.037,Descriptif
+Intra-magasin,global_score,sales,3,749,103,9,-0.03,Descriptif
+Segment défavorable,global_score,sales,3,247,79,11,0.037,Descriptif
+Autres magasins,global_score,sales,3,724,104,11,0.005,Descriptif
+Décalage,global_score,ticket_count,3,971,105,11,-0.008,Descriptif
+Intra-magasin,global_score,ticket_count,3,749,103,9,-0.027,Descriptif
+Segment défavorable,global_score,ticket_count,3,247,79,11,-0.05,Descriptif
+Autres magasins,global_score,ticket_count,3,724,104,11,-0.01,Descriptif
+Décalage,global_score,average_basket,3,971,105,11,0.077,Descriptif
+Intra-magasin,global_score,average_basket,3,749,103,9,-0.021,Descriptif
+Segment défavorable,global_score,average_basket,3,247,79,11,0.166,Descriptif
+Autres magasins,global_score,average_basket,3,724,104,11,0.013,Descriptif
+Décalage,satisfaction_score,sales,1,972,105,11,0.035,Descriptif
+Intra-magasin,satisfaction_score,sales,1,845,103,10,0.033,Descriptif
+Segment défavorable,satisfaction_score,sales,1,258,86,11,0.024,Descriptif
+Autres magasins,satisfaction_score,sales,1,714,104,11,0.029,Descriptif
+Décalage,satisfaction_score,ticket_count,1,972,105,11,0.037,Descriptif
+Intra-magasin,satisfaction_score,ticket_count,1,845,103,10,0.023,Descriptif
+Segment défavorable,satisfaction_score,ticket_count,1,258,86,11,0.035,Descriptif
+Autres magasins,satisfaction_score,ticket_count,1,714,104,11,0.018,Descriptif
+Décalage,satisfaction_score,average_basket,1,972,105,11,0.013,Descriptif
+Intra-magasin,satisfaction_score,average_basket,1,845,103,10,0.035,Descriptif
+Segment défavorable,satisfaction_score,average_basket,1,258,86,11,0.005,Descriptif
+Autres magasins,satisfaction_score,average_basket,1,714,104,11,0.028,Descriptif
+Décalage,satisfaction_score,sales,2,875,105,10,0.051,Descriptif
+Intra-magasin,satisfaction_score,sales,2,749,102,9,0.027,Descriptif
+Segment défavorable,satisfaction_score,sales,2,233,84,10,0.057,Descriptif
+Autres magasins,satisfaction_score,sales,2,642,104,10,0.062,Descriptif
+Décalage,satisfaction_score,ticket_count,2,875,105,10,0.06,Descriptif
+Intra-magasin,satisfaction_score,ticket_count,2,749,102,9,0.032,Descriptif
+Segment défavorable,satisfaction_score,ticket_count,2,233,84,10,0.086,Descriptif
+Autres magasins,satisfaction_score,ticket_count,2,642,104,10,0.068,Descriptif
+Décalage,satisfaction_score,average_basket,2,875,105,10,-0.011,Descriptif
+Intra-magasin,satisfaction_score,average_basket,2,749,102,9,-0.007,Descriptif
+Segment défavorable,satisfaction_score,average_basket,2,233,84,10,-0.034,Descriptif
+Autres magasins,satisfaction_score,average_basket,2,642,104,10,0.004,Descriptif
+Décalage,satisfaction_score,sales,3,971,105,11,0.029,Descriptif
+Intra-magasin,satisfaction_score,sales,3,749,103,9,0.032,Descriptif
+Segment défavorable,satisfaction_score,sales,3,255,86,11,-0.006,Descriptif
+Autres magasins,satisfaction_score,sales,3,716,104,11,-0.022,Descriptif
+Décalage,satisfaction_score,ticket_count,3,971,105,11,0.019,Descriptif
+Intra-magasin,satisfaction_score,ticket_count,3,749,103,9,0.03,Descriptif
+Segment défavorable,satisfaction_score,ticket_count,3,255,86,11,-0.024,Descriptif
+Autres magasins,satisfaction_score,ticket_count,3,716,104,11,-0.031,Descriptif
+Décalage,satisfaction_score,average_basket,3,971,105,11,0.029,Descriptif
+Intra-magasin,satisfaction_score,average_basket,3,749,103,9,0.015,Descriptif
+Segment défavorable,satisfaction_score,average_basket,3,255,86,11,0.022,Descriptif
+Autres magasins,satisfaction_score,average_basket,3,716,104,11,0.009,Descriptif
+Décalage,nps_score,sales,1,250,98,3,0.119,Insuffisant : moins de 6 périodes NPS
+Intra-magasin,nps_score,sales,1,124,62,2,0.224,Insuffisant : moins de 6 périodes NPS
+Segment défavorable,nps_score,sales,1,64,40,3,-0.041,Insuffisant : moins de 6 périodes NPS
+Autres magasins,nps_score,sales,1,186,86,3,0.134,Insuffisant : moins de 6 périodes NPS
+Décalage,nps_score,ticket_count,1,250,98,3,0.145,Insuffisant : moins de 6 périodes NPS
+Intra-magasin,nps_score,ticket_count,1,124,62,2,0.131,Insuffisant : moins de 6 périodes NPS
+Segment défavorable,nps_score,ticket_count,1,64,40,3,0.02,Insuffisant : moins de 6 périodes NPS
+Autres magasins,nps_score,ticket_count,1,186,86,3,0.149,Insuffisant : moins de 6 périodes NPS
+Décalage,nps_score,average_basket,1,250,98,3,-0.02,Insuffisant : moins de 6 périodes NPS
+Intra-magasin,nps_score,average_basket,1,124,62,2,0.191,Insuffisant : moins de 6 périodes NPS
+Segment défavorable,nps_score,average_basket,1,64,40,3,-0.135,Insuffisant : moins de 6 périodes NPS
+Autres magasins,nps_score,average_basket,1,186,86,3,0.031,Insuffisant : moins de 6 périodes NPS
+Décalage,nps_score,sales,2,250,98,3,0.06,Insuffisant : moins de 6 périodes NPS
+Intra-magasin,nps_score,sales,2,124,62,2,-0.166,Insuffisant : moins de 6 périodes NPS
+Segment défavorable,nps_score,sales,2,64,40,3,-0.009,Insuffisant : moins de 6 périodes NPS
+Autres magasins,nps_score,sales,2,186,86,3,0.044,Insuffisant : moins de 6 périodes NPS
+Décalage,nps_score,ticket_count,2,250,98,3,0.097,Insuffisant : moins de 6 périodes NPS
+Intra-magasin,nps_score,ticket_count,2,124,62,2,-0.242,Insuffisant : moins de 6 périodes NPS
+Segment défavorable,nps_score,ticket_count,2,64,40,3,0.028,Insuffisant : moins de 6 périodes NPS
+Autres magasins,nps_score,ticket_count,2,186,86,3,0.085,Insuffisant : moins de 6 périodes NPS
+Décalage,nps_score,average_basket,2,250,98,3,-0.048,Insuffisant : moins de 6 périodes NPS
+Intra-magasin,nps_score,average_basket,2,124,62,2,0.062,Insuffisant : moins de 6 périodes NPS
+Segment défavorable,nps_score,average_basket,2,64,40,3,-0.068,Insuffisant : moins de 6 périodes NPS
+Autres magasins,nps_score,average_basket,2,186,86,3,-0.046,Insuffisant : moins de 6 périodes NPS
+Décalage,nps_score,sales,3,258,98,3,0.056,Insuffisant : moins de 6 périodes NPS
+Intra-magasin,nps_score,sales,3,124,62,2,0.225,Insuffisant : moins de 6 périodes NPS
+Segment défavorable,nps_score,sales,3,66,40,3,-0.046,Insuffisant : moins de 6 périodes NPS
+Autres magasins,nps_score,sales,3,192,87,3,-0.014,Insuffisant : moins de 6 périodes NPS
+Décalage,nps_score,ticket_count,3,258,98,3,0.065,Insuffisant : moins de 6 périodes NPS
+Intra-magasin,nps_score,ticket_count,3,124,62,2,0.169,Insuffisant : moins de 6 périodes NPS
+Segment défavorable,nps_score,ticket_count,3,66,40,3,0.056,Insuffisant : moins de 6 périodes NPS
+Autres magasins,nps_score,ticket_count,3,192,87,3,0.009,Insuffisant : moins de 6 périodes NPS
+Décalage,nps_score,average_basket,3,258,98,3,0.0,Insuffisant : moins de 6 périodes NPS
+Intra-magasin,nps_score,average_basket,3,124,62,2,0.276,Insuffisant : moins de 6 périodes NPS
+Segment défavorable,nps_score,average_basket,3,66,40,3,-0.164,Insuffisant : moins de 6 périodes NPS
+Autres magasins,nps_score,average_basket,3,192,87,3,-0.033,Insuffisant : moins de 6 périodes NPS

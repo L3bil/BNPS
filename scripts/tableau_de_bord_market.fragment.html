@@ -1,0 +1,96 @@
+<div id="analyse-market">
+  <h2>Market — satisfaction et performance</h2>
+  <div class="viz-controls">
+    <label class="form-label">Source<select id="am-source" class="form-select"><option>Baromètre</option><option>NPS</option></select></label>
+    <label class="form-label">Période<select id="am-periode" class="form-select"></select></label>
+    <label class="form-label">Baisse minimale : <span id="am-seuil-valeur"></span> points<input id="am-seuil" class="form-range" type="range" min="5" max="40" step="1" value="15"></label>
+  </div>
+  <div id="am-bilan" class="viz-row" aria-live="polite"></div>
+  <div class="text-small text-muted">Score : variation depuis la période précédente · CA, tickets, panier : variation sur un an · — : indisponible</div>
+  <div class="table-responsive"><table class="table table-sm"><thead><tr><th>Magasin</th><th>Δ score<br>points</th><th>CA<br>% annuel</th><th>Tickets<br>% annuel</th><th>Panier<br>% annuel</th><th>Situation</th></tr></thead><tbody id="am-lignes"></tbody></table></div>
+  <div class="viz-row"><button id="am-precedent" class="btn" type="button">Précédents</button><span id="am-page"></span><button id="am-suivant" class="btn" type="button">Suivants</button></div>
+  <hr>
+  <label class="form-label">Examiner un magasin<select id="am-magasin" class="form-select"></select></label>
+  <div id="am-detail" aria-live="polite"></div>
+  <hr>
+  <h3>Signal récent — 18 octobre 2026</h3>
+  <div id="am-signal"></div>
+  <hr>
+  <h3>Test historique — seuil fixe de 15 points</h3>
+  <div class="table-responsive"><table class="table"><thead><tr><th>Groupe</th><th>Observations</th><th>Baisses futures des tickets</th><th>Taux</th></tr></thead><tbody id="am-test"></tbody></table></div>
+  <div class="text-small">Gain prédictif non démontré · Tickets futurs : baisse annuelle ≥ 5 % · Magasins déjà en baisse exclus</div>
+</div>
+<style>
+#analyse-market {color:var(--foreground)}
+#analyse-market h2 {padding-right:90px}
+#analyse-market .am-indicateur {margin:12px 0}
+#analyse-market .am-barre {height:6px;background:var(--muted);margin-top:5px}
+#analyse-market .am-barre span {display:block;height:100%;background:var(--viz-series-1)}
+#analyse-market blockquote {margin:12px 0;padding-left:12px;border-left:2px solid var(--border);overflow-wrap:anywhere}
+#analyse-market .am-entete {display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+</style>
+<script type="application/json" id="am-donnees">__DONNEES_MARKET__</script>
+<script>
+(() => {
+  const racine=document.getElementById('analyse-market');
+  const el=id=>racine.querySelector('#am-'+id);
+  const donnees=JSON.parse(document.getElementById('am-donnees').textContent);
+  const lignes=donnees.observations.map(r=>Object.fromEntries(donnees.colonnes.map((c,i)=>[c,r[i]])));
+  const fmt=v=>v==null?'—':new Intl.NumberFormat('fr-FR',{maximumFractionDigits:2}).format(v);
+  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  let etat={source:'Baromètre',periode:donnees.derniere_baro,seuil:15,magasin:'742',page:0};
+  function restaurer(s){const v=s?.privateContent;if(v&&['Baromètre','NPS'].includes(v.source)){etat={...etat,...v};etat.seuil=Math.max(5,Math.min(40,Number(v.seuil)||15));etat.page=Math.max(0,Number(v.page)||0);}}
+  restaurer(window.openai?.widgetState);
+  function sauver(){window.openai?.setWidgetState?.({modelContent:{source:etat.source,periode:etat.periode,seuil_baisse_points:etat.seuil,code_magasin:etat.magasin},privateContent:etat})?.catch(()=>{});}
+  function categorie(r){
+    if(!r.comparaison_possible)return 'Comparaison insuffisante';
+    if(r.variation_score>-etat.seuil)return 'Sans déclenchement';
+    if(r.tickets_evolution_annuelle_pct!=null&&r.tickets_evolution_annuelle_pct<=-5)return 'Dégradation conjointe';
+    if(r.ca_evolution_annuelle_pct!=null&&r.ca_evolution_annuelle_pct>=0)return 'Satisfaction en baisse, ventes en hausse';
+    return 'Satisfaction en baisse';
+  }
+  function detail(r){
+    if(!r){el('detail').textContent='Aucune observation';return;}
+    const d=donnees.details[r.cle];
+    let h=`<h3>${esc(r.magasin)} · ${esc(r.code_magasin)}</h3><div class="viz-row"><span>Score : ${fmt(r.score)}</span><span>Variation : ${fmt(r.variation_score)} points</span><span>${esc(categorie(r))}</span></div>`;
+    h+=`<div class="text-small">${r.source==='NPS'?`Réponses : ${fmt(r.reponses)} · Période précédente : ${fmt(r.reponses_precedentes)}`:'Effectif de répondants Baromètre non fourni'}</div>`;
+    h+=`<div>${r.perimetre_verbatims?`${fmt(r.commentaires)} alertes · ${fmt(r.commentaires_analysables)} analysables · ${fmt(r.negatifs)} globalement négatives`:'Magasin hors périmètre des verbatims retenus'}</div>`;
+    if(!d){h+='<div class="text-small">Détails disponibles pour la dernière vague Baromètre et les deux dernières périodes NPS.</div>';}
+    else {
+      if(d.indicateurs.length){const maxi=Math.max(...d.indicateurs.map(x=>Math.abs(x.variation)));
+        h+='<h3>Principales baisses des scores détaillés</h3>';
+        for(const v of d.indicateurs)h+=`<div class="am-indicateur"><div class="am-entete"><span>${esc(v.indicateur)}</span><span class="tabular-nums">${fmt(v.variation)} points</span></div><div class="am-barre" aria-hidden="true"><span style="width:${100*Math.abs(v.variation)/maxi}%"></span></div><div class="text-small">Score : ${fmt(v.score)} · ${fmt(v.mentions_negatives)} mention(s) négative(s) du thème associé</div></div>`;
+      }
+      if(d.themes.length){h+='<h3>Thèmes négatifs mentionnés sur la période</h3><ul>';for(const v of d.themes)h+=`<li>${esc(v.theme)} : ${fmt(v.mentions_negatives)} mention(s)</li>`;h+='</ul>';}
+      if(d.verbatims.length){h+='<h3>Commentaires associés — même période</h3>';for(const v of d.verbatims)h+=`<blockquote>« ${esc(v.extrait)} »<div class="text-small">${esc(v.date)} · ${esc(v.theme)} · Alerte ${esc(v.identifiant_alerte)}</div></blockquote>`;}
+    }
+    el('detail').innerHTML=h;
+  }
+  function dessiner(){
+    el('source').value=etat.source;el('seuil').value=etat.seuil;el('seuil-valeur').textContent=etat.seuil;
+    const source=lignes.filter(r=>r.source===etat.source);
+    const periodes=[...new Map(source.map(r=>[r.fin,r.periode])).entries()].sort((a,b)=>b[0].localeCompare(a[0]));
+    if(!periodes.some(p=>p[0]===etat.periode))etat.periode=periodes[0][0];
+    el('periode').innerHTML=periodes.map(p=>`<option value="${p[0]}">${esc(p[1])}</option>`).join('');el('periode').value=etat.periode;
+    const rs=source.filter(r=>r.fin===etat.periode).sort((a,b)=>(a.variation_score??Infinity)-(b.variation_score??Infinity));
+    const comparables=rs.filter(r=>r.comparaison_possible);const baisses=comparables.filter(r=>r.variation_score<=-etat.seuil);
+    el('bilan').textContent=`${rs.length} magasins · ${comparables.length} comparables · ${baisses.length} baisses au seuil retenu`;
+    etat.page=Math.min(etat.page,Math.max(0,Math.ceil(rs.length/10)-1));
+    el('lignes').innerHTML=rs.slice(etat.page*10,etat.page*10+10).map(r=>`<tr><td><button class="btn btn-ghost" type="button" data-magasin="${esc(r.code_magasin)}">${esc(r.magasin)} (${esc(r.code_magasin)})</button></td><td class="text-end">${fmt(r.variation_score)}</td><td class="text-end">${fmt(r.ca_evolution_annuelle_pct)}</td><td class="text-end">${fmt(r.tickets_evolution_annuelle_pct)}</td><td class="text-end">${fmt(r.panier_evolution_annuelle_pct)}</td><td>${esc(categorie(r))}</td></tr>`).join('');
+    el('page').textContent=`${etat.page+1} / ${Math.ceil(rs.length/10)}`;el('precedent').disabled=etat.page===0;el('suivant').disabled=(etat.page+1)*10>=rs.length;
+    el('magasin').innerHTML=[...rs].sort((a,b)=>a.magasin.localeCompare(b.magasin,'fr')).map(r=>`<option value="${esc(r.code_magasin)}">${esc(r.magasin)} (${esc(r.code_magasin)})</option>`).join('');
+    if(!rs.some(r=>r.code_magasin===etat.magasin))etat.magasin=rs[0]?.code_magasin;
+    el('magasin').value=etat.magasin;detail(rs.find(r=>r.code_magasin===etat.magasin));
+  }
+  el('source').addEventListener('change',()=>{etat.source=el('source').value;etat.periode=etat.source==='Baromètre'?donnees.derniere_baro:'2026-06-30';etat.seuil=etat.source==='Baromètre'?15:10;etat.page=0;dessiner();sauver();});
+  el('periode').addEventListener('change',()=>{etat.periode=el('periode').value;etat.page=0;dessiner();sauver();});
+  el('seuil').addEventListener('input',()=>{etat.seuil=Number(el('seuil').value);dessiner();});el('seuil').addEventListener('change',sauver);
+  el('magasin').addEventListener('change',()=>{etat.magasin=el('magasin').value;dessiner();sauver();});
+  el('lignes').addEventListener('click',e=>{const b=e.target.closest('[data-magasin]');if(b){etat.magasin=b.dataset.magasin;dessiner();sauver();}});
+  el('precedent').addEventListener('click',()=>{etat.page--;dessiner();sauver();});el('suivant').addEventListener('click',()=>{etat.page++;dessiner();sauver();});
+  el('signal').innerHTML=donnees.signaux.map(s=>`<div>${esc(s.magasin)} (${esc(s.code_magasin)}) · ${esc(s.theme)}</div><div class="viz-row"><span>Récent : ${s.mentions_negatives_recentes}/${s.commentaires_recents} (${fmt(s.part_recente_pct)} %)</span><span>Référence : ${s.mentions_negatives_reference}/${s.commentaires_reference} (${fmt(s.part_reference_pct)} %)</span><span>+${fmt(s.hausse_part_points)} points</span></div><div class="text-small">${s.debut_recent} – ${s.fin_recent} · Référence : ${s.debut_reference} – ${s.fin_reference}</div><blockquote>« ${esc(s.extrait_appui)} »</blockquote>`).join('')||'Aucun signal au seuil retenu';
+  el('test').innerHTML=donnees.bilan.map(b=>`<tr><td>${esc(b.groupe)}</td><td class="text-end">${b.observations}</td><td class="text-end">${b.baisses_futures}</td><td class="text-end">${fmt(b.taux_pct)} %</td></tr>`).join('');
+  window.addEventListener('openai:set_globals',e=>{if(e.detail?.globals?.widgetState){restaurer(e.detail.globals.widgetState);dessiner();}});
+  dessiner();
+})();
+</script>

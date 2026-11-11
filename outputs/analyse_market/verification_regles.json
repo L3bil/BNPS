@@ -1,0 +1,26 @@
+{
+  "statut": "Contrôles réussis",
+  "observations": 1977,
+  "magasins_derniere_vague": 111,
+  "controles": [
+    "Unicité magasin/source/période",
+    "Dénominateurs des commentaires",
+    "Exclusion du NPS partiel des comparaisons commerciales",
+    "Effectifs NPS minimaux",
+    "Fenêtres temporelles disjointes et seuils des signaux",
+    "Ordre chronologique et recomptage indépendant du bilan",
+    "Taille et assemblage du tableau de bord"
+  ],
+  "taille_tableau_de_bord_octets": 860858,
+  "interface": {
+    "statut": "Tests fonctionnels réussis",
+    "controles": [
+      "Rendu initial et commentaire associé",
+      "Changement de seuil et recomptage",
+      "Passage au NPS et sélection de période",
+      "Exclusion de la période partielle",
+      "Affichage des signaux et du bilan"
+    ],
+    "controle_visuel": "Non réalisé : aperçu navigateur local inaccessible (délai de connexion dépassé)"
+  }
+}

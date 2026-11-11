@@ -1,0 +1,25 @@
+table Magasins
+	lineageTag: 99ecfd50-1abd-4d5c-938b-ab529d1bdfbc
+
+	column Code
+		dataType: string
+		lineageTag: 18921a38-ae8d-49f6-b4df-66462c111624
+		summarizeBy: none
+		sourceColumn: Code
+
+	column Magasin
+		dataType: string
+		lineageTag: 4c9bf6dd-4367-4025-8279-4a0dfe21528b
+		summarizeBy: none
+		sourceColumn: Magasin
+
+	partition Magasins = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:/Users/abdellah.ngar/Desktop/BNPS/outputs/powerbi/Magasins.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Entetes = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Types = Table.TransformColumnTypes(Entetes, {{"Code", type text}, {"Magasin", type text}}, "en-US")
+				in
+				    Types
+

@@ -1,0 +1,577 @@
+{
+  "3343": [
+    {
+      "id": "mxoJBlN94j",
+      "date": "03/11/2025 18:04:14",
+      "store_id": "167",
+      "verbatim": "Les prix sont exagéré",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "Les prix sont exagéré"
+    }
+  ],
+  "1436": [],
+  "3053": [
+    {
+      "id": "54EA2Na54y",
+      "date": "20/12/2025 15:22:52",
+      "store_id": "177",
+      "verbatim": "Bonjour,\nJe souhaite vous signaler un problème récurrent au rayon fromage de votre magasin de Bouskoura : à plusieurs reprises, j’ai constaté beaucoup de retard et l’absence de personnel disponible, ce qui m’a obligé à attendre longuement et même à me déplacer vers d’autres magasins pour pouvoir acheter mes produits.\nMerci de bien vouloir prendre en charge cette situation et mettre en place une organisation permettant d’assurer une meilleure disponibilité et un service plus fluide au rayon fromage.\nCordialement,\nLekbich",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "beaucoup de retard et l’absence de personnel disponible"
+    }
+  ],
+  "2098": [
+    {
+      "id": "p4M9X51742",
+      "date": "22/04/2026 19:27:30",
+      "store_id": "201",
+      "verbatim": "Il faut prévoir  plus de formation sur l'esprit  du service client  aussi le compartement  du personnel  surtout  les agents  de sécurité    \nAttention  les sousci et les réclamations  entre le personnel  dois passer inaperçu  devant  les client",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "plus de formation sur l'esprit du service client aussi le compartement du personnel surtout les agents de sécurité"
+    },
+    {
+      "id": "p4M9X51742",
+      "date": "22/04/2026 19:27:30",
+      "store_id": "201",
+      "verbatim": "Il faut prévoir  plus de formation sur l'esprit  du service client  aussi le compartement  du personnel  surtout  les agents  de sécurité    \nAttention  les sousci et les réclamations  entre le personnel  dois passer inaperçu  devant  les client",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "les sousci et les réclamations entre le personnel dois passer inaperçu devant les client"
+    }
+  ],
+  "1022": [
+    {
+      "id": "jdpwZXPw68",
+      "date": "15/07/2026 18:49:33",
+      "store_id": "668",
+      "verbatim": "Problème d hygiène au niveau de la boucherie.",
+      "theme": "Propreté du magasin",
+      "sentiment": "negative",
+      "evidence": "Problème d hygiène au niveau de la boucherie"
+    }
+  ],
+  "3745": [],
+  "1075": [
+    {
+      "id": "V8rvNb1Dz8",
+      "date": "11/07/2026 15:50:03",
+      "store_id": "769",
+      "verbatim": "Satisfait ",
+      "theme": "Satisfaction générale",
+      "sentiment": "positive",
+      "evidence": "Satisfait"
+    }
+  ],
+  "3296": [
+    {
+      "id": "p8gvJwKqxa",
+      "date": "11/11/2025 16:37:25",
+      "store_id": "701",
+      "verbatim": "Mr. Mohcine le boucher de Carrefour l'océan est une personne de confiance, sympathique et très serviable! ",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "une personne de confiance, sympathique et très serviable"
+    }
+  ],
+  "4220": [
+    {
+      "id": "646gwNo5x9",
+      "date": "04/07/2025 22:08:57",
+      "store_id": "114",
+      "verbatim": "Problème avec chef stock ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Problème avec chef stock"
+    }
+  ],
+  "3013": [
+    {
+      "id": "p4MDv0X5d2",
+      "date": "30/12/2025 20:12:47",
+      "store_id": "117",
+      "verbatim": "Très satisfaite de la qualité des produits \n",
+      "theme": "Qualité produits",
+      "sentiment": "positive",
+      "evidence": "Très satisfaite de la qualité des produits"
+    }
+  ],
+  "4429": [],
+  "870": [
+    {
+      "id": "54EV56GO7x",
+      "date": "01/08/2026 14:36:26",
+      "store_id": "158",
+      "verbatim": "peux mieux faire ",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "peux mieux faire"
+    }
+  ],
+  "2937": [
+    {
+      "id": "gxKppZQy8o",
+      "date": "18/01/2026 12:41:04",
+      "store_id": "111",
+      "verbatim": "Peu de caisses fonctionnelles.\n",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "Peu de caisses fonctionnelles"
+    }
+  ],
+  "1775": [],
+  "4552": [
+    {
+      "id": "LdLW2DO28j",
+      "date": "02/09/2024 12:23:07",
+      "store_id": "207",
+      "verbatim": "test unsatisfied client Hyper FR",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "unsatisfied client"
+    }
+  ],
+  "4274": [
+    {
+      "id": "lxDjabJOdM",
+      "date": "28/06/2025 13:58:30",
+      "store_id": "111",
+      "verbatim": "Bonjour,\nLa majorité des articles en promo sur votre dernier dépliant n'existe pas sur les rayons...",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "La majorité des articles en promo sur votre dernier dépliant n'existe pas sur les rayons"
+    }
+  ],
+  "29": [],
+  "3341": [
+    {
+      "id": "lxDAD7618M",
+      "date": "04/11/2025 01:23:34",
+      "store_id": "178",
+      "verbatim": "La qualité des legumes a revoir, aussi la viande surtout des vaches pas top. La disponibilité des agents pas top aussi",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "La qualité des legumes a revoir, aussi la viande surtout des vaches pas top"
+    },
+    {
+      "id": "lxDAD7618M",
+      "date": "04/11/2025 01:23:34",
+      "store_id": "178",
+      "verbatim": "La qualité des legumes a revoir, aussi la viande surtout des vaches pas top. La disponibilité des agents pas top aussi",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "La disponibilité des agents pas top aussi"
+    }
+  ],
+  "2972": [
+    {
+      "id": "JdYaYqPqdR",
+      "date": "07/01/2026 22:48:17",
+      "store_id": "301",
+      "verbatim": "Bjr,\nProblème de prix affichés et prix a la caisse .!!!!!!!!\nDes employés et responsables la moindre des choses que je peux dire des gamins irresponsables.",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "Problème de prix affichés et prix a la caisse"
+    },
+    {
+      "id": "JdYaYqPqdR",
+      "date": "07/01/2026 22:48:17",
+      "store_id": "301",
+      "verbatim": "Bjr,\nProblème de prix affichés et prix a la caisse .!!!!!!!!\nDes employés et responsables la moindre des choses que je peux dire des gamins irresponsables.",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Des employés et responsables la moindre des choses que je peux dire des gamins irresponsables"
+    }
+  ],
+  "4354": [
+    {
+      "id": "vdOGN0ONdl",
+      "date": "11/06/2025 15:37:36",
+      "store_id": "127",
+      "verbatim": "Je passe à la caisse pas 1 bonjour pas 1 sourire pas 1 merci pas 1 au revoir qu'elle honte pour votre enseigne ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "pas 1 bonjour pas 1 sourire pas 1 merci pas 1 au revoir"
+    }
+  ],
+  "4267": [
+    {
+      "id": "689OgDXa4K",
+      "date": "29/06/2025 10:27:54",
+      "store_id": "195",
+      "verbatim": "très bon service ",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "très bon service"
+    }
+  ],
+  "2102": [],
+  "2887": [
+    {
+      "id": "p4MGZWQ582",
+      "date": "27/01/2026 21:42:23",
+      "store_id": "186",
+      "verbatim": "Des ruptures fréquentes de produits  c devenu agaçant je complète toujours mes achats dans un autre magasin ",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "Des ruptures fréquentes de produits, c'est devenu agaçant"
+    }
+  ],
+  "538": [],
+  "2096": [
+    {
+      "id": "Y4WQNPW189",
+      "date": "22/04/2026 20:35:52",
+      "store_id": "111",
+      "verbatim": "Former vos employés sur la relation client. Tout le staff est faché, on dirait qu ils sont en deuil, et si vous souhaitez recruter les jeunes choisissez ceux qui ont assez de maturité  l autre fois, il y avait un qui rigolait avec son collégue en descriminant une tourite  vs vs rendez compte si elle porte plainte contre vs !!!!????",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Former vos employés sur la relation client. Tout le staff est faché... il y avait un qui rigolait avec son collégue en descriminant une tourite"
+    }
+  ],
+  "1610": [
+    {
+      "id": "58y1pDpM18",
+      "date": "19/05/2026 20:42:31",
+      "store_id": "213",
+      "verbatim": "Souvent, on reste en attente devant les caisses pendant plusieurs temps et ça se répète ",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "on reste en attente devant les caisses pendant plusieurs temps et ça se répète"
+    }
+  ],
+  "429": [
+    {
+      "id": "wdQD6LwAe8",
+      "date": "05/09/2026 15:37:26",
+      "store_id": "742",
+      "verbatim": "00/100😡",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "00/100😡"
+    }
+  ],
+  "3034": [
+    {
+      "id": "exGk6gpwxK",
+      "date": "26/12/2025 13:32:06",
+      "store_id": "207",
+      "verbatim": "Bravo de mieux en mieux ",
+      "theme": "Satisfaction générale",
+      "sentiment": "positive",
+      "evidence": "Bravo de mieux en mieux"
+    }
+  ],
+  "1128": [
+    {
+      "id": "LxjpwONbAd",
+      "date": "07/07/2026 23:15:55",
+      "store_id": "7110",
+      "verbatim": "Je souhaite attirer votre attention sur plusieurs dysfonctionnements constatés au sein du magasin Carrefour Tit Mellil.\n\nContrairement aux autres magasins Carrefour de Casablanca, ce point de vente souffre d'un manque évident de disponibilité du personnel. Il est fréquent de devoir attendre une dizaine de minutes avant qu'un employé de la boucherie ou de la fromagerie soit disponible pour servir les clients, ce qui nuit considérablement à l'expérience d'achat.\n\nPar ailleurs, un problème particulièrement préoccupant concerne les dates limites de consommation (DLC). De nombreux produits sont proposés avec une DLC très proche, voire déjà dépassée. Nous avons d'ailleurs été contraints de retourner plusieurs articles pour cette raison. Cette situation mérite une vigilance accrue afin de garantir la sécurité des consommateurs et de préserver la confiance des clients.\n\nCe magasin a un réel potentiel, mais il est essentiel de lui accorder davantage d'attention en renforçant les équipes et en améliorant le contrôle des produits mis en rayon. À défaut, vous risquez de perdre une part importante de votre clientèle.\n\nJe vous remercie par avance de l'attention que vous porterez à cette réclamation et espère que des mesures correctives seront rapidement mises en œuvre.\n",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "ce point de vente souffre d'un manque évident de disponibilité du personnel"
+    },
+    {
+      "id": "LxjpwONbAd",
+      "date": "07/07/2026 23:15:55",
+      "store_id": "7110",
+      "verbatim": "Je souhaite attirer votre attention sur plusieurs dysfonctionnements constatés au sein du magasin Carrefour Tit Mellil.\n\nContrairement aux autres magasins Carrefour de Casablanca, ce point de vente souffre d'un manque évident de disponibilité du personnel. Il est fréquent de devoir attendre une dizaine de minutes avant qu'un employé de la boucherie ou de la fromagerie soit disponible pour servir les clients, ce qui nuit considérablement à l'expérience d'achat.\n\nPar ailleurs, un problème particulièrement préoccupant concerne les dates limites de consommation (DLC). De nombreux produits sont proposés avec une DLC très proche, voire déjà dépassée. Nous avons d'ailleurs été contraints de retourner plusieurs articles pour cette raison. Cette situation mérite une vigilance accrue afin de garantir la sécurité des consommateurs et de préserver la confiance des clients.\n\nCe magasin a un réel potentiel, mais il est essentiel de lui accorder davantage d'attention en renforçant les équipes et en améliorant le contrôle des produits mis en rayon. À défaut, vous risquez de perdre une part importante de votre clientèle.\n\nJe vous remercie par avance de l'attention que vous porterez à cette réclamation et espère que des mesures correctives seront rapidement mises en œuvre.\n",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "De nombreux produits sont proposés avec une DLC très proche, voire déjà dépassée"
+    }
+  ],
+  "2432": [
+    {
+      "id": "6897aJRX4K",
+      "date": "11/03/2026 13:33:27",
+      "store_id": "701",
+      "verbatim": "Ols ont refuse ma carte carrefour",
+      "theme": "Carte fidélité",
+      "sentiment": "negative",
+      "evidence": "ont refuse ma carte carrefour"
+    }
+  ],
+  "706": [
+    {
+      "id": "wdQD61k5w8",
+      "date": "14/08/2026 04:40:52",
+      "store_id": "116",
+      "verbatim": "Hier j ai payé des articles li makhdithomch !",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "j ai payé des articles li makhdithomch"
+    }
+  ],
+  "3470": [
+    {
+      "id": "D82R1KDp8W",
+      "date": "08/10/2025 21:39:48",
+      "store_id": "110",
+      "verbatim": "Svp ramenez des raviolis ",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "Svp ramenez des raviolis"
+    }
+  ],
+  "2293": [],
+  "555": [
+    {
+      "id": "646loqA3Z8",
+      "date": "27/08/2026 17:12:46",
+      "store_id": "139",
+      "verbatim": "Je n'arrive pas a trouver de viande hachée, et le comportement de la personne chargée de la boucherie était de mal respect avec nous a une simple question, avez-vous de viande haché? C'est la mauvaise expérience que j'ai eu passé dans toutes les magasins carrefour dans le royaume. Merci d'avertir cette personne. ",
+      "theme": "Localisation des produits",
+      "sentiment": "negative",
+      "evidence": "Je n'arrive pas a trouver de viande hachée"
+    },
+    {
+      "id": "646loqA3Z8",
+      "date": "27/08/2026 17:12:46",
+      "store_id": "139",
+      "verbatim": "Je n'arrive pas a trouver de viande hachée, et le comportement de la personne chargée de la boucherie était de mal respect avec nous a une simple question, avez-vous de viande haché? C'est la mauvaise expérience que j'ai eu passé dans toutes les magasins carrefour dans le royaume. Merci d'avertir cette personne. ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "le comportement de la personne chargée de la boucherie était de mal respect avec nous"
+    }
+  ],
+  "3093": [
+    {
+      "id": "LxjR2pZAxK",
+      "date": "13/12/2025 13:34:50",
+      "store_id": "127",
+      "verbatim": "L'agent qui s'occupe des commandes glovo ne met jamais de la bonne qualité pour fruits et légumes viandes.\nMeide revoir ça",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "ne met jamais de la bonne qualité pour fruits et légumes viandes"
+    }
+  ],
+  "3696": [
+    {
+      "id": "gd0VwavVxL",
+      "date": "03/09/2025 21:18:51",
+      "store_id": "144",
+      "verbatim": "Je ne suis pas du tout satisfaite du service des personnels!!!\nSurtout la dame en caisse",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "pas du tout satisfaite du service des personnels, surtout la dame en caisse"
+    }
+  ],
+  "2270": [],
+  "777": [
+    {
+      "id": "mxoD39Ml58",
+      "date": "09/08/2026 09:17:13",
+      "store_id": "171",
+      "verbatim": "سلام عليكم\nدائما اجد الثمن في النهائي ليس هو اللي مكتوب على المنتوج",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "دائما اجد الثمن في النهائي ليس هو اللي مكتوب على المنتوج"
+    }
+  ],
+  "1502": [
+    {
+      "id": "qxzlX7aYNd",
+      "date": "02/06/2026 18:57:49",
+      "store_id": "669",
+      "verbatim": "Je tiens à remercier chaleureusement toute l’équipe du supermarché Carrefour Rabat Avenue Mehdi Ben Barka pour leur professionnalisme, leur accueil et leur gentillesse.\nLe magasin est toujours propre, bien organisé et agréable pour faire ses courses.\nUn grand bravo également au personnel pour leur disponibilité et leur respect envers les clients.\nC’est un vrai plaisir de faire ses achats dans un environnement aussi sérieux et humain.\nMerci à toute l’équipe et bon courage pour la suite !",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "leur professionnalisme, leur accueil et leur gentillesse"
+    },
+    {
+      "id": "qxzlX7aYNd",
+      "date": "02/06/2026 18:57:49",
+      "store_id": "669",
+      "verbatim": "Je tiens à remercier chaleureusement toute l’équipe du supermarché Carrefour Rabat Avenue Mehdi Ben Barka pour leur professionnalisme, leur accueil et leur gentillesse.\nLe magasin est toujours propre, bien organisé et agréable pour faire ses courses.\nUn grand bravo également au personnel pour leur disponibilité et leur respect envers les clients.\nC’est un vrai plaisir de faire ses achats dans un environnement aussi sérieux et humain.\nMerci à toute l’équipe et bon courage pour la suite !",
+      "theme": "Propreté du magasin",
+      "sentiment": "positive",
+      "evidence": "Le magasin est toujours propre"
+    },
+    {
+      "id": "qxzlX7aYNd",
+      "date": "02/06/2026 18:57:49",
+      "store_id": "669",
+      "verbatim": "Je tiens à remercier chaleureusement toute l’équipe du supermarché Carrefour Rabat Avenue Mehdi Ben Barka pour leur professionnalisme, leur accueil et leur gentillesse.\nLe magasin est toujours propre, bien organisé et agréable pour faire ses courses.\nUn grand bravo également au personnel pour leur disponibilité et leur respect envers les clients.\nC’est un vrai plaisir de faire ses achats dans un environnement aussi sérieux et humain.\nMerci à toute l’équipe et bon courage pour la suite !",
+      "theme": "Personnel",
+      "sentiment": "positive",
+      "evidence": "leur disponibilité et leur respect envers les clients"
+    }
+  ],
+  "179": [
+    {
+      "id": "p8gOPBLER8",
+      "date": "04/10/2026 21:12:32",
+      "store_id": "747",
+      "verbatim": "Bonsoir\n\nAprès mon passage hier au magasin, j'ai trouvé bcq de difficulté à trouver le prix exacte de produit par exemple j'ai pris une sauce mais j'ai trouvé le prix d'un autre article même chose pour un autre article.\nMerci de mentionner et vérifier les prix des articles dans les raillons \nBien cordialement ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "j'ai pris une sauce mais j'ai trouvé le prix d'un autre article"
+    }
+  ],
+  "4130": [
+    {
+      "id": "Ed7BQAb989",
+      "date": "14/07/2025 20:09:57",
+      "store_id": "205",
+      "verbatim": "Pk il ya des articles qui sont pas codé ",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "des articles qui sont pas codé"
+    }
+  ],
+  "2686": [
+    {
+      "id": "646nQgrk49",
+      "date": "13/02/2026 19:15:16",
+      "store_id": "669",
+      "verbatim": "Lenteur au niveau de la caisse et erreurs récurrentes au niveau de l’étiquetage des prix ",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "Lenteur au niveau de la caisse"
+    },
+    {
+      "id": "646nQgrk49",
+      "date": "13/02/2026 19:15:16",
+      "store_id": "669",
+      "verbatim": "Lenteur au niveau de la caisse et erreurs récurrentes au niveau de l’étiquetage des prix ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "erreurs récurrentes au niveau de l’étiquetage des prix"
+    }
+  ],
+  "297": [],
+  "3103": [
+    {
+      "id": "r432OkRndV",
+      "date": "12/12/2025 11:25:46",
+      "store_id": "177",
+      "verbatim": "Le jeune boucher il es jamais dans son poste defois en fait des attentes jusqu’à 15 min et le poste reste vide il n y’a même pas un responsable avec qui on peut remonter l information ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Le jeune boucher il es jamais dans son poste... des attentes jusqu’à 15 min et le poste reste vide"
+    },
+    {
+      "id": "r432OkRndV",
+      "date": "12/12/2025 11:25:46",
+      "store_id": "177",
+      "verbatim": "Le jeune boucher il es jamais dans son poste defois en fait des attentes jusqu’à 15 min et le poste reste vide il n y’a même pas un responsable avec qui on peut remonter l information ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "il n y’a même pas un responsable avec qui on peut remonter l information"
+    }
+  ],
+  "3858": [
+    {
+      "id": "y4loQnkzdR",
+      "date": "16/08/2025 16:30:07",
+      "store_id": "207",
+      "verbatim": "Les prix anti Gaspi sont intéressants en revanche ils ne sont pas pratiqués sur la viande en libre service c'est dommage. Je préfère ne pas acheter de viande en grande surface quand la date est proche surtout le poulet fermier. Il devrait avoir le même système de réduction sur date courte et quand c'est dépassé retirer du rayon. Ce qui n'est pas le cas chez carrefour sidi maarouf\n",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "positive",
+      "evidence": "Les prix anti Gaspi sont intéressants"
+    },
+    {
+      "id": "y4loQnkzdR",
+      "date": "16/08/2025 16:30:07",
+      "store_id": "207",
+      "verbatim": "Les prix anti Gaspi sont intéressants en revanche ils ne sont pas pratiqués sur la viande en libre service c'est dommage. Je préfère ne pas acheter de viande en grande surface quand la date est proche surtout le poulet fermier. Il devrait avoir le même système de réduction sur date courte et quand c'est dépassé retirer du rayon. Ce qui n'est pas le cas chez carrefour sidi maarouf\n",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "ils ne sont pas pratiqués sur la viande en libre service"
+    },
+    {
+      "id": "y4loQnkzdR",
+      "date": "16/08/2025 16:30:07",
+      "store_id": "207",
+      "verbatim": "Les prix anti Gaspi sont intéressants en revanche ils ne sont pas pratiqués sur la viande en libre service c'est dommage. Je préfère ne pas acheter de viande en grande surface quand la date est proche surtout le poulet fermier. Il devrait avoir le même système de réduction sur date courte et quand c'est dépassé retirer du rayon. Ce qui n'est pas le cas chez carrefour sidi maarouf\n",
+      "theme": "Qualité produits",
+      "sentiment": "negative",
+      "evidence": "quand c'est dépassé retirer du rayon. Ce qui n'est pas le cas"
+    }
+  ],
+  "3685": [],
+  "1619": [
+    {
+      "id": "Q4ew1gqG58",
+      "date": "19/05/2026 14:07:24",
+      "store_id": "670",
+      "verbatim": "J’ai constaté qu’il y a énormément de motos garées à l’entrée du carrefour Green Town. Il devient presque impossible de circuler normalement. Entre les motos stationnées dans tous les sens et les voitures qui se garent un peu partout, la situation devient vraiment insupportable.\n\nDe plus, certains conducteurs de motos sont très impolis. Lorsqu’on leur fait une remarque, ils répondent que ce n’est pas notre problème. Franchement, si cela continue ainsi, nous préférerons aller à Mariane juste à côté, où c’est beaucoup plus calme et il y a moins de problèmes.",
+      "theme": "Parking",
+      "sentiment": "negative",
+      "evidence": "énormément de motos garées à l’entrée... presque impossible de circuler normalement"
+    },
+    {
+      "id": "Q4ew1gqG58",
+      "date": "19/05/2026 14:07:24",
+      "store_id": "670",
+      "verbatim": "J’ai constaté qu’il y a énormément de motos garées à l’entrée du carrefour Green Town. Il devient presque impossible de circuler normalement. Entre les motos stationnées dans tous les sens et les voitures qui se garent un peu partout, la situation devient vraiment insupportable.\n\nDe plus, certains conducteurs de motos sont très impolis. Lorsqu’on leur fait une remarque, ils répondent que ce n’est pas notre problème. Franchement, si cela continue ainsi, nous préférerons aller à Mariane juste à côté, où c’est beaucoup plus calme et il y a moins de problèmes.",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "certains conducteurs de motos sont très impolis"
+    }
+  ],
+  "478": [
+    {
+      "id": "JdYw1WrbRx",
+      "date": "01/09/2026 20:57:06",
+      "store_id": "212",
+      "verbatim": "J ai remarqué que le temps qui passe a la caisse était trop  long personnel pas du tout professionnel parfois les prix figure sur le produit ne sont pas correct personnellement j ai deja eu a ce genre de problème pas mal de fois est j ai réclamer ils m’ont donner un bon d achat de 10 dh c est honteux ",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "le temps qui passe a la caisse était trop long"
+    },
+    {
+      "id": "JdYw1WrbRx",
+      "date": "01/09/2026 20:57:06",
+      "store_id": "212",
+      "verbatim": "J ai remarqué que le temps qui passe a la caisse était trop  long personnel pas du tout professionnel parfois les prix figure sur le produit ne sont pas correct personnellement j ai deja eu a ce genre de problème pas mal de fois est j ai réclamer ils m’ont donner un bon d achat de 10 dh c est honteux ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "personnel pas du tout professionnel"
+    },
+    {
+      "id": "JdYw1WrbRx",
+      "date": "01/09/2026 20:57:06",
+      "store_id": "212",
+      "verbatim": "J ai remarqué que le temps qui passe a la caisse était trop  long personnel pas du tout professionnel parfois les prix figure sur le produit ne sont pas correct personnellement j ai deja eu a ce genre de problème pas mal de fois est j ai réclamer ils m’ont donner un bon d achat de 10 dh c est honteux ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "parfois les prix figure sur le produit ne sont pas correct"
+    }
+  ],
+  "4036": [
+    {
+      "id": "LdL0mmbedj",
+      "date": "24/07/2025 00:15:38",
+      "store_id": "211",
+      "verbatim": "Objet : Réclamation concernant le comportement d’une caissière\n\nBonjour,\nJe souhaite signaler le comportement inacceptable d’une caissière lors de mon passage en caisse dans votre magasin Carrefour. Non seulement elle manquait totalement de courtoisie, mais elle a également jeté les produits scannés avec brusquerie, adoptant une attitude provocatrice et irrespectueuse. Le client suivant l'a également remarqué et a partagé son mécontentement avec moi à la sortie. Ce type de comportement est très regrettable et nuit à l’image de votre enseigne.\nJe vous remercie de bien vouloir faire le nécessaire pour que ce genre de situation ne se reproduise plus.\n\nCordialement,\nLarbi",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "elle manquait totalement de courtoisie, mais elle a également jeté les produits scannés avec brusquerie, adoptant une attitude provocatrice et irrespectueuse"
+    }
+  ],
+  "1194": [
+    {
+      "id": "LdLGk6PZQ8",
+      "date": "02/07/2026 01:14:03",
+      "store_id": "769",
+      "verbatim": "Bonjour ,\nManque de professionnalisme du personnel. Surtout ce mercredi 1er juillet un désordre à la fromagerie et de la saleté et manque d'hygiène en plus d'une caissière antipathique et non professionnelle, avec un je m'en foutisme total qui n'a pas su resoudre mon problème concernant un fromage de chèvre à la ciboulette d'une marque française,qui ne passe pas à la caisse, J'étais déçue d'avoir fait mes courses chez carrefour carousel, avec un personnel mou et nonchalant. Pourtant je suis une cliente fidèle de carrefour au maroc comme en Europe dommage. \nVeuillez agréer Madame Monsieur mes salutations distinguées ",
+      "theme": "Personnel",
+      "sentiment": "negative",
+      "evidence": "Manque de professionnalisme du personnel [...] une caissière antipathique et non professionnelle"
+    },
+    {
+      "id": "LdLGk6PZQ8",
+      "date": "02/07/2026 01:14:03",
+      "store_id": "769",
+      "verbatim": "Bonjour ,\nManque de professionnalisme du personnel. Surtout ce mercredi 1er juillet un désordre à la fromagerie et de la saleté et manque d'hygiène en plus d'une caissière antipathique et non professionnelle, avec un je m'en foutisme total qui n'a pas su resoudre mon problème concernant un fromage de chèvre à la ciboulette d'une marque française,qui ne passe pas à la caisse, J'étais déçue d'avoir fait mes courses chez carrefour carousel, avec un personnel mou et nonchalant. Pourtant je suis une cliente fidèle de carrefour au maroc comme en Europe dommage. \nVeuillez agréer Madame Monsieur mes salutations distinguées ",
+      "theme": "Propreté du magasin",
+      "sentiment": "negative",
+      "evidence": "un désordre à la fromagerie et de la saleté et manque d'hygiène"
+    }
+  ]
+}

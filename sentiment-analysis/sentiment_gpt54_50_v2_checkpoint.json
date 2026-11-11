@@ -1,0 +1,753 @@
+{
+  "1652": [
+    {
+      "id": "Ed7RDg6OD8",
+      "date": "17/05/2026 22:21:28",
+      "store_id": "165",
+      "verbatim": "Encouragez vos clients par plus de points et offrez la diversité  des produits ,offrez plus de promotions. Merci",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "plus de points"
+    },
+    {
+      "id": "Ed7RDg6OD8",
+      "date": "17/05/2026 22:21:28",
+      "store_id": "165",
+      "verbatim": "Encouragez vos clients par plus de points et offrez la diversité  des produits ,offrez plus de promotions. Merci",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "la diversité des produits"
+    },
+    {
+      "id": "Ed7RDg6OD8",
+      "date": "17/05/2026 22:21:28",
+      "store_id": "165",
+      "verbatim": "Encouragez vos clients par plus de points et offrez la diversité  des produits ,offrez plus de promotions. Merci",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "plus de promotions"
+    }
+  ],
+  "1480": [
+    {
+      "id": "mxoDDNZEM8",
+      "date": "06/06/2026 15:25:46",
+      "store_id": "167",
+      "verbatim": "Tortilla wrap de maïs à 34,50 au lieux de 17,25\nJe vais faire une reclamation",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "à 34,50 au lieux de 17,25"
+    },
+    {
+      "id": "mxoDDNZEM8",
+      "date": "06/06/2026 15:25:46",
+      "store_id": "167",
+      "verbatim": "Tortilla wrap de maïs à 34,50 au lieux de 17,25\nJe vais faire une reclamation",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "Tortilla wrap de maïs à 34,50"
+    }
+  ],
+  "2121": [
+    {
+      "id": "Y4WQnppp89",
+      "date": "20/04/2026 11:56:01",
+      "store_id": "669",
+      "verbatim": "Bonjour \nétant une cliente fidèle, je tiens à remonter les deux incidents que j'ai vécu. une fois avec des pillons emballes infectes j'ai dû les retourner dans la soirée et une autres fois avec des légumes [Bio] - courges emballés aussi moisis.\nmerci ",
+      "theme": "Qualité fraîcheur",
+      "sentiment": "negative",
+      "evidence": "des pillons emballes infectes [...] des légumes [Bio] - courges emballés aussi moisis"
+    }
+  ],
+  "3622": [
+    {
+      "id": "p4MKVGw582",
+      "date": "16/09/2025 21:01:29",
+      "store_id": "173",
+      "verbatim": "Pas satisfait",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "Pas satisfait"
+    }
+  ],
+  "692": [],
+  "2665": [
+    {
+      "id": "r43ABwZ58V",
+      "date": "14/02/2026 23:30:37",
+      "store_id": "169",
+      "verbatim": "Les caissières ne doivent pas montrer un agacement si nous n'avons pas la monnaie.\nIl est préférable qu'elles ne posent pas cette question.\nAussi, elles doivent systématiquement demander si nous avons la carte fidélité même pour des achats inférieur à 10dhs.",
+      "theme": "Pôlitesse du personnel",
+      "sentiment": "negative",
+      "evidence": "Les caissières ne doivent pas montrer un agacement si nous n'avons pas la monnaie"
+    },
+    {
+      "id": "r43ABwZ58V",
+      "date": "14/02/2026 23:30:37",
+      "store_id": "169",
+      "verbatim": "Les caissières ne doivent pas montrer un agacement si nous n'avons pas la monnaie.\nIl est préférable qu'elles ne posent pas cette question.\nAussi, elles doivent systématiquement demander si nous avons la carte fidélité même pour des achats inférieur à 10dhs.",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "Il est préférable qu'elles ne posent pas cette question"
+    },
+    {
+      "id": "r43ABwZ58V",
+      "date": "14/02/2026 23:30:37",
+      "store_id": "169",
+      "verbatim": "Les caissières ne doivent pas montrer un agacement si nous n'avons pas la monnaie.\nIl est préférable qu'elles ne posent pas cette question.\nAussi, elles doivent systématiquement demander si nous avons la carte fidélité même pour des achats inférieur à 10dhs.",
+      "theme": "Carte fidélité",
+      "sentiment": "negative",
+      "evidence": "elles doivent systématiquement demander si nous avons la carte fidélité même pour des achats inférieur à 10dhs"
+    }
+  ],
+  "1668": [
+    {
+      "id": "P8BlRELra4",
+      "date": "16/05/2026 20:41:04",
+      "store_id": "202",
+      "verbatim": "Je viens de quitter votre magasin où je suis cliente depuis des années \nEn général des achats des achats entre 400/500 drh par jour\nAujourd'hui 2700 drh\nArrivée à la caisse la dame me dit qu'il n'y a pas le code de barre sur 2 articles...j'ai demandé que je tenais à acheter ces linges de bains elle m'a dit je n'ai pas de code barre je ne les vends pas !\nLes derniers temps le prix des articles est faux...les articles pas au bon endroit...les articles passent 2 fois après ça prends 20mn pour corriger\nService déplorable....\n",
+      "theme": "Disponibilité des produits",
+      "sentiment": "negative",
+      "evidence": "je n'ai pas de code barre je ne les vends pas"
+    },
+    {
+      "id": "P8BlRELra4",
+      "date": "16/05/2026 20:41:04",
+      "store_id": "202",
+      "verbatim": "Je viens de quitter votre magasin où je suis cliente depuis des années \nEn général des achats des achats entre 400/500 drh par jour\nAujourd'hui 2700 drh\nArrivée à la caisse la dame me dit qu'il n'y a pas le code de barre sur 2 articles...j'ai demandé que je tenais à acheter ces linges de bains elle m'a dit je n'ai pas de code barre je ne les vends pas !\nLes derniers temps le prix des articles est faux...les articles pas au bon endroit...les articles passent 2 fois après ça prends 20mn pour corriger\nService déplorable....\n",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "le prix des articles est faux"
+    },
+    {
+      "id": "P8BlRELra4",
+      "date": "16/05/2026 20:41:04",
+      "store_id": "202",
+      "verbatim": "Je viens de quitter votre magasin où je suis cliente depuis des années \nEn général des achats des achats entre 400/500 drh par jour\nAujourd'hui 2700 drh\nArrivée à la caisse la dame me dit qu'il n'y a pas le code de barre sur 2 articles...j'ai demandé que je tenais à acheter ces linges de bains elle m'a dit je n'ai pas de code barre je ne les vends pas !\nLes derniers temps le prix des articles est faux...les articles pas au bon endroit...les articles passent 2 fois après ça prends 20mn pour corriger\nService déplorable....\n",
+      "theme": "Localisation des produits",
+      "sentiment": "negative",
+      "evidence": "les articles pas au bon endroit"
+    },
+    {
+      "id": "P8BlRELra4",
+      "date": "16/05/2026 20:41:04",
+      "store_id": "202",
+      "verbatim": "Je viens de quitter votre magasin où je suis cliente depuis des années \nEn général des achats des achats entre 400/500 drh par jour\nAujourd'hui 2700 drh\nArrivée à la caisse la dame me dit qu'il n'y a pas le code de barre sur 2 articles...j'ai demandé que je tenais à acheter ces linges de bains elle m'a dit je n'ai pas de code barre je ne les vends pas !\nLes derniers temps le prix des articles est faux...les articles pas au bon endroit...les articles passent 2 fois après ça prends 20mn pour corriger\nService déplorable....\n",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "ça prends 20mn pour corriger"
+    },
+    {
+      "id": "P8BlRELra4",
+      "date": "16/05/2026 20:41:04",
+      "store_id": "202",
+      "verbatim": "Je viens de quitter votre magasin où je suis cliente depuis des années \nEn général des achats des achats entre 400/500 drh par jour\nAujourd'hui 2700 drh\nArrivée à la caisse la dame me dit qu'il n'y a pas le code de barre sur 2 articles...j'ai demandé que je tenais à acheter ces linges de bains elle m'a dit je n'ai pas de code barre je ne les vends pas !\nLes derniers temps le prix des articles est faux...les articles pas au bon endroit...les articles passent 2 fois après ça prends 20mn pour corriger\nService déplorable....\n",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "Service déplorable"
+    }
+  ],
+  "3258": [
+    {
+      "id": "y4lARa1WxR",
+      "date": "18/11/2025 17:09:31",
+      "store_id": "206",
+      "verbatim": "Je suis satisfaite de votre proposition de produits j'aime beaucoup la promotion des plats en verre merci beaucoup 🌹",
+      "theme": "Satisfaction générale",
+      "sentiment": "positive",
+      "evidence": "Je suis satisfaite de votre proposition de produits"
+    },
+    {
+      "id": "y4lARa1WxR",
+      "date": "18/11/2025 17:09:31",
+      "store_id": "206",
+      "verbatim": "Je suis satisfaite de votre proposition de produits j'aime beaucoup la promotion des plats en verre merci beaucoup 🌹",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "positive",
+      "evidence": "j'aime beaucoup la promotion des plats en verre"
+    }
+  ],
+  "415": [
+    {
+      "id": "y8Vle90b74",
+      "date": "06/09/2026 16:02:10",
+      "store_id": "218",
+      "verbatim": "Non conformité des prix affichés avec les prix constatés à la caisse ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "Non conformité des prix affichés avec les prix constatés à la caisse"
+    }
+  ],
+  "3131": [
+    {
+      "id": "vdOLZ0eQ4l",
+      "date": "07/12/2025 11:44:08",
+      "store_id": "667",
+      "verbatim": "Erreur des prix affichés ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "Erreur des prix affichés"
+    }
+  ],
+  "684": [
+    {
+      "id": "gd0NvbymVx",
+      "date": "16/08/2026 17:49:55",
+      "store_id": "130",
+      "verbatim": "Mon dernier passage dimanche 15 août à 14 est une catastrophe sur tout les plans,  pour retourner un produit froid moins de 30mn , la dame aurait dû tout simplement me dire que les produits de froid ne sont pas échangeable, au lieu de cela elle me fait la leçon sur لي كيسخرك j ai utilisé ses propres mots. Sur quoi j ai déchiré les tickets de caisse.  J ai décidé de ne jamais mettre les pieds dans cette enseigne. Avant on disait que le boycott origine d affaire politique et éthique, le personnel est la première cause de fuite des clients. ",
+      "theme": "Pôlitesse du personnel",
+      "sentiment": "negative",
+      "evidence": "au lieu de cela elle me fait la leçon sur لي كيسخرك"
+    },
+    {
+      "id": "gd0NvbymVx",
+      "date": "16/08/2026 17:49:55",
+      "store_id": "130",
+      "verbatim": "Mon dernier passage dimanche 15 août à 14 est une catastrophe sur tout les plans,  pour retourner un produit froid moins de 30mn , la dame aurait dû tout simplement me dire que les produits de froid ne sont pas échangeable, au lieu de cela elle me fait la leçon sur لي كيسخرك j ai utilisé ses propres mots. Sur quoi j ai déchiré les tickets de caisse.  J ai décidé de ne jamais mettre les pieds dans cette enseigne. Avant on disait que le boycott origine d affaire politique et éthique, le personnel est la première cause de fuite des clients. ",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "Mon dernier passage ... est une catastrophe sur tout les plans"
+    },
+    {
+      "id": "gd0NvbymVx",
+      "date": "16/08/2026 17:49:55",
+      "store_id": "130",
+      "verbatim": "Mon dernier passage dimanche 15 août à 14 est une catastrophe sur tout les plans,  pour retourner un produit froid moins de 30mn , la dame aurait dû tout simplement me dire que les produits de froid ne sont pas échangeable, au lieu de cela elle me fait la leçon sur لي كيسخرك j ai utilisé ses propres mots. Sur quoi j ai déchiré les tickets de caisse.  J ai décidé de ne jamais mettre les pieds dans cette enseigne. Avant on disait que le boycott origine d affaire politique et éthique, le personnel est la première cause de fuite des clients. ",
+      "theme": "Pôlitesse du personnel",
+      "sentiment": "negative",
+      "evidence": "le personnel est la première cause de fuite des clients"
+    }
+  ],
+  "1584": [
+    {
+      "id": "V8rvwXron8",
+      "date": "21/05/2026 13:49:03",
+      "store_id": "710",
+      "verbatim": "Pourquoi y’a t-elle qu’une seule et unique caissière le matin de 08h30 à 14h00?",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "qu’une seule et unique caissière le matin de 08h30 à 14h00"
+    }
+  ],
+  "2338": [
+    {
+      "id": "Q4eXb97Ede",
+      "date": "23/03/2026 22:18:15",
+      "store_id": "173",
+      "verbatim": "offres promotionnelles très tard en comparaison avec d'autres Carrefour market sache que c'est le seul de Salé. ",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "offres promotionnelles très tard en comparaison avec d'autres Carrefour market"
+    }
+  ],
+  "1166": [
+    {
+      "id": "vdJkGGJpo4",
+      "date": "04/07/2026 15:07:03",
+      "store_id": "167",
+      "verbatim": "Au lieu d'augmenter mes points, vous les réduisez bizarre ,alors que j'avais 132 points avant d'effectuer 3 autres achats ou je ne sais pas combien, aujourd'hui après avoir fait mes courses j'ai reçu le message que j'avais que 123, ",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "Au lieu d'augmenter mes points, vous les réduisez [...] j'avais 132 points [...] aujourd'hui [...] j'avais que 123"
+    }
+  ],
+  "1348": [],
+  "3850": [
+    {
+      "id": "vdOK5MpNdl",
+      "date": "18/08/2025 12:30:05",
+      "store_id": "114",
+      "verbatim": "Lors de mon dernier passage du 16/08,  je n' ai pas aimé le comportement de l agent de sécurité qui traque les gens comme un taré, et les fixe au cours de leurs achats, il est jeune et porte une casquette, un vrai amateur, on peut faire son travail, mais avec discrétion, sans se faire repérer, et sans fixer les gens pendant leurs achats, c'est vraimement gênant, je croyais qu'il l'a fait pour moi tout seul, mais le mec il fou , il le fait avec tout le monde",
+      "theme": "Sécurité",
+      "sentiment": "negative",
+      "evidence": "l agent de sécurité qui traque les gens [...] et les fixe au cours de leurs achats [...] c'est vraimement gênant"
+    }
+  ],
+  "3428": [
+    {
+      "id": "gxKDl6ay8o",
+      "date": "19/10/2025 18:23:20",
+      "store_id": "211",
+      "verbatim": "Bonsoir\nHier j étais à carrefour temarra j'ai passé vingt minute devant le restaurant pour acheter un tacos et cela  dû au manque du personnel (une seule personne).",
+      "theme": "Disponibilité du personnel",
+      "sentiment": "negative",
+      "evidence": "manque du personnel (une seule personne)"
+    }
+  ],
+  "2710": [
+    {
+      "id": "y4lj6JqN8R",
+      "date": "12/02/2026 02:27:10",
+      "store_id": "148",
+      "verbatim": "الأثمنة مرتفعة بزاف، واحد النوع ديال الكاشير كناخدو ب 15 درهم، فكارفور لقيتو ب 20 درهم، زيادة على علب أخرة عبارة عن حزم من منتوج معين عوض ما ينخافض ليها الثمن حيت فيها من 5 الى 10 وحدات من منتوج معين، كيرتافع ليها الثمن عندكم، كنتمنى إعادة النظر فهاد المسألة.\nانا مجرد شخص صريح وواضح وأنتم وضعتم هذا الاستبيان للتطوير من متجركم، لذا لا أعتقد أنكم تريدون سماع الثناء، بل سماع المشاكل لحلها أو تفاديها. وشكرا",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "الأثمنة مرتفعة بزاف"
+    },
+    {
+      "id": "y4lj6JqN8R",
+      "date": "12/02/2026 02:27:10",
+      "store_id": "148",
+      "verbatim": "الأثمنة مرتفعة بزاف، واحد النوع ديال الكاشير كناخدو ب 15 درهم، فكارفور لقيتو ب 20 درهم، زيادة على علب أخرة عبارة عن حزم من منتوج معين عوض ما ينخافض ليها الثمن حيت فيها من 5 الى 10 وحدات من منتوج معين، كيرتافع ليها الثمن عندكم، كنتمنى إعادة النظر فهاد المسألة.\nانا مجرد شخص صريح وواضح وأنتم وضعتم هذا الاستبيان للتطوير من متجركم، لذا لا أعتقد أنكم تريدون سماع الثناء، بل سماع المشاكل لحلها أو تفاديها. وشكرا",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "واحد النوع ديال الكاشير كناخدو ب 15 درهم، فكارفور لقيتو ب 20 درهم"
+    },
+    {
+      "id": "y4lj6JqN8R",
+      "date": "12/02/2026 02:27:10",
+      "store_id": "148",
+      "verbatim": "الأثمنة مرتفعة بزاف، واحد النوع ديال الكاشير كناخدو ب 15 درهم، فكارفور لقيتو ب 20 درهم، زيادة على علب أخرة عبارة عن حزم من منتوج معين عوض ما ينخافض ليها الثمن حيت فيها من 5 الى 10 وحدات من منتوج معين، كيرتافع ليها الثمن عندكم، كنتمنى إعادة النظر فهاد المسألة.\nانا مجرد شخص صريح وواضح وأنتم وضعتم هذا الاستبيان للتطوير من متجركم، لذا لا أعتقد أنكم تريدون سماع الثناء، بل سماع المشاكل لحلها أو تفاديها. وشكرا",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "علب أخرة عبارة عن حزم من منتوج معين... عوض ما ينخافض ليها الثمن... كيرتافع ليها الثمن عندكم"
+    }
+  ],
+  "3947": [
+    {
+      "id": "J85RGkwpdw",
+      "date": "05/08/2025 19:16:16",
+      "store_id": "143",
+      "verbatim": "Guys \nYou have a serious problem with the attitude of your stuff!! \nThey're rude, not polite, they don't fucking know how to communicate! \nEspecially those in the alcohol section! \nNot talking about the cashiers, they're nice.\nBut those who are there to help, aren't helping.\nThanks.",
+      "theme": "Pôlitesse du personnel",
+      "sentiment": "negative",
+      "evidence": "They're rude, not polite, they don't fucking know how to communicate! Especially those in the alcohol section!"
+    },
+    {
+      "id": "J85RGkwpdw",
+      "date": "05/08/2025 19:16:16",
+      "store_id": "143",
+      "verbatim": "Guys \nYou have a serious problem with the attitude of your stuff!! \nThey're rude, not polite, they don't fucking know how to communicate! \nEspecially those in the alcohol section! \nNot talking about the cashiers, they're nice.\nBut those who are there to help, aren't helping.\nThanks.",
+      "theme": "Pôlitesse du personnel",
+      "sentiment": "positive",
+      "evidence": "the cashiers, they're nice"
+    },
+    {
+      "id": "J85RGkwpdw",
+      "date": "05/08/2025 19:16:16",
+      "store_id": "143",
+      "verbatim": "Guys \nYou have a serious problem with the attitude of your stuff!! \nThey're rude, not polite, they don't fucking know how to communicate! \nEspecially those in the alcohol section! \nNot talking about the cashiers, they're nice.\nBut those who are there to help, aren't helping.\nThanks.",
+      "theme": "Disponibilité du personnel",
+      "sentiment": "negative",
+      "evidence": "those who are there to help, aren't helping"
+    }
+  ],
+  "1108": [],
+  "1945": [
+    {
+      "id": "YdkKmAjGdM",
+      "date": "29/04/2026 23:12:00",
+      "store_id": "713",
+      "verbatim": "Tjs gratuit déplient de huile lessieur afficher n'ai pas donner pour clt",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "huile lessieur afficher n'ai pas donner pour clt"
+    }
+  ],
+  "2286": [
+    {
+      "id": "jdpy7yWX4M",
+      "date": "29/03/2026 18:24:58",
+      "store_id": "117",
+      "verbatim": "On ne trouve les produits du dépliant dans vos magasins ",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "On ne trouve les produits du dépliant dans vos magasins"
+    }
+  ],
+  "801": [
+    {
+      "id": "J85pg9rwEx",
+      "date": "06/08/2026 13:59:41",
+      "store_id": "113",
+      "verbatim": "Le livreur de marchandises station  devant entrée du parking malgré espace suffisant pour ne pas gêner la simulation ",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "station devant entrée du parking malgré espace suffisant pour ne pas gêner"
+    }
+  ],
+  "2027": [
+    {
+      "id": "JdYZEyKB4R",
+      "date": "26/04/2026 13:58:56",
+      "store_id": "121",
+      "verbatim": "Cetrtains emloyeur(se) mauvais comportements ",
+      "theme": "Pôlitesse du personnel",
+      "sentiment": "negative",
+      "evidence": "emloyeur(se) mauvais comportements"
+    }
+  ],
+  "23": [
+    {
+      "id": "wdQDYAXMO8",
+      "date": "19/10/2026 21:40:42",
+      "store_id": "191",
+      "verbatim": "Bonsoir, ce n'est malheureusement pas la 1ere fois rien qu'entre hier et aujourd'hui 2 erreurs d'étiquetage ou de balisage.\nRevenez à mes factures sur mon compte et vous comprendrez.\nA chaque fois le montant affiché n'est pas le même que le montant facturé. Et en plus il faut attendre le responsable et quand il vient il faut des fois attendre le responsable du rayon. Perte de temps et d'énergie !!!\nC'est grave ce qui se passe chez vous je ne comprend pas.\nA ce point à chaque passage y a un problème. \nCordialement\nDriss Belhachemi\n0661240234",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "A chaque fois le montant affiché n'est pas le même que le montant facturé"
+    },
+    {
+      "id": "wdQDYAXMO8",
+      "date": "19/10/2026 21:40:42",
+      "store_id": "191",
+      "verbatim": "Bonsoir, ce n'est malheureusement pas la 1ere fois rien qu'entre hier et aujourd'hui 2 erreurs d'étiquetage ou de balisage.\nRevenez à mes factures sur mon compte et vous comprendrez.\nA chaque fois le montant affiché n'est pas le même que le montant facturé. Et en plus il faut attendre le responsable et quand il vient il faut des fois attendre le responsable du rayon. Perte de temps et d'énergie !!!\nC'est grave ce qui se passe chez vous je ne comprend pas.\nA ce point à chaque passage y a un problème. \nCordialement\nDriss Belhachemi\n0661240234",
+      "theme": "Disponibilité du personnel",
+      "sentiment": "negative",
+      "evidence": "il faut attendre le responsable et quand il vient il faut des fois attendre le responsable du rayon"
+    },
+    {
+      "id": "wdQDYAXMO8",
+      "date": "19/10/2026 21:40:42",
+      "store_id": "191",
+      "verbatim": "Bonsoir, ce n'est malheureusement pas la 1ere fois rien qu'entre hier et aujourd'hui 2 erreurs d'étiquetage ou de balisage.\nRevenez à mes factures sur mon compte et vous comprendrez.\nA chaque fois le montant affiché n'est pas le même que le montant facturé. Et en plus il faut attendre le responsable et quand il vient il faut des fois attendre le responsable du rayon. Perte de temps et d'énergie !!!\nC'est grave ce qui se passe chez vous je ne comprend pas.\nA ce point à chaque passage y a un problème. \nCordialement\nDriss Belhachemi\n0661240234",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "à chaque passage y a un problème"
+    }
+  ],
+  "2262": [
+    {
+      "id": "J852vENbdw",
+      "date": "02/04/2026 19:16:23",
+      "store_id": "167",
+      "verbatim": "Toujours même problème d'affichage des prix (prix sur les rayons ne correspond pas à celui des caisses)",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "prix sur les rayons ne correspond pas à celui des caisses"
+    }
+  ],
+  "8": [
+    {
+      "id": "jdpwrYM1z8",
+      "date": "22/10/2026 13:08:21",
+      "store_id": "173",
+      "verbatim": "J’ai acheté hier un carton de jus de fruits ( maxi pack extra 2 litres) 100% pur jus orange,  le prix sur l'étiquette dans le rayon est 73,80 dhs,  mais le prix passé a la caisse apres le paiement est de 77.95 dhs.\n\nVoulez-vous bien corriger se problème dans votre système ? ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "le prix sur l'étiquette dans le rayon est 73,80 dhs, mais le prix passé a la caisse... est de 77.95 dhs"
+    }
+  ],
+  "3997": [
+    {
+      "id": "VdveKwXg8Y",
+      "date": "29/07/2025 21:51:56",
+      "store_id": "153",
+      "verbatim": "Je suis reconnaissant du rapport qualité prix des produits exposes et la qualité du service des personnels",
+      "theme": "Prix",
+      "sentiment": "positive",
+      "evidence": "rapport qualité prix des produits exposes"
+    },
+    {
+      "id": "VdveKwXg8Y",
+      "date": "29/07/2025 21:51:56",
+      "store_id": "153",
+      "verbatim": "Je suis reconnaissant du rapport qualité prix des produits exposes et la qualité du service des personnels",
+      "theme": "Autre",
+      "sentiment": "positive",
+      "evidence": "la qualité du service des personnels"
+    }
+  ],
+  "1753": [
+    {
+      "id": "v8XRkZKAv4",
+      "date": "11/05/2026 20:43:51",
+      "store_id": "671",
+      "verbatim": "Merci pour l'effort effectué au sein de votre magasin Carrefour \nLe service client est très bien",
+      "theme": "Satisfaction générale",
+      "sentiment": "positive",
+      "evidence": "Merci pour l'effort effectué au sein de votre magasin Carrefour, le service client est très bien"
+    }
+  ],
+  "3607": [
+    {
+      "id": "jdp6qRRzxM",
+      "date": "20/09/2025 12:28:35",
+      "store_id": "301",
+      "verbatim": "Pourquoi vous rammenez des nouveaux qui ne connaix pas comment utiliser le bon d’achat ? Nous etiont presser",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "des nouveaux qui ne connaix pas comment utiliser le bon d’achat ? Nous etiont presser"
+    }
+  ],
+  "2032": [
+    {
+      "id": "LxjkVqlq8K",
+      "date": "25/04/2026 23:13:48",
+      "store_id": "210",
+      "verbatim": "Dans beaucoup de cas les prix figurants sur les rayons et les prix de caisse sont différents et des fois je ne trouve pas les prix des articles dans les rayons je dois aller à la caisse pour m informer ",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "les prix figurants sur les rayons et les prix de caisse sont différents"
+    },
+    {
+      "id": "LxjkVqlq8K",
+      "date": "25/04/2026 23:13:48",
+      "store_id": "210",
+      "verbatim": "Dans beaucoup de cas les prix figurants sur les rayons et les prix de caisse sont différents et des fois je ne trouve pas les prix des articles dans les rayons je dois aller à la caisse pour m informer ",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "je ne trouve pas les prix des articles dans les rayons je dois aller à la caisse pour m informer"
+    }
+  ],
+  "199": [],
+  "3640": [
+    {
+      "id": "exq0m03Z4Y",
+      "date": "13/09/2025 19:37:02",
+      "store_id": "140",
+      "verbatim": "Refaites votre parking un enfer pour faire rouler les chariots des pierres partout\n\n\n",
+      "theme": "Caddies",
+      "sentiment": "negative",
+      "evidence": "un enfer pour faire rouler les chariots des pierres partout"
+    }
+  ],
+  "4378": [],
+  "69": [
+    {
+      "id": "646lRJe9m8",
+      "date": "14/10/2026 21:26:59",
+      "store_id": "102",
+      "verbatim": "Trop souvent le prix affiché sur certains produits ne sont pas ceux appliqués sur la caisse. Cela dure depuis longtemps et aurait dû être corrigé . En outre , lors de mon dernier passage j'ai acheté de la viande hachée avec graisse et on me l'a facturé comme sans graisse... j'avais pas le temps de revenir faire une réclamation..",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "le prix affiché sur certains produits ne sont pas ceux appliqués sur la caisse"
+    },
+    {
+      "id": "646lRJe9m8",
+      "date": "14/10/2026 21:26:59",
+      "store_id": "102",
+      "verbatim": "Trop souvent le prix affiché sur certains produits ne sont pas ceux appliqués sur la caisse. Cela dure depuis longtemps et aurait dû être corrigé . En outre , lors de mon dernier passage j'ai acheté de la viande hachée avec graisse et on me l'a facturé comme sans graisse... j'avais pas le temps de revenir faire une réclamation..",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "j'ai acheté de la viande hachée avec graisse et on me l'a facturé comme sans graisse"
+    }
+  ],
+  "3683": [
+    {
+      "id": "LxblMXM1d0",
+      "date": "05/09/2025 08:47:40",
+      "store_id": "140",
+      "verbatim": "La borne de prix installée dans le magasin ne fonctionne pas depuis plusieurs mois. J'aimerais bien échanger avec le responsable du magasin à ce sujet et pour d'autres améliorations. Merci d'avance.\n",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "La borne de prix installée dans le magasin ne fonctionne pas depuis plusieurs mois"
+    }
+  ],
+  "1888": [
+    {
+      "id": "LdLeZbYp4j",
+      "date": "02/05/2026 22:20:40",
+      "store_id": "168",
+      "verbatim": "Les prix sont augmentés en ce qui concerne les produits chocolatés ",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "Les prix sont augmentés en ce qui concerne les produits chocolatés"
+    }
+  ],
+  "240": [
+    {
+      "id": "qxzlq1WBAd",
+      "date": "27/09/2026 17:48:12",
+      "store_id": "207",
+      "verbatim": "Mzyan",
+      "theme": "Satisfaction générale",
+      "sentiment": "positive",
+      "evidence": "Mzyan"
+    }
+  ],
+  "3555": [
+    {
+      "id": "jdp60qnXxM",
+      "date": "26/09/2025 20:32:54",
+      "store_id": "199",
+      "verbatim": "Merci pour vos efforts ",
+      "theme": "Satisfaction générale",
+      "sentiment": "positive",
+      "evidence": "Merci pour vos efforts"
+    }
+  ],
+  "1105": [
+    {
+      "id": "e4Z7a06Eax",
+      "date": "09/07/2026 13:07:08",
+      "store_id": "652",
+      "verbatim": "Quand j’achète un pack d’œufs même quand c’est écrit calibre XL, à l’intérieur il y a un mélange de calibres, et aussi quand il y a écrit avec jaune d’œuf Orange, à la cuisson il y à également un mélange entre normal et orange.",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "c’est écrit calibre XL, à l’intérieur il y a un mélange de calibres"
+    },
+    {
+      "id": "e4Z7a06Eax",
+      "date": "09/07/2026 13:07:08",
+      "store_id": "652",
+      "verbatim": "Quand j’achète un pack d’œufs même quand c’est écrit calibre XL, à l’intérieur il y a un mélange de calibres, et aussi quand il y a écrit avec jaune d’œuf Orange, à la cuisson il y à également un mélange entre normal et orange.",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "écrit avec jaune d’œuf Orange [...] un mélange entre normal et orange"
+    }
+  ],
+  "4148": [
+    {
+      "id": "vdJaD0pZ8D",
+      "date": "12/07/2025 12:42:30",
+      "store_id": "109",
+      "verbatim": "Les prix affichaient sur les produits ne sont pas les mm qu on en remboursent",
+      "theme": "Exactitude prix entre rayon et caisse",
+      "sentiment": "negative",
+      "evidence": "Les prix affichaient sur les produits ne sont pas les mm"
+    }
+  ],
+  "3348": [
+    {
+      "id": "r433ERyr4V",
+      "date": "02/11/2025 19:34:24",
+      "store_id": "173",
+      "verbatim": "Je trouve qu'il y a très très peu de caisses ou caisses fermées et aussi on ne trouve pas les agents à qui  demander des conseils .",
+      "theme": "Attente aux caisses",
+      "sentiment": "negative",
+      "evidence": "très très peu de caisses ou caisses fermées"
+    },
+    {
+      "id": "r433ERyr4V",
+      "date": "02/11/2025 19:34:24",
+      "store_id": "173",
+      "verbatim": "Je trouve qu'il y a très très peu de caisses ou caisses fermées et aussi on ne trouve pas les agents à qui  demander des conseils .",
+      "theme": "Disponibilité du personnel",
+      "sentiment": "negative",
+      "evidence": "on ne trouve pas les agents à qui demander des conseils"
+    }
+  ],
+  "4240": [
+    {
+      "id": "wdQrRP9g4Q",
+      "date": "02/07/2025 01:41:13",
+      "store_id": "191",
+      "verbatim": "Je ne suis pas satisfaite de ce magasin ",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "Je ne suis pas satisfaite de ce magasin"
+    }
+  ],
+  "4105": [],
+  "1086": [
+    {
+      "id": "J85playmYx",
+      "date": "10/07/2026 21:43:38",
+      "store_id": "110",
+      "verbatim": "Ou sont disparues Les bons d'achats de 10,15 et 20  dirhams comme auparavant ?\n",
+      "theme": "Promotions/Points fidélité",
+      "sentiment": "negative",
+      "evidence": "disparues Les bons d'achats de 10,15 et 20 dirhams comme auparavant"
+    }
+  ],
+  "416": [
+    {
+      "id": "y4lDqK2Wl4",
+      "date": "06/09/2026 12:42:51",
+      "store_id": "195",
+      "verbatim": "Hier après-midi, lors du passage à la pesée des produits verts, la non-application des règles a provoqué une dispute. Lorsque j'ai demandé l'intervention d'un manager, le chargé de pesage m'a vertement critiqué tout en prenant la défense de la personne en tort. De plus, la caissière n'a pas enregistré les données de ma carte de fidélité.",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "la non-application des règles a provoqué une dispute"
+    },
+    {
+      "id": "y4lDqK2Wl4",
+      "date": "06/09/2026 12:42:51",
+      "store_id": "195",
+      "verbatim": "Hier après-midi, lors du passage à la pesée des produits verts, la non-application des règles a provoqué une dispute. Lorsque j'ai demandé l'intervention d'un manager, le chargé de pesage m'a vertement critiqué tout en prenant la défense de la personne en tort. De plus, la caissière n'a pas enregistré les données de ma carte de fidélité.",
+      "theme": "Pôlitesse du personnel",
+      "sentiment": "negative",
+      "evidence": "le chargé de pesage m'a vertement critiqué tout en prenant la défense de la personne en tort"
+    },
+    {
+      "id": "y4lDqK2Wl4",
+      "date": "06/09/2026 12:42:51",
+      "store_id": "195",
+      "verbatim": "Hier après-midi, lors du passage à la pesée des produits verts, la non-application des règles a provoqué une dispute. Lorsque j'ai demandé l'intervention d'un manager, le chargé de pesage m'a vertement critiqué tout en prenant la défense de la personne en tort. De plus, la caissière n'a pas enregistré les données de ma carte de fidélité.",
+      "theme": "Carte fidélité",
+      "sentiment": "negative",
+      "evidence": "la caissière n'a pas enregistré les données de ma carte de fidélité"
+    }
+  ],
+  "2023": [
+    {
+      "id": "jdpypq2X4M",
+      "date": "26/04/2026 20:59:17",
+      "store_id": "143",
+      "verbatim": "Côté découpé fromagerie et charcuterie. Table de travail sale,et encombrée parterre plein de déchets. Personnel pas du métier,couteaux sales, meules de fromage ou autres collés à  leurs blouses",
+      "theme": "Propreté du magasin",
+      "sentiment": "negative",
+      "evidence": "Table de travail sale,et encombrée parterre plein de déchets. [...] couteaux sales, meules de fromage ou autres collés à leurs blouses"
+    },
+    {
+      "id": "jdpypq2X4M",
+      "date": "26/04/2026 20:59:17",
+      "store_id": "143",
+      "verbatim": "Côté découpé fromagerie et charcuterie. Table de travail sale,et encombrée parterre plein de déchets. Personnel pas du métier,couteaux sales, meules de fromage ou autres collés à  leurs blouses",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "Personnel pas du métier"
+    }
+  ],
+  "3269": [
+    {
+      "id": "r433rGko4V",
+      "date": "15/11/2025 23:46:40",
+      "store_id": "212",
+      "verbatim": " Veuillez veiller à recruter des personnes qualifiées, capables de communiquer efficacement avec les clients.\n",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "recruter des personnes qualifiées, capables de communiquer efficacement avec les clients"
+    }
+  ],
+  "3826": [
+    {
+      "id": "jdp6D9ZvxM",
+      "date": "21/08/2025 14:56:00",
+      "store_id": "670",
+      "verbatim": "Pas mal",
+      "theme": "Satisfaction générale",
+      "sentiment": "positive",
+      "evidence": "Pas mal"
+    }
+  ],
+  "252": [
+    {
+      "id": "6xmPZw7jY4",
+      "date": "18/09/2026 14:30:52",
+      "store_id": "213",
+      "verbatim": "Très mauvaise expérience.\n\nJ’ai commandé une paella qui, malheureusement, n’était vraiment pas bonne : aucun goût, impossible de la manger. Malgré cela, j’ai payé le plat en totalité, alors que je n’ai pratiquement pas pu y toucher.\n\nLorsque j’ai fait part de ma remarque au serveur, sa réponse a été : « Ce n’est pas mon problème, moi je suis juste un serveur. »\n\nJe trouve cette réponse totalement inacceptable et surtout très peu professionnelle. Le service était vraiment nul et l’attitude du serveur a rendu l’expérience encore plus désagréable.\n\nJe vous remercie de faire le nécessaire concernant la qualité du service et de rappeler au personnel l’importance de respecter les clients et de prendre leurs remarques au sérieux.\n\nCe n’est absolument pas le niveau de service qu’on attend d’un établissement professionnel.",
+      "theme": "Satisfaction générale",
+      "sentiment": "negative",
+      "evidence": "Très mauvaise expérience."
+    },
+    {
+      "id": "6xmPZw7jY4",
+      "date": "18/09/2026 14:30:52",
+      "store_id": "213",
+      "verbatim": "Très mauvaise expérience.\n\nJ’ai commandé une paella qui, malheureusement, n’était vraiment pas bonne : aucun goût, impossible de la manger. Malgré cela, j’ai payé le plat en totalité, alors que je n’ai pratiquement pas pu y toucher.\n\nLorsque j’ai fait part de ma remarque au serveur, sa réponse a été : « Ce n’est pas mon problème, moi je suis juste un serveur. »\n\nJe trouve cette réponse totalement inacceptable et surtout très peu professionnelle. Le service était vraiment nul et l’attitude du serveur a rendu l’expérience encore plus désagréable.\n\nJe vous remercie de faire le nécessaire concernant la qualité du service et de rappeler au personnel l’importance de respecter les clients et de prendre leurs remarques au sérieux.\n\nCe n’est absolument pas le niveau de service qu’on attend d’un établissement professionnel.",
+      "theme": "Autre",
+      "sentiment": "negative",
+      "evidence": "une paella qui [...] n’était vraiment pas bonne : aucun goût, impossible de la manger"
+    },
+    {
+      "id": "6xmPZw7jY4",
+      "date": "18/09/2026 14:30:52",
+      "store_id": "213",
+      "verbatim": "Très mauvaise expérience.\n\nJ’ai commandé une paella qui, malheureusement, n’était vraiment pas bonne : aucun goût, impossible de la manger. Malgré cela, j’ai payé le plat en totalité, alors que je n’ai pratiquement pas pu y toucher.\n\nLorsque j’ai fait part de ma remarque au serveur, sa réponse a été : « Ce n’est pas mon problème, moi je suis juste un serveur. »\n\nJe trouve cette réponse totalement inacceptable et surtout très peu professionnelle. Le service était vraiment nul et l’attitude du serveur a rendu l’expérience encore plus désagréable.\n\nJe vous remercie de faire le nécessaire concernant la qualité du service et de rappeler au personnel l’importance de respecter les clients et de prendre leurs remarques au sérieux.\n\nCe n’est absolument pas le niveau de service qu’on attend d’un établissement professionnel.",
+      "theme": "Prix",
+      "sentiment": "negative",
+      "evidence": "j’ai payé le plat en totalité, alors que je n’ai pratiquement pas pu y toucher"
+    },
+    {
+      "id": "6xmPZw7jY4",
+      "date": "18/09/2026 14:30:52",
+      "store_id": "213",
+      "verbatim": "Très mauvaise expérience.\n\nJ’ai commandé une paella qui, malheureusement, n’était vraiment pas bonne : aucun goût, impossible de la manger. Malgré cela, j’ai payé le plat en totalité, alors que je n’ai pratiquement pas pu y toucher.\n\nLorsque j’ai fait part de ma remarque au serveur, sa réponse a été : « Ce n’est pas mon problème, moi je suis juste un serveur. »\n\nJe trouve cette réponse totalement inacceptable et surtout très peu professionnelle. Le service était vraiment nul et l’attitude du serveur a rendu l’expérience encore plus désagréable.\n\nJe vous remercie de faire le nécessaire concernant la qualité du service et de rappeler au personnel l’importance de respecter les clients et de prendre leurs remarques au sérieux.\n\nCe n’est absolument pas le niveau de service qu’on attend d’un établissement professionnel.",
+      "theme": "Pôlitesse du personnel",
+      "sentiment": "negative",
+      "evidence": "« Ce n’est pas mon problème, moi je suis juste un serveur. »"
+    }
+  ]
+}

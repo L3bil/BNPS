@@ -1,0 +1,93 @@
+{
+  "transaction_cutoff_inclusive": "2026-10-26",
+  "barometre_store_count": 114,
+  "nps_store_count": 111,
+  "reference_union_store_count": 126,
+  "barometre_only_ids": [
+    "153",
+    "159",
+    "170",
+    "184",
+    "656",
+    "7107",
+    "7109",
+    "7111",
+    "7114",
+    "7115",
+    "7116",
+    "7122",
+    "7124",
+    "7125",
+    "741"
+  ],
+  "nps_only_ids": [
+    "659",
+    "706",
+    "707",
+    "7104",
+    "720",
+    "722",
+    "725",
+    "734",
+    "740",
+    "749",
+    "754",
+    "768"
+  ],
+  "nps_ids_missing_performance": [
+    "659",
+    "707",
+    "722",
+    "725",
+    "740",
+    "749",
+    "754",
+    "768"
+  ],
+  "barometre_rows": 1533,
+  "barometre_indicators": 35,
+  "barometre_missing_score_cells": 2029,
+  "nps_rows": 444,
+  "nps_missing_scores": 59,
+  "unique_alerts": 3691,
+  "alert_theme_rows": 6191,
+  "barometre_commercial_comparisons_ready": 1533,
+  "nps_commercial_comparisons_ready": 265,
+  "barometre_performance_status": {
+    "aligned": 1533
+  },
+  "nps_performance_status": {
+    "aligned": 295,
+    "period_mismatch": 97,
+    "missing_months": 52
+  },
+  "source_corrections": [
+    {
+      "source": "baro.xlsx",
+      "sheet": "Super",
+      "source_row": 1334,
+      "field": "Code Site / Magasin",
+      "old_value": "123 / SALA EL JADIDA (123)",
+      "new_value": "122 / SALA EL JADIDA",
+      "reason": "User confirmed 123 belongs to VALFLEURY and SALA row is a typo; 122 matches all other waves and NPS."
+    }
+  ],
+  "inputs": [
+    {
+      "file": "baro.xlsx",
+      "sha256": "088382e145ef33e43e206090086ced59f90201ed6a5d1362c80619b1af3e9a97"
+    },
+    {
+      "file": "nps.xlsx",
+      "sha256": "dd0518c9def6ac7d9070a2f2912193845245d30a480f518c52af229f308d0f9e"
+    },
+    {
+      "file": "monthly_performance.csv",
+      "sha256": "95cbc7007a3a294f20123ea44c091479a234a8d3943646dd2d52fba358151112"
+    },
+    {
+      "file": "outputs\\alertes_market_20261028\\alertes_market.xlsx",
+      "sha256": "ab35fe6beb77da29d9493e9a055dab819a01d8a452a2838f2076895d6f954135"
+    }
+  ]
+}

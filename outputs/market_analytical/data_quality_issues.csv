@@ -1,0 +1,209 @@
+﻿source,store_id,period_id,issue,details
+nps,744,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,7104,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,7104,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,765,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,707,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,746,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,746,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,668,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,742,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,725,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,734,2025-01-01_2025-06-30,missing_months,missing=2025-04|2025-05|2025-06; mismatch=
+nps,734,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,722,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,740,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,740,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,720,2025-01-01_2025-06-30,missing_months,missing=2025-04|2025-05|2025-06; mismatch=
+nps,727,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,659,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,659,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,766,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,768,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,752,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,769,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,7102,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,749,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,749,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,747,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,754,2025-01-01_2025-06-30,missing_months,missing=2025-01|2025-02|2025-03|2025-04|2025-05|2025-06; mismatch=
+nps,754,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,753,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,732,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,759,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,7110,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,736,2025-01-01_2025-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,744,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,7104,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,7104,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,765,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,707,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,746,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,746,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,668,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,742,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,725,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,734,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,734,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,722,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,722,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,740,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,740,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,720,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,720,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,727,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,659,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,659,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,766,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,768,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,752,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,769,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,7102,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,749,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,749,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,747,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,754,2025-07-01_2025-12-31,missing_months,missing=2025-07|2025-08|2025-09|2025-10|2025-11|2025-12; mismatch=
+nps,754,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,753,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,732,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,759,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,7110,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,736,2025-07-01_2025-12-31,survey_score_missing,Source score unavailable; retained as missing.
+nps,7104,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,7104,2026-01-01_2026-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,707,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,746,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,746,2026-01-01_2026-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,725,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,734,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,734,2026-01-01_2026-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,722,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,722,2026-01-01_2026-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,708,2026-01-01_2026-06-30,missing_months,missing=2026-06; mismatch=
+nps,740,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,720,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,720,2026-01-01_2026-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,659,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,659,2026-01-01_2026-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,768,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,7102,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,749,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,754,2026-01-01_2026-06-30,missing_months,missing=2026-01|2026-02|2026-03|2026-04|2026-05|2026-06; mismatch=
+nps,754,2026-01-01_2026-06-30,survey_score_missing,Source score unavailable; retained as missing.
+nps,716,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,167,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,667,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,150,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,127,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,135,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,7101,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,139,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,144,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,744,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,7104,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,7104,2026-07-01_2026-10-23,survey_score_missing,Source score unavailable; retained as missing.
+nps,113,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,145,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,765,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,707,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,709,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,746,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,746,2026-07-01_2026-10-23,survey_score_missing,Source score unavailable; retained as missing.
+nps,187,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,179,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,148,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,165,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,173,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,7103,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,668,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,177,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,158,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,742,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,186,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,661,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,652,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,713,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,114,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,140,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,725,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,734,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,734,2026-07-01_2026-10-23,survey_score_missing,Source score unavailable; retained as missing.
+nps,722,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,722,2026-07-01_2026-10-23,survey_score_missing,Source score unavailable; retained as missing.
+nps,171,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,704,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,708,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,740,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,720,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,117,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,174,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,118,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,196,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,727,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,108,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,703,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,659,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,659,2026-07-01_2026-10-23,survey_score_missing,Source score unavailable; retained as missing.
+nps,766,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,710,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,169,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,768,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,109,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,199,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,711,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,119,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,152,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,660,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,752,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,671,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,769,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,7102,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,115,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,120,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,191,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,653,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,192,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,749,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,714,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,669,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,110,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,162,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,156,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,747,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,754,2026-07-01_2026-10-23,missing_months,missing=2026-07|2026-08|2026-09|2026-10; mismatch=
+nps,754,2026-07-01_2026-10-23,survey_score_missing,Source score unavailable; retained as missing.
+nps,116,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,198,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,168,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,189,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,753,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,701,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,194,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,732,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,706,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,657,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,166,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,136,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,155,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,759,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,121,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,122,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,195,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,111,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,664,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,154,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,141,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,301,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,125,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,176,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,178,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,183,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,7110,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,123,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,106,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,670,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,736,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,130,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,143,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,780,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10
+nps,102,2026-07-01_2026-10-23,period_mismatch,missing=; mismatch=2026-10

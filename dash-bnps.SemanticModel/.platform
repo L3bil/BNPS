@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "dash-bnps"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "fcfc2dcf-dd6e-43f5-ac49-82a44dc4f7fa"
+  }
+}

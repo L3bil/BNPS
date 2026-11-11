@@ -1,0 +1,233 @@
+table Mensuel
+	lineageTag: 230ffc4a-edd2-4083-a6c1-52a65d44faca
+
+	measure 'Mois choisi' = SELECTEDVALUE(Periodes[Mois], "2026-08")
+		lineageTag: 0c74ced7-577e-4fd6-b33f-ac2a6abf67fe
+
+	measure 'Ordre choisi' = SELECTEDVALUE(Periodes[Ordre], 24320)
+		lineageTag: 72eb096f-c2cb-45f3-bf32-33f6a1167faf
+
+	measure 'CA du mois' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(SUM(Mensuel[CA]), Mensuel[Mois] = m))
+		formatString: #,0
+		lineageTag: 1f267435-4992-488c-84db-3ea48b4e65ac
+
+	measure Fréquentation = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(SUM(Mensuel[Tickets]), Mensuel[Mois] = m))
+		formatString: #,0
+		lineageTag: 78026df3-443d-47a7-aae5-ff71882da74d
+
+	measure 'Panier moyen' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(MAX(Mensuel[Panier]), Mensuel[Mois] = m))
+		formatString: #,0.00
+		lineageTag: eb3f7d41-ff61-4e1a-a255-aee2d2e17753
+
+	measure 'NPS du semestre' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(MAX(Mensuel[NPS]), Mensuel[Mois] = m))
+		formatString: 0.0
+		lineageTag: 5e0601b2-8420-49e3-8d45-a835457c522c
+
+	measure 'Score Baromètre' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(MAX(Mensuel[Barometre]), Mensuel[Mois] = m))
+		formatString: 0.0
+		lineageTag: 555f4d9a-3b9a-4668-9823-ea0865111100
+
+	measure 'Répondants NPS' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(MAX(Mensuel[Repondants]), Mensuel[Mois] = m))
+		formatString: #,0
+		lineageTag: 8a3ad176-5f35-4d94-8d83-9915b9bb1d3d
+
+	measure 'CA année précédente' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(SUM(Mensuel[CA_N1]), Mensuel[Mois] = m))
+		formatString: #,0
+		lineageTag: 17236c9d-378f-4ef3-b139-2eb745df763c
+
+	measure 'Tickets année précédente' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(SUM(Mensuel[Tickets_N1]), Mensuel[Mois] = m))
+		formatString: #,0
+		lineageTag: adeca76f-602c-4243-8e7c-1c3415d48cc8
+
+	measure 'Période NPS' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(SELECTEDVALUE(Mensuel[Periode_NPS]), Mensuel[Mois] = m), "Choisir un magasin")
+		lineageTag: 61d605ad-81fa-4fcc-95ef-f0eebe893d9d
+
+	measure 'Vague Baromètre' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(SELECTEDVALUE(Mensuel[Vague]), Mensuel[Mois] = m), "Choisir un magasin")
+		lineageTag: 859247de-0fdf-4a4c-aadd-2d2214c28754
+
+	measure 'Couverture du mois' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(SELECTEDVALUE(Mensuel[Couverture]), Mensuel[Mois] = m), "Choisir un magasin")
+		lineageTag: b859a5d5-1283-4ff0-adb0-a127f693c8ca
+
+	measure 'Évolution CA annuelle' = DIVIDE([CA du mois] - [CA année précédente], [CA année précédente])
+		formatString: +0.0%;-0.0%;0.0%
+		lineageTag: fd84e26e-bc24-4a1b-82c5-48d366dade0d
+
+	measure 'Évolution fréquentation annuelle' = DIVIDE([Fréquentation] - [Tickets année précédente], [Tickets année précédente])
+		formatString: +0.0%;-0.0%;0.0%
+		lineageTag: 31c9901c-6464-4c38-abdb-e08d1aa197ed
+
+	measure 'CA évolution' = VAR o = MAX(Mensuel[Ordre]) RETURN IF(HASONEVALUE(Magasins[Code]) && o <= [Ordre choisi] && o > [Ordre choisi] - 12, SUM(Mensuel[CA]))
+		formatString: #,0
+		lineageTag: 77b5ad6d-4630-437a-b818-8e93a108e03f
+
+	measure 'CA évolution N-1' = VAR o = MAX(Mensuel[Ordre]) RETURN IF(HASONEVALUE(Magasins[Code]) && o <= [Ordre choisi] && o > [Ordre choisi] - 12, SUM(Mensuel[CA_N1]))
+		formatString: #,0
+		lineageTag: f11015e3-b88e-44ab-9270-cfe38489597a
+
+	measure 'Fréquentation évolution' = VAR o = MAX(Mensuel[Ordre]) RETURN IF(HASONEVALUE(Magasins[Code]) && o <= [Ordre choisi] && o > [Ordre choisi] - 12, SUM(Mensuel[Tickets]))
+		formatString: #,0
+		lineageTag: ae675ba5-9062-4333-8160-14c8c3842e58
+
+	measure 'Fréquentation évolution N-1' = VAR o = MAX(Mensuel[Ordre]) RETURN IF(HASONEVALUE(Magasins[Code]) && o <= [Ordre choisi] && o > [Ordre choisi] - 12, SUM(Mensuel[Tickets_N1]))
+		formatString: #,0
+		lineageTag: 833681e4-ae76-43f9-9b3c-d9c222b01ff6
+
+	measure 'Mentions négatives' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(MAX(Themes[Negatives]), Themes[Mois] = m))
+		formatString: 0
+		lineageTag: 2712bb91-58e6-4cf5-a2e1-d56a8834dfa0
+
+	measure 'Mentions du thème' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(MAX(Themes[Mentions]), Themes[Mois] = m))
+		formatString: 0
+		lineageTag: 0c78874f-f0ad-4792-b76f-52ff7a7b6260
+
+	measure 'Base analysable' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(MAX(Themes[Analysables]), Themes[Mois] = m))
+		formatString: 0
+		lineageTag: 845eb6e3-eb8a-465f-840d-35742606027c
+
+	measure 'Part négative du thème' = DIVIDE([Mentions négatives], [Base analysable])
+		formatString: 0%
+		lineageTag: d7fa45e8-4b84-425e-ad87-2483887dc45d
+
+	measure 'Niveau du thème' = VAR n = [Mentions négatives] VAR p = [Part négative du thème] RETURN SWITCH(TRUE(), ISBLANK(n), BLANK(), n = 0, "Aucune mention négative", n < 3, "Isolé", p >= 0.5, "Prioritaire", "Récurrent")
+		lineageTag: 3e59fb9b-d8d7-4f25-9449-824ea892d39b
+
+	measure 'Couleur du thème' = SWITCH([Niveau du thème], "Prioritaire", "#DC3545", "Récurrent", "#F59E0B", "Isolé", "#FDE6BA", "#E6EDF5")
+		lineageTag: ea61b04a-1973-48ab-a64e-71c760546b84
+
+	measure 'Commentaire du mois' = IF(HASONEVALUE(Magasins[Code]) && SELECTEDVALUE(Verbatims[Mois]) = [Mois choisi], 1)
+		lineageTag: 22d1a3d2-5a2d-40ca-9196-33468e95829a
+
+	measure 'Titre de page' = "Expérience client & performance | " & SELECTEDVALUE(Magasins[Magasin], "Choisir un magasin")
+		lineageTag: 817c1581-c425-46ba-ad5d-ab2c0a681022
+
+	measure 'Détail NPS' = [Période NPS] & " · " & IF(ISBLANK([Répondants NPS]), "effectif indisponible", FORMAT([Répondants NPS], "0") & " réponses")
+		lineageTag: d745344d-96d3-4bf7-bafa-7a674a4c4eb6
+
+	measure 'Détail CA' = IF(ISBLANK([Évolution CA annuelle]), "Comparaison annuelle indisponible", FORMAT([Évolution CA annuelle], "+0.0%;-0.0%;0.0%") & " vs même mois N-1")
+		lineageTag: 94dfd028-be97-4184-afa7-fa3d5cac04eb
+
+	measure 'Détail fréquentation' = IF(ISBLANK([Évolution fréquentation annuelle]), "Comparaison annuelle indisponible", FORMAT([Évolution fréquentation annuelle], "+0.0%;-0.0%;0.0%") & " vs même mois N-1")
+		lineageTag: 8fba6f5c-62bb-4bc2-bbc3-c8355ef93e31
+
+	measure 'Détail panier' = "CA / nombre de tickets"
+		lineageTag: 35d99ad7-5109-4efc-b4e7-7da85e31007b
+
+	measure 'Commentaires du mois' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(DISTINCTCOUNT(Verbatims[Identifiant]), Verbatims[Mois] = m))
+		formatString: 0
+		lineageTag: 1db5b3d2-8ffd-45c7-aeb6-9e1a33da2c32
+
+	measure 'Commentaires analysables' = VAR m = [Mois choisi] RETURN IF(HASONEVALUE(Magasins[Code]), CALCULATE(DISTINCTCOUNT(Verbatims[Identifiant]), Verbatims[Mois] = m, Verbatims[Sentiment] <> "Non analysable"))
+		formatString: 0
+		lineageTag: 10c3d6a7-8af6-42a3-ba01-b365d90a9754
+
+	measure 'Commentaires négatifs' = VAR m = [Mois choisi] RETURN IF(NOT ISBLANK([Commentaires analysables]), COALESCE(CALCULATE(DISTINCTCOUNT(Verbatims[Identifiant]), Verbatims[Mois] = m, Verbatims[Sentiment] = "Négatif"), 0))
+		formatString: 0
+		lineageTag: 6d195776-7d97-42fb-8562-a4514f6fc8b8
+
+	measure 'Part verbatims négatifs' = DIVIDE([Commentaires négatifs], [Commentaires analysables])
+		formatString: 0.0%
+		lineageTag: ef83713c-7399-4397-84a0-1a44afe65efa
+
+	measure 'Détail verbatims' = IF(NOT HASONEVALUE(Magasins[Code]), "Choisir un magasin", IF(ISBLANK([Commentaires du mois]), "Aucun commentaire disponible", FORMAT([Commentaires négatifs], "0") & "/" & FORMAT([Commentaires analysables], "0") & " analysables · " & FORMAT([Commentaires du mois], "0") & " commentaires"))
+		lineageTag: 68f49c1a-1cb4-4a61-aae5-8aa5949cf9de
+
+	column Code
+		dataType: string
+		lineageTag: cf942335-ebcd-48f4-8207-6bd54fbeb81e
+		summarizeBy: none
+		sourceColumn: Code
+
+	column Mois
+		dataType: string
+		lineageTag: 0564f93d-66a1-4dae-b570-40389917feb4
+		summarizeBy: none
+		sourceColumn: Mois
+
+	column Ordre
+		dataType: int64
+		lineageTag: b9b5e138-2353-4d0a-abee-4a7103c31151
+		summarizeBy: none
+		sourceColumn: Ordre
+
+	column CA
+		dataType: double
+		lineageTag: 6add54dd-d372-435a-971e-ad8f0d69223b
+		summarizeBy: none
+		sourceColumn: CA
+
+	column Tickets
+		dataType: double
+		lineageTag: e84e778b-0c79-4a20-b1e4-137f8eb41fac
+		summarizeBy: none
+		sourceColumn: Tickets
+
+	column Panier
+		dataType: double
+		lineageTag: 9db34963-267d-4848-90cd-a9228a2872eb
+		summarizeBy: none
+		sourceColumn: Panier
+
+	column CA_N1
+		dataType: double
+		lineageTag: 01101efb-a700-4bba-ac6c-17407a99d3b6
+		summarizeBy: none
+		sourceColumn: CA_N1
+
+	column Tickets_N1
+		dataType: double
+		lineageTag: 554cb88b-625f-49f3-a5c7-33a95eedb41d
+		summarizeBy: none
+		sourceColumn: Tickets_N1
+
+	column NPS
+		dataType: double
+		lineageTag: e4dcb767-5097-4f26-a005-e302f4f44cf9
+		summarizeBy: none
+		sourceColumn: NPS
+
+	column Repondants
+		dataType: double
+		lineageTag: f1bd2668-bd56-4dde-bff8-7118d7fc205e
+		summarizeBy: none
+		sourceColumn: Repondants
+
+	column Periode_NPS
+		dataType: string
+		lineageTag: 28fd26ce-64bb-4fd1-9dd0-c8e9ce02ff7c
+		summarizeBy: none
+		sourceColumn: Periode_NPS
+
+	column Barometre
+		dataType: double
+		lineageTag: 53725f64-d8c1-4ec3-8b70-42167b4fad2a
+		summarizeBy: none
+		sourceColumn: Barometre
+
+	column Vague
+		dataType: string
+		lineageTag: 243b8fd6-5e94-4e21-8018-82e0b4a97cf6
+		summarizeBy: none
+		sourceColumn: Vague
+
+	column Couverture
+		dataType: string
+		lineageTag: 02ee489c-58a4-403c-9322-3758e52cbe45
+		summarizeBy: none
+		sourceColumn: Couverture
+
+	column Perimetre_alertes
+		dataType: boolean
+		lineageTag: b8e81f7d-0cd0-44a8-8d19-3ae35086e366
+		summarizeBy: none
+		sourceColumn: Perimetre_alertes
+
+	partition Mensuel = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:/Users/abdellah.ngar/Desktop/BNPS/outputs/powerbi/Mensuel.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Entetes = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Types = Table.TransformColumnTypes(Entetes, {{"Code", type text}, {"Mois", type text}, {"Ordre", Int64.Type}, {"CA", type number}, {"Tickets", type number}, {"Panier", type number}, {"CA_N1", type number}, {"Tickets_N1", type number}, {"NPS", type number}, {"Repondants", type number}, {"Periode_NPS", type text}, {"Barometre", type number}, {"Vague", type text}, {"Couverture", type text}, {"Perimetre_alertes", type logical}}, "en-US")
+				in
+				    Types
+

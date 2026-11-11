@@ -1,0 +1,12 @@
+relationship ee7e1dee-f79f-5b49-80ed-e656f854cc91
+	fromColumn: Mensuel.Code
+	toColumn: Magasins.Code
+
+relationship 28560f58-9b3b-5d94-a512-2b6a42ac2723
+	fromColumn: Themes.Code
+	toColumn: Magasins.Code
+
+relationship 707b687d-6ca1-59fc-9b82-fd46f06f7c6e
+	fromColumn: Verbatims.Code
+	toColumn: Magasins.Code
+

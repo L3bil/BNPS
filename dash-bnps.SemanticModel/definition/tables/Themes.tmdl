@@ -1,0 +1,49 @@
+table Themes
+	lineageTag: e4b47273-99e8-41f9-b54a-ef5304450a32
+
+	column Code
+		dataType: string
+		lineageTag: e1f3876b-3eb0-4fd6-a6bf-524dbb0cd645
+		summarizeBy: none
+		sourceColumn: Code
+
+	column Mois
+		dataType: string
+		lineageTag: 230eba46-047d-4678-9528-1926ae13bffa
+		summarizeBy: none
+		sourceColumn: Mois
+
+	column Theme
+		dataType: string
+		lineageTag: 53e2beb1-b7b9-49ac-ad31-c60c555d9f98
+		summarizeBy: none
+		sourceColumn: Theme
+
+	column Mentions
+		dataType: int64
+		lineageTag: b02d6b73-dd30-4c0a-875e-f007608d8ab4
+		summarizeBy: none
+		sourceColumn: Mentions
+
+	column Negatives
+		dataType: int64
+		lineageTag: a405d6b3-f5f6-4ded-b839-0781a673482f
+		summarizeBy: none
+		sourceColumn: Negatives
+
+	column Analysables
+		dataType: int64
+		lineageTag: c2316fec-58ed-4bde-9c9e-3a43691b9cdb
+		summarizeBy: none
+		sourceColumn: Analysables
+
+	partition Themes = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:/Users/abdellah.ngar/Desktop/BNPS/outputs/powerbi/Themes.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Entetes = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Types = Table.TransformColumnTypes(Entetes, {{"Code", type text}, {"Mois", type text}, {"Theme", type text}, {"Mentions", Int64.Type}, {"Negatives", Int64.Type}, {"Analysables", Int64.Type}}, "en-US")
+				in
+				    Types
+

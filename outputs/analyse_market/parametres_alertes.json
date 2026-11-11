@@ -1,0 +1,15 @@
+{
+  "baisse_barometre_points": 15,
+  "baisse_nps_points": 10,
+  "reponses_nps_minimum": 30,
+  "baisse_frequentation_pourcent": 5,
+  "fenetre_recente_jours": 28,
+  "reference_jours": 56,
+  "mentions_negatives_minimum": 3,
+  "verbatims_analysables_recents_minimum": 5,
+  "verbatims_analysables_reference_minimum": 10,
+  "hausse_part_points": 15,
+  "multiplicateur_part": 2,
+  "date_limite_verbatims": "2026-10-23",
+  "date_limite_transactions": "2026-10-26"
+}
