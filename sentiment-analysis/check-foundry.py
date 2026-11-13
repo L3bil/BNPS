@@ -17,7 +17,11 @@ from langchain_core.messages import SystemMessage, HumanMessage
 
 load_dotenv()
 
+<<<<<<< HEAD
 BASE_URL = "" # os.environ["SC_APIM_BASE_URL"].rstrip("/")
+=======
+BASE_URL = "https://lbv-apim-llm-dev.azure-api.net/livia-dev-resource/openai/v1" # os.environ["SC_APIM_BASE_URL"].rstrip("/")
+>>>>>>> b83255c (removed api keys)
 API_KEY = "" # os.environ["SC_APIM_KEY"]
 
 # Must match the deployment name exposed by your APIM gateway.
